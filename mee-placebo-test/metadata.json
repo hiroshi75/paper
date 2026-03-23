@@ -30,5 +30,6 @@
     "WorldClim"
   ],
   "prompt_strategy": "autonomous research cycle with systematic bias detection through placebo testing",
-  "novelty_statement": "First formalization of the 'placebo test' framework for detecting observer bias in citizen science macroecological analyses, demonstrated through 6 case studies spanning 3 platforms, 4 taxonomic groups, and 3 analysis types, with quantitative effect-size ratio guidelines."
+  "novelty_statement": "First formalization of the 'placebo test' framework for detecting observer bias in citizen science macroecological analyses, demonstrated through 6 case studies spanning 3 platforms, 4 taxonomic groups, and 3 analysis types, with quantitative effect-size ratio guidelines.",
+  "aaes_version": "4.0"
 }
