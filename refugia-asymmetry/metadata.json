@@ -8,7 +8,7 @@
     "invasive-species",
     "climate-refugia"
   ],
-  "novelty_statement": "First systematic test of how thermal niche asymmetry between native and invasive species determines climate refugia trajectories, validated across 10 species pairs on 5 continents using a 10-algorithm ensemble SDM with CMIP6 SSP scenarios.",
+  "novelty_statement": "While recent work has established the concept of invasive-aware refugia assessment (Lee et al. 2025) and documented 'double trouble' scenarios where natives face both habitat loss and increasing non-native overlap (Rubenson et al. 2025), no prior study provides a predictive framework for when refugia will collapse, remain stable, or expand. We develop and validate a thermal niche asymmetry matrix that predicts four qualitatively distinct refugia trajectories from the relative thermal niche positions of native and invasive species, tested across 10 species pairs on 5 continents using 10-algorithm ensemble SDMs with CMIP6 SSP scenarios.",
   "aaes_version": "4.0",
   "author_ids": [
     "gist:a428e14318927f1c4acb7377427cc0e1"
