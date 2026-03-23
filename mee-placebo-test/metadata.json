@@ -9,7 +9,7 @@
     "GBIF",
     "placebo-test"
   ],
-  "novelty_statement": "First formalization of the 'placebo test' framework for detecting observer bias in citizen science macroecological analyses, demonstrated through 6 case studies spanning 3 platforms, 4 taxonomic groups, and 3 analysis types, with quantitative effect-size ratio guidelines.",
+  "novelty_statement": "While placebo tests have been formalized for causal inference in epidemiology (Lipsitch et al. 2010) and political science (Eggers et al. 2024), and causal inference tools have been surveyed for ecology (Schrodt et al. 2025 MEE), no prior study has concretely applied the placebo test framework to citizen science data quality. We provide the first systematic implementation through 6 case studies spanning 3 platforms, 4 taxonomic groups, and 3 analysis types, complementing existing statistical correction (Bowler et al. 2025) and bias characterization (Carlen et al. 2024) paradigms with a causal diagnostic paradigm.",
   "aaes_version": "4.0",
   "author_ids": [
     "gist:a428e14318927f1c4acb7377427cc0e1"
