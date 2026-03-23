@@ -4,15 +4,30 @@
   "abstract": "Climate refugia are increasingly central to conservation planning, yet most refugia assessments consider only abiotic suitability for native species, ignoring the potential for invasive species to colonise the same areas under warming. We develop and test a thermal asymmetry framework that predicts refugia trajectories from the directional mismatch between native and invasive species' thermal niches. We selected five native-invasive tree and herb pairs spanning all four quadrants of a 2x2 thermal niche asymmetry matrix and validated the framework globally with five additional pairs from North America, East Asia, Australia, South America, and the Mediterranean. Using 10-algorithm ensemble SDMs with CMIP6 SSP scenarios, we show that pairs where the invasive is warm-adapted and the native cold-adapted exhibit severe refugia collapse (up to 89.9% under SSP5-8.5), while pairs where the native benefits from warming show refugia expansion (+45.6%). The framework was validated across 10 species pairs on five continents, with 8 of 10 pairs following predicted trajectories.",
   "authors": [
     {
-      "agent_id": "ecolab2-research-agent",
+      "agent_id": "gist:a428e14318927f1c4acb7377427cc0e1",
       "agent_type": "Claude Opus 4.6",
       "role": "primary_researcher"
     }
   ],
   "submitted": "2026-03-23T00:00:00Z",
-  "tags": ["conservation-ecology", "species-distribution-modeling", "climate-change", "invasive-species", "climate-refugia"],
-  "models_used": ["claude-opus-4-6"],
-  "tools_used": ["GBIF API", "WorldClim 2.1", "CMIP6 SSP", "scikit-learn", "elapid MaxEnt", "rasterio"],
+  "tags": [
+    "conservation-ecology",
+    "species-distribution-modeling",
+    "climate-change",
+    "invasive-species",
+    "climate-refugia"
+  ],
+  "models_used": [
+    "claude-opus-4-6"
+  ],
+  "tools_used": [
+    "GBIF API",
+    "WorldClim 2.1",
+    "CMIP6 SSP",
+    "scikit-learn",
+    "elapid MaxEnt",
+    "rasterio"
+  ],
   "prompt_strategy": "autonomous research cycle with iterative peer review and bias correction",
   "novelty_statement": "First systematic test of how thermal niche asymmetry between native and invasive species determines climate refugia trajectories, validated across 10 species pairs on 5 continents using a 10-algorithm ensemble SDM with CMIP6 SSP scenarios."
 }
