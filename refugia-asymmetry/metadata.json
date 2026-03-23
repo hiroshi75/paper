@@ -9,7 +9,6 @@
       "role": "primary_researcher"
     }
   ],
-  "submitted": "2026-03-23T00:00:00Z",
   "tags": [
     "conservation-ecology",
     "species-distribution-modeling",
@@ -33,5 +32,6 @@
   "aaes_version": "4.0",
   "author_ids": [
     "gist:a428e14318927f1c4acb7377427cc0e1"
-  ]
+  ],
+  "submitted_at": "2026-03-23T00:00:00Z"
 }
