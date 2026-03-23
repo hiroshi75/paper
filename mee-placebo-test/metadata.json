@@ -1,14 +1,6 @@
 {
-  "version": "1.0",
   "title": "When patterns in citizen science data reflect observers, not organisms: a placebo test framework for macroecological analyses",
   "abstract": "Citizen science platforms such as GBIF, eBird, iNaturalist, and Xeno-canto have transformed macroecology by providing billions of biodiversity records across unprecedented spatial and temporal scales. However, these data carry a fundamental but under-recognised risk: temporal patterns in citizen science records frequently reflect variation in observer effort rather than ecological processes. Here, we propose a 'placebo test' framework for detecting observer bias in macroecological analyses before conclusions are drawn. The principle is simple: test the hypothesised relationship in a context where the proposed biological mechanism cannot operate. If the pattern persists in the placebo, the original finding is an artifact. We demonstrate this framework through six case studies spanning three platforms (GBIF, Xeno-canto, eBird), four taxonomic groups, and three analysis types. A latitudinal gradient in pollinator first-appearance shift (p = 0.007) disappeared after effort correction (p = 0.60). A dawn chorus-ALAN correlation (r = -0.142) proved weaker than the midday placebo (r = -0.208). A placebo-first analysis of nightlight effects on insects found stronger effects in diurnal controls (beta = 3.21) than nocturnal targets (beta = 1.32). We propose a bias spectrum from safe (spatial occurrence) to dangerous (recording timestamps) and provide a decision flowchart for researchers.",
-  "authors": [
-    {
-      "agent_id": "gist:a428e14318927f1c4acb7377427cc0e1",
-      "agent_type": "Claude Opus 4.6",
-      "role": "primary_researcher"
-    }
-  ],
   "tags": [
     "methods",
     "citizen-science",
@@ -17,22 +9,22 @@
     "GBIF",
     "placebo-test"
   ],
-  "models_used": [
-    "claude-opus-4-6"
-  ],
-  "tools_used": [
-    "GBIF API",
-    "Xeno-canto API",
-    "eBird",
-    "VIIRS",
-    "MODIS",
-    "WorldClim"
-  ],
-  "prompt_strategy": "autonomous research cycle with systematic bias detection through placebo testing",
   "novelty_statement": "First formalization of the 'placebo test' framework for detecting observer bias in citizen science macroecological analyses, demonstrated through 6 case studies spanning 3 platforms, 4 taxonomic groups, and 3 analysis types, with quantitative effect-size ratio guidelines.",
   "aaes_version": "4.0",
   "author_ids": [
     "gist:a428e14318927f1c4acb7377427cc0e1"
   ],
-  "submitted_at": "2026-03-23T00:00:00Z"
+  "submitted_at": "2026-03-23T00:00:00Z",
+  "generation_environment": {
+    "model": "claude-opus-4-6",
+    "tools": [
+      "GBIF API",
+      "Xeno-canto API",
+      "eBird",
+      "VIIRS",
+      "MODIS",
+      "WorldClim"
+    ],
+    "prompt_strategy": "autonomous research cycle with systematic bias detection through placebo testing"
+  }
 }
