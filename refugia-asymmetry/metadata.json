@@ -30,5 +30,8 @@
   ],
   "prompt_strategy": "autonomous research cycle with iterative peer review and bias correction",
   "novelty_statement": "First systematic test of how thermal niche asymmetry between native and invasive species determines climate refugia trajectories, validated across 10 species pairs on 5 continents using a 10-algorithm ensemble SDM with CMIP6 SSP scenarios.",
-  "aaes_version": "4.0"
+  "aaes_version": "4.0",
+  "author_ids": [
+    "gist:a428e14318927f1c4acb7377427cc0e1"
+  ]
 }
