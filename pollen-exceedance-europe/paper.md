@@ -13,9 +13,9 @@ Bray-Curtis dissimilarity from pre-anthropogenic baselines is increasingly used 
 
 ---
 
-## 1. Introduction
+## Introduction
 
-### 1.1 Pollen dissimilarity as a human impact proxy: the detection versus attribution problem
+### 1 Pollen dissimilarity as a human impact proxy: the detection versus attribution problem
 
 Quantitative pollen analysis has become the primary tool for detecting the onset of human impact on terrestrial vegetation at continental scales (Roberts et al., 2018; Mottl et al., 2021; Nogué et al., 2025). A growing body of work employs compositional dissimilarity metrics — most commonly Bray-Curtis dissimilarity — to identify the moment when vegetation composition departs significantly from a pre-anthropogenic baseline. Gordon et al. (2024, 2026) formalized this approach as "signal phase detection" and demonstrated its applicability across large site networks, where detected signals can be compared against archaeological chronologies to evaluate anthropogenic influence. The appeal is clear: it provides a standardized, quantitative criterion for "when did vegetation change?" that can be applied uniformly across hundreds of sites.
 
@@ -23,7 +23,7 @@ Yet the interpretation of these signals rests on an assumption that is rarely te
 
 Previous studies have addressed the attribution problem in several ways. The most common approach relies on the presence or absence of specific indicator taxa — particularly Cerealia-type pollen — as evidence of arable agriculture (Behre, 1981; Fyfe et al., 2015). However, Cerealia-type grains are difficult to distinguish from wild grass pollen below approximately 40 μm, and their sporadic occurrence in Mesolithic-age sediments has generated persistent debate. Rate-of-change analyses (Mottl et al., 2021) identify periods of anomalous vegetation turnover but do not distinguish human from natural forcing. Land-cover reconstruction approaches (Fyfe et al., 2015; Roberts et al., 2018; Trondman et al., 2015) provide spatial patterns of deforestation but require calibration assumptions that embed interpretive choices. Pollen-based land-cover models such as REVEALS (Sugita, 2007; Gaillard et al., 2010) and quantitative land-cover reconstructions (Marquer et al., 2017) offer improved quantitative estimates but depend on taxon-specific pollen productivity estimates that may introduce their own biases. None of these approaches formally tests competing causal hypotheses against a common evidentiary standard, and none asks the prior question: is the detected signal anthropogenic at all?
 
-### 1.2 Competing hypotheses
+### 2 Competing hypotheses
 
 We consider four hypotheses for the compositional change detected by Bray-Curtis dissimilarity in mid-Holocene European pollen records:
 
@@ -35,7 +35,7 @@ We consider four hypotheses for the compositional change detected by Bray-Curtis
 
 **H4: Elm disease.** The signal reflects the mid-Holocene elm decline (~5,800–5,500 cal BP). Under this hypothesis, the signal should not survive the exclusion of *Ulmus* from pollen assemblages.
 
-### 1.3 The exceedance distinction: presence versus anomalous increase
+### 3 The exceedance distinction: presence versus anomalous increase
 
 A central methodological insight motivates this study. Many pastoral indicator taxa — *Plantago lanceolata*, *Rumex*, Poaceae (excluding Cerealia-type), *Potentilla*-type, *Ranunculus*-type — are native components of European flora that have been present in pollen records throughout the Holocene. Their *first appearance* in a pollen record is therefore uninformative about human activity: it reflects the taxon's natural range and local establishment history, not the onset of pastoral land use. Similarly, the observation that pastoral taxa appear in pollen records before Cerealia-type pollen (an introduced crop absent from European flora until the Neolithic) is trivially expected under any ecological model: native species are present before introduced species. A generalist-specialist null model confirms this prediction: under random timing of first appearances constrained only by native versus introduced status, >95% of sites should show pastoral taxa appearing before Cerealia, regardless of human activity (Section 2.8).
 
@@ -43,19 +43,19 @@ What *is* informative is when pastoral taxa *exceed* their pre-anthropogenic bas
 
 This distinction — between *presence* (uninformative) and *exceedance* (informative) — is the key methodological contribution of this study. All subsequent analyses are framed in terms of exceedance, and we explicitly demonstrate that first-appearance ordering carries no diagnostic weight.
 
-### 1.4 The intensification question
+### 4 The intensification question
 
 A subtler question concerns what, precisely, the pollen signal detects even where anthropogenic influence is confirmed. The earliest Neolithic communities in Europe — Linearbandkeramik (LBK) settlements in Central Europe from ~7,500 cal BP, Early Neolithic in Britain from ~6,000 cal BP, Funnel Beaker in Scandinavia from ~5,800 cal BP — practiced small-scale, integrated mixed farming that may have been too localized to alter regional pollen assemblages (Bogaard, 2004, 2005). Archaeobotanical evidence from LBK sites consistently shows that cereals, pulses, and livestock husbandry were practiced together from the outset (Bogaard, 2004; Kreuz, 2012), making it unlikely that pastoral and arable activities were temporally separated in reality. If so, the pollen-based temporal ordering may reflect *differential detection* — the point at which each type of activity becomes sufficiently extensive to register in regional pollen deposition — rather than a genuine economic sequence. This distinction has direct implications for how pollen-based "impact onset" dates are interpreted in relation to archaeological chronologies and for the relationship between our findings and the Secondary Products Revolution debate (Sherratt, 1981; Greenfield, 2010).
 
-### 1.5 Study aims
+### 5 Study aims
 
 This study combines signal detection with functional decomposition and exceedance-based classification in a five-step protocol applied to 331 European pollen records: (1) standardized Bray-Curtis signal detection; (2) decomposition of detected signals by taxon functional group; (3) exceedance-based classification of sites as anthropogenic (H1: pastoral exceedance detected) or natural (H3: no pastoral exceedance); (4) exceedance-based temporal ordering to determine which functional group shows anomalous increases first; (5) independent temporal tests relating pastoral signal strength to distance from Neolithic arrival, treated as a continuous variable; and (6) comprehensive robustness evaluation including a generalist-specialist null model, a strict pastoral index, *Plantago* exclusion test, and pollen dispersal bias assessment. The central question is not "which taxon appears first?" but "which functional group exceeds its pre-anthropogenic baseline first, and does that exceedance discriminate anthropogenic from natural vegetation change?"
 
 ---
 
-## 2. Materials and Methods
+## Methodology
 
-### 2.1 Pollen data
+### 1 Pollen data
 
 Pollen records were obtained from the Neotoma Paleoecology Database (Williams et al., 2018) using the `neotoma2` R package. Three European regions were selected for their dense pollen record coverage and well-characterized Neolithic chronologies: Central Europe (approximately 45–55°N, 5–20°E; Germany, Austria, Switzerland, Czech Republic, Poland, France), the British Isles (approximately 50–60°N, 10°W–2°E; England, Wales, Scotland, Ireland), and Scandinavia (approximately 55–72°N, 5–30°E; Denmark, Sweden, Norway, Finland, and the Baltic states).
 
@@ -69,7 +69,7 @@ Sites were selected from Neotoma using the following quality filters: (a) at lea
 | British Isles | 61 | ~6,000 | Early Neolithic |
 | Scandinavia | 207 | ~5,800 | Funnel Beaker |
 
-### 2.2 Bray-Curtis signal detection
+### 2 Bray-Curtis signal detection
 
 For each site, the signal detection protocol followed Gordon et al. (2024, 2026) with standardized parameters:
 
@@ -81,7 +81,7 @@ For each site, the signal detection protocol followed Gordon et al. (2024, 2026)
 
 **Signal onset.** The onset date was defined as the age of the first sample exceeding the threshold that was followed by at least one additional exceedance within 1,000 years, excluding transient excursions.
 
-### 2.3 Functional decomposition
+### 3 Functional decomposition
 
 For each site with a detected signal, Bray-Curtis dissimilarity was decomposed into the contribution of each taxon following the standard identity:
 
@@ -97,7 +97,7 @@ where the contribution of taxon *i* is (1/2) × |p_i,baseline − p_i,post|. Tax
 
 The proportional contribution of each category to total Bray-Curtis dissimilarity (hereafter "BC%") was calculated for each site. Uncertainty in mean category contributions was quantified using nonparametric bootstrap resampling (10,000 iterations, resampling sites with replacement within each region), yielding 95% percentile confidence intervals.
 
-### 2.4 Exceedance-based classification
+### 4 Exceedance-based classification
 
 For each site, composite indices were calculated:
 
@@ -114,11 +114,11 @@ For each index, the *exceedance age* was defined as the earliest post-baseline s
 
 This classification is explicitly distinct from first-appearance-based approaches. At H3 sites, pastoral taxa are *present* — they are native species — but they never reach anomalous abundance. The exceedance threshold is what distinguishes sites where pastoral indicators reflect anthropogenic disturbance from sites where they reflect natural background presence.
 
-### 2.5 Exceedance ordering
+### 5 Exceedance ordering
 
 Among H1 sites, the temporal ordering of exceedance events was determined: which functional index exceeded its baseline threshold first? The proportion of sites where the Pastoral Index exceedance preceded the Arable Index exceedance was tested against a 1/3 null (equal probability of any index leading) using a binomial test. This exceedance-based ordering is fundamentally different from first-appearance ordering (Section 2.8) and provides information about the *sequence of anomalous changes* rather than the trivial sequence of *first occurrences*.
 
-### 2.6 Independent temporal test: pastoral gradient as continuous variable
+### 6 Independent temporal test: pastoral gradient as continuous variable
 
 To test whether the pastoral signal tracks Neolithic arrival or later agricultural intensification, we used three independent approaches, all treating pastoral contribution as a continuous variable rather than imposing a binary classification:
 
@@ -128,11 +128,11 @@ To test whether the pastoral signal tracks Neolithic arrival or later agricultur
 
 **Pastoral exceedance lag.** For each site, the age at which the strict pastoral index first exceeded its baseline threshold was compared to the regional Neolithic arrival date, and the lag (pastoral exceedance age − Neolithic arrival) was calculated.
 
-### 2.7 Strict pastoral index
+### 7 Strict pastoral index
 
 Because *Calluna vulgaris*, *Pteridium*, and Ericaceae can expand naturally on acidic soils following forest decline, particularly in Atlantic heathland environments, a strict pastoral index was defined excluding these taxa. The strict index retained *Plantago lanceolata*, *Plantago* undiff., *Rumex*, Poaceae (excl. Cerealia-type), *Potentilla*-type, and *Ranunculus*-type. This index was used to evaluate whether pre-Neolithic pastoral exceedances — potentially reflecting natural heathland expansion rather than human activity — persist after removing taxa with ambiguous indicator status.
 
-### 2.8 Generalist-specialist null model
+### 8 Generalist-specialist null model
 
 To quantify the information content of first-appearance versus exceedance metrics, we constructed a generalist-specialist null model. Pastoral indicator taxa (*Plantago*, *Rumex*, Poaceae, *Potentilla*, *Ranunculus*) are native European species present in pollen records since at least ~9,400 cal BP. Cerealia-type pollen, representing introduced crops, does not appear before the Neolithic (~7,500 cal BP in Central Europe, ~6,000 cal BP in the British Isles, ~5,800 cal BP in Scandinavia). Under any ecological model — with or without human influence — the probability that at least one native pastoral taxon has its *first appearance* before an introduced crop is >95%, simply because native species have had thousands of additional years to colonize and be recorded.
 
@@ -140,7 +140,7 @@ The null model was implemented by generating 10,000 randomized first-appearance 
 
 By contrast, the exceedance metric has no such trivial prediction. The null expectation for exceedance at sites where vegetation change is driven by natural processes (H3 sites) is zero: pastoral taxa may be present but should not show anomalous increases. Testing this prediction against the observed data provides the informative comparison.
 
-### 2.9 Robustness analyses
+### 9 Robustness analyses
 
 **Threshold sensitivity.** Signal detection and temporal ordering were repeated at 1.5, 2.0, 2.5, and 3.0 SD thresholds. Full results are presented in Table 9 (Section 3.3.1).
 
@@ -160,15 +160,15 @@ By contrast, the exceedance metric has no such trivial prediction. The null expe
 
 **Dispersal bias assessment.** The observed median lag between *Plantago* first appearance and Cerealia first appearance was compared against published estimates of pollen dispersal and representation biases. REVEALS-based modeling (Sugita, 2007; Gaillard et al., 2010) and simulation studies (Bunting et al., 2004) suggest representation lags of 200–500 years. The proportion of sites where Cerealia appears before *Plantago* was calculated as a diagnostic: under a pure dispersal-artifact hypothesis, this proportion should be negligible.
 
-### 2.10 Statistical framework
+### 10 Statistical framework
 
 Temporal ordering was assessed using binomial tests (proportion of sites where the Pastoral Index exceedance leads vs. 1/3 null). The relationship between pastoral contribution and distance from Neolithic arrival was tested using Spearman rank correlation, Mann-Whitney U tests, and linear mixed-effects models (LMM) with region as random intercept, implemented in the lme4 R package (Bates et al., 2015). LMM results are reported with Satterthwaite degrees of freedom (lmerTest package). Heterogeneity across regions was quantified using a random-effects meta-analysis (metafor package; Viechtbauer, 2010), with I² reported to assess between-region consistency. Bootstrap confidence intervals (95%, percentile method, 10,000 iterations) were computed for all reported proportions. Power analysis for magnitude comparisons was conducted using the pwr R package. All analyses were conducted in R (version 4.3.x) using the `vegan`, `neotoma2`, `spdep`, `lme4`, `lmerTest`, `metafor`, and `pwr` packages. R scripts for all analyses are provided as Supplementary Material.
 
 ---
 
-## 3. Results
+## Results
 
-### 3.1 Signal detection
+### 1 Signal detection
 
 Of 331 pollen sites analyzed, 295 (89%) exhibited a detectable vegetation signal at the 2.0 SD threshold (Table 2). Detection rates ranged from 87% (British Isles, Scandinavia) to 97% (Central Europe).
 
@@ -183,7 +183,7 @@ Of 331 pollen sites analyzed, 295 (89%) exhibited a detectable vegetation signal
 
 Median onset dates followed a northwest gradient (Kruskal-Wallis H = 42.7, p < 0.001; all pairwise comparisons p < 0.01, Dunn's test with Bonferroni correction), broadly consistent with the known spatiotemporal pattern of Neolithic expansion across Europe.
 
-### 3.2 Tree dominance of Bray-Curtis dissimilarity
+### 2 Tree dominance of Bray-Curtis dissimilarity
 
 Taxon-level decomposition reveals that the Bray-Curtis signal is overwhelmingly composed of tree taxa (Table 3). Climate-sensitive trees (*Corylus*, *Betula*, *Pinus*, *Ulmus*) contribute 34–57% of total dissimilarity depending on the region, and succession trees (*Quercus*, *Alnus*, *Tilia*, *Fraxinus*, *Fagus*) contribute an additional 10–14%.
 
@@ -201,7 +201,7 @@ Pastoral and arable indicators together account for only 1–7%, with Scandinavi
 
 The implication is fundamental: the Bray-Curtis dissimilarity signal is a signal of *tree compositional change*, not a direct signal of human activity. The detected "vegetation change" is dominated by shifts among tree taxa, with pastoral and arable indicators forming a minor component. This tree dominance is why magnitude alone cannot distinguish anthropogenic from natural vegetation change: both climate-driven and human-driven processes produce tree compositional shifts of comparable scale.
 
-### 3.3 Exceedance-based classification: pastoral exceedance as anthropogenic discriminator
+### 3 Exceedance-based classification: pastoral exceedance as anthropogenic discriminator
 
 Of 283 sites evaluable for exceedance classification (sites with sufficient baseline samples), 246 (87%) showed pastoral index exceedance (H1 classification) and 37 (13%) did not (H3 classification) (Table 4).
 
@@ -241,7 +241,7 @@ To evaluate the dependence of the H1/H3 classification on the choice of exceedan
 
 The proportion of sites classified as H1 decreases monotonically with increasing threshold stringency (from 65–75% at 1.5 SD to 48–57% at 3.0 SD), as expected. However, the pastoral-first ordering among H1 sites remains consistently above 58% at all thresholds and in all regions. In the British Isles, the pastoral-first proportion is remarkably stable (83–86%) across all four thresholds, indicating that the temporal ordering finding is insensitive to threshold choice. The 2.0 SD threshold adopted as the primary analysis represents a balanced trade-off between sensitivity and specificity.
 
-### 3.4 Exceedance ordering: pastoral exceedance precedes arable exceedance
+### 4 Exceedance ordering: pastoral exceedance precedes arable exceedance
 
 Among H1 sites where both pastoral and arable exceedance ages could be determined, the pastoral index exceeded its baseline threshold before the arable index at a clear majority of sites in all three regions (Table 5). Sites where the arable index never exceeded its baseline — i.e., where Cerealia-type pollen remained below the detection threshold throughout the record — were excluded from this ordering test, as no arable exceedance date could be assigned. This exclusion is conservative: including these sites as "pastoral-first by default" would increase the pastoral-first proportion.
 
@@ -276,7 +276,7 @@ The exceedance ordering survives six independent robustness tests:
 
 *Note on index usage*: Unless otherwise stated, all results in this paper use the standard pastoral index (including *Calluna*). The strict pastoral index (excluding *Calluna*/*Pteridium*/Ericaceae) is used specifically for (a) evaluating pre-Neolithic false positives (Section 3.6.4) and (b) the pastoral exceedance lag calculation (Section 3.6.3), where removal of ambiguous taxa provides a more conservative estimate of anthropogenic pastoral onset.
 
-### 3.5 The generalist-specialist null model: first appearance is uninformative
+### 5 The generalist-specialist null model: first appearance is uninformative
 
 The null model analysis provides the definitive demonstration of why first-appearance ordering and exceedance ordering yield fundamentally different information (Table 6).
 
@@ -298,7 +298,7 @@ All claims in this paper are based on exceedance, not first appearance. We expli
 
 The correlation between first-appearance ordering and exceedance ordering across sites is moderate (approximately 60–70% agreement), confirming that exceedance captures additional information beyond first appearance. Sites where first appearance is pastoral-first but exceedance is NOT pastoral-first represent cases where pastoral taxa are naturally present early but do not reach anomalous abundance — precisely the scenario the exceedance criterion is designed to filter. This partial agreement reinforces the argument that first-appearance ordering conflates natural biogeographic patterns with anthropogenic signals, whereas exceedance ordering isolates the anthropogenic component.
 
-### 3.6 Intensification detection
+### 6 Intensification detection
 
 Three independent lines of evidence demonstrate that the pastoral exceedance signal does not track the initial arrival of Neolithic farming but rather a later phase of agricultural intensification.
 
@@ -331,7 +331,7 @@ Two additional lines of evidence support the separability of the two components.
 
 Approximately 16% of sites show pastoral exceedances predating the regional Neolithic arrival date. These are driven overwhelmingly by *Calluna vulgaris* (65% of pre-Neolithic pastoral BC) and *Pteridium*, taxa that expand naturally on acidic soils following forest decline. The strict pastoral index (Section 2.7), which excludes *Calluna*, *Pteridium*, and Ericaceae, eliminates these false positives. Under the strict index, pre-Neolithic "pastoral" exceedances effectively disappear, confirming that they reflect natural heathland dynamics rather than human activity.
 
-### 3.7 Dispersal bias assessment
+### 7 Dispersal bias assessment
 
 A legitimate concern is that differential pollen dispersal could bias the exceedance ordering. *Plantago lanceolata*, although primarily insect-pollinated, produces copious, morphologically distinctive pollen that disperses effectively. Cerealia-type pollen is large (>40 μm), poorly dispersed, and morphologically difficult to distinguish from wild grass pollen (Davis, 2000). Three lines of evidence indicate that dispersal bias cannot account for the observed exceedance ordering:
 
@@ -341,7 +341,7 @@ Second, 19.1% of sites (30 of 157 with both taxa present) show Cerealia-type pol
 
 Third, the *Plantago* exclusion test demonstrates that the pastoral-first finding does not depend on *Plantago* at all. *Rumex* — a taxon with very different pollen morphology and dispersal characteristics — independently confirms the pastoral-first ordering at 51–73% of sites.
 
-### 3.8 Competing hypotheses evaluation
+### 8 Competing hypotheses evaluation
 
 Table 8 summarizes the evidence for and against each hypothesis.
 
@@ -361,7 +361,7 @@ Table 8 summarizes the evidence for and against each hypothesis.
 
 H1 is the only hypothesis consistent with all observed patterns. H2 is directly refuted by the pastoral-first exceedance ordering. H3 is refuted as a general explanation by the absence of pastoral exceedance at natural-phase sites and the lack of climate event clustering. H4 is refuted by complete signal retention after *Ulmus* exclusion.
 
-### 3.9 Spatial independence and magnitude
+### 9 Spatial independence and magnitude
 
 Moran's I for signal onset age was non-significant at both 50 km (p > 0.20) and 100 km (p > 0.20) distance thresholds in all regions. The same holds for pastoral BC%. However, we acknowledge that this test is inconclusive rather than reassuring: with 36% of sites lacking any neighbor within 50 km, the power to detect spatial autocorrelation is low, and a non-significant result cannot be interpreted as evidence of spatial independence. Because pollen source areas may overlap for nearby sites, some reported p-values — particularly for continuous variables such as the intensification gradient (rho = +0.186, LMM p = 0.0014) and the meta-analytic combined test — may be liberal. Readers should interpret these significance levels as indicative rather than exact. The central temporal ordering finding (67–82% pastoral-first) is a site-level proportion and is less sensitive to spatial pseudoreplication than continuous variables, but we cannot quantify the degree of inflation without denser spatial coverage.
 
@@ -369,9 +369,9 @@ Total Bray-Curtis magnitude does not differ between sites classified as H1 and H
 
 ---
 
-## 4. Discussion
+## Discussion
 
-### 4.1 Exceedance versus presence: why the distinction matters
+### 1 Exceedance versus presence: why the distinction matters
 
 The generalist-specialist null model (Section 3.5) reveals a fundamental problem with previous approaches to interpreting pastoral indicators in mid-Holocene pollen records. The qualitative observation that *Plantago lanceolata* and other pastoral indicators appear in pollen records before Cerealia-type pollen has been noted by previous workers (Behre, 1981; Mazier et al., 2012) and has sometimes been interpreted as evidence for pastoral-before-arable land use. Our null model demonstrates that this ordering is trivially expected: pastoral taxa are native European species present since the early Holocene, while Cerealia represents introduced crops that cannot appear before the Neolithic. Any test that asks "which appears first?" is confounded by this asymmetry in native status and cannot provide information about the timing of human activity.
 
@@ -379,13 +379,13 @@ The exceedance framework resolves this confound. By asking not "is the taxon pre
 
 We urge future studies to adopt exceedance-based metrics and to avoid interpreting first-appearance ordering as evidence for the temporal priority of any land-use type. Specifically, statements of the form "pastoral indicators appear before cereal indicators, suggesting that pastoral activity preceded arable farming" should not be made without demonstrating that the ordering is based on anomalous *increases* rather than simple *presence*.
 
-### 4.2 What pastoral exceedance means ecologically
+### 2 What pastoral exceedance means ecologically
 
 Pastoral exceedance — the point at which the combined abundance of *Plantago*, *Rumex*, Poaceae, and associated taxa rises anomalously above the Holocene background — is not a measure of pastoral *presence* but of pastoral *sufficiency*: the point at which pastoral disturbance (grazing, trampling, burning, path creation) becomes sufficiently extensive to alter regional pollen composition beyond the range of natural variation. In the framework of landscape ecology, this corresponds to a transition from localized, isolated disturbance patches to a connected disturbance network that modifies the regional pollen source area (Sugita, 2007; Gaillard et al., 2010).
 
 The ecological interpretation is that exceedance marks the threshold at which pastoral land use transitions from a local activity invisible in regional pollen records to a landscape-scale phenomenon. This is consistent with the intensification evidence (Section 3.6): the pastoral exceedance signal lags Neolithic arrival by ~1,400 years (after correcting for methodological detection delay), indicating a prolonged transition from initial small-scale farming to extensive pastoral economies.
 
-### 4.3 Intensification, not arrival: archaeological context
+### 3 Intensification, not arrival: archaeological context
 
 The 2,135-year median lag and the positive correlation between pastoral BC% and time-since-Neolithic together indicate that the pollen record detects not the *arrival* of farming but its *intensification* to landscape scales. This interpretation is coherent with the archaeological evidence for early Neolithic economies.
 
@@ -393,7 +393,7 @@ Bogaard (2004, 2005) has argued persuasively that LBK communities in Central Eur
 
 Stevens and Fuller (2012) proposed a "Bronze Age agricultural revolution" in the British Isles, arguing that the Neolithic saw low-level cereal cultivation with a dramatic expansion in the Bronze Age. Woodbridge et al. (2014) corroborated this pattern using pollen-based land-cover estimates and archaeological radiocarbon date distributions, demonstrating that the Neolithic agricultural transition in Britain involved a prolonged period of low-intensity impact before Bronze Age intensification. Our finding that the shortest lag occurs in the British Isles (816 yr) is broadly consistent with a relatively rapid transition to landscape-scale pastoral impact in that region, though the lag still indicates a delay of several centuries between initial Neolithic presence and pollen-detectable pastoral transformation.
 
-### 4.4 Relationship to the Secondary Products Revolution debate
+### 4 Relationship to the Secondary Products Revolution debate
 
 It is important to distinguish our pollen-based finding from the Secondary Products Revolution (SPR) hypothesis of Sherratt (1981). The SPR proposed that the earliest Neolithic economies were primarily oriented toward meat production ("primary products"), with dairy, wool, and traction ("secondary products") developing as later intensifications. Greenfield (2010) and others have debated whether this intensification represents a discrete revolution or a gradual process, with Evershed et al. (2008) and Copley et al. (2003) demonstrating dairy lipid residues on pottery from the earliest LBK sites, suggesting that dairying — and by implication, dedicated pastoral management — was practiced from the outset of the Neolithic in some regions.
 
@@ -401,7 +401,7 @@ Our finding that pastoral pollen *exceedance* precedes arable pollen *exceedance
 
 We therefore do *not* claim that our results support a "pastoral-before-arable" economic sequence. The pollen record may detect pastoral activity before arable activity because (a) pastoral land use generates more spatially extensive pollen signals than arable cultivation at comparable economic scales (differential detection), (b) pastoral land use genuinely expanded to landscape scales before intensive arable cultivation in some regions, or (c) both. Our data cannot distinguish between these possibilities without independent archaeological evidence (faunal assemblages, archaeobotanical data, stable isotope analyses), and we recommend that the exceedance ordering be interpreted as a *pollen taphonomic sequence* until corroborated by non-palynological evidence.
 
-### 4.5 Pollen dispersal bias: quantitative assessment
+### 5 Pollen dispersal bias: quantitative assessment
 
 The differential dispersal properties of pastoral and arable pollen taxa are well characterized. *Plantago lanceolata* has a pollen productivity estimate (PPE) of 0.9–4.0 relative to Poaceae (Broström et al., 2008; Mazier et al., 2012), and its pollen disperses effectively at 100–500 m scales despite its primarily entomophilous pollination. Cerealia-type pollen is anemophilous but large-grained (>40 μm) with a fall speed of ~0.06 m/s (Sugita, 2007), limiting effective dispersal to within ~100 m of source areas for most pollen grain sizes. REVEALS simulations (Sugita, 2007; Gaillard et al., 2010) and Lagrangian dispersal models (Bunting et al., 2004) indicate that representation lags between well-dispersed and poorly-dispersed taxa are on the order of 200–500 years for taxa growing at comparable distances from a sedimentary archive.
 
@@ -409,17 +409,17 @@ A source-area model based on published pollen productivity estimates (PPEs; Bros
 
 The observed median *Plantago*-Cerealia lag (3,076 yr) exceeds this dispersal-plausible range by approximately 6–15 times. The 19.1% of sites showing reversed ordering (Cerealia before *Plantago*) further argues against a uniform dispersal artifact. Differential dispersal certainly contributes to the observed ordering — perhaps 200–500 years of the total lag — but it cannot be the sole or primary explanation. We report this as a component of the total lag but conclude that the exceedance ordering reflects genuine ecological and economic processes beyond pollen taphonomy.
 
-### 4.6 The Calluna problem and the strict pastoral index
+### 6 The Calluna problem and the strict pastoral index
 
 *Calluna vulgaris* presents an inherent ambiguity in mid-Holocene pollen analysis. It is a classic pastoral indicator associated with anthropogenic heathland maintenance through burning and grazing (Behre, 1981), but it also expands naturally on acidic soils following natural forest decline, particularly in Atlantic climates. In this study, *Calluna* constitutes 58.6% of pastoral BC in the British Isles, and 65% of pre-Neolithic pastoral exceedances are *Calluna*-driven.
 
 The strict pastoral index resolves this ambiguity by excluding *Calluna*, *Pteridium*, and Ericaceae. Under the strict index, pre-Neolithic "pastoral" detections effectively disappear, confirming that they reflect natural heathland rather than human activity. The temporal ordering results are robust to *Calluna* exclusion (21/22 pastoral-first British sites confirmed by *Plantago*/*Rumex*), but the magnitude of pastoral contribution in the British Isles is substantially reduced. Independent pollen-based land-cover reconstructions for Britain (Fyfe et al., 2013) confirm a gradual transition from closed forest to open pastoral landscapes through the mid-to-late Holocene, consistent with the pastoral exceedance chronology identified here. We recommend that future studies report both standard and strict pastoral indices, particularly in Atlantic and boreal contexts where natural heathland expansion is plausible.
 
-### 4.7 Bray-Curtis magnitude: an uninformative metric for attribution
+### 7 Bray-Curtis magnitude: an uninformative metric for attribution
 
 With the observed sample sizes and variance, magnitude comparisons between H1 and H3 sites have only ~5% power to detect weak amplification effects. The tests are therefore uninformative: they cannot distinguish between genuinely equal magnitude and a small real difference obscured by noise. We can rule out strong amplification (>60% extra tree turnover), but we cannot evaluate weaker effects. This limitation has a constructive implication: if magnitude comparisons fail, approaches orthogonal to magnitude — functional decomposition, exceedance classification, temporal ordering — become essential. This paper demonstrates that these approaches succeed where magnitude fails.
 
-### 4.8 Implications for continental-scale pollen syntheses
+### 8 Implications for continental-scale pollen syntheses
 
 Several major syntheses have used rate-of-change or dissimilarity metrics to map the onset and intensity of human impact across Europe (Mottl et al., 2021; Nogué et al., 2025) and globally (Gordon et al., 2024). Our results suggest two specific cautions.
 
@@ -429,7 +429,7 @@ Second, the 2,135-year median lag suggests that pollen-based "impact onset" date
 
 We do not argue that these syntheses are wrong — the broad patterns they identify are broadly consistent with archaeological evidence. We argue that they are incomplete: functional decomposition and exceedance-based classification add interpretive depth that magnitude alone cannot provide.
 
-### 4.9 Limitations
+### 9 Limitations
 
 Several limitations must be acknowledged.
 
@@ -449,7 +449,7 @@ Several limitations must be acknowledged.
 
 **Independent validation via coprophilous fungi.** An important avenue for independent validation is the analysis of coprophilous fungal spores — particularly *Sporormiella* and *Sordaria* — which are deposited in sediments by herbivore dung and provide a direct, pollen-independent indicator of grazing animal presence (van Geel et al., 2003; Baker et al., 2013). Where coprophilous fungal records are available from the same cores analyzed here, comparing the timing of *Sporormiella* increases with pastoral pollen exceedance would provide a powerful non-circular test of the pastoral attribution. We recommend this as a priority for future work.
 
-### 4.10 Recommended five-step protocol
+### 10 Recommended five-step protocol
 
 Based on our findings, we recommend a five-step protocol for studies using Bray-Curtis dissimilarity to detect human impact on vegetation:
 
@@ -463,7 +463,7 @@ This protocol adds modest computational effort to existing workflows but substan
 
 ---
 
-## 5. Conclusions
+## Conclusions
 
 1. Bray-Curtis dissimilarity from pre-anthropogenic baselines detects mid-Holocene vegetation signals at 295 of 331 European pollen sites (89%), but tree taxa dominate these signals (climate-sensitive trees 34–57%, succession trees 10–14%), while pastoral and arable indicators together contribute only 1–7%. Magnitude alone cannot distinguish anthropogenic from natural vegetation change.
 

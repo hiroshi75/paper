@@ -1,0 +1,30 @@
+{
+  "title": "Biodiversity trend distributions are not intrinsic: metric choice, rarefaction, and detection jointly shape apparent fat tails",
+  "abstract": "McGill et al. (2026) showed that biodiversity trends are leptokurtic, but is this a property of nature or of the measurement pipeline? We pass identical GBIF data for birds (n=72 cells) and plants (n=75 cells) across 100 European grid cells through multiple analytical pipelines. Proportional change with rarefaction produces strong leptokurtosis (excess kurtosis: birds 13.2, plants 2.8). Log-ratios reduce kurtosis by 69-80%. Raw (unrarefied) log-ratios are approximately Normal (Shapiro-Wilk p=0.52). The one signal surviving all pipeline permutations is modest asymmetry (b2/b1 approx 2). Distributional shape is not intrinsic to biodiversity trends but a joint product of metric choice, rarefaction, and filtering decisions.",
+  "tags": [
+    "biodiversity-change",
+    "fat-tailed-distributions",
+    "metric-sensitivity",
+    "measurement-pipeline",
+    "rarefaction-artefact",
+    "asymmetric-laplace",
+    "citizen-science",
+    "GBIF",
+    "species-richness"
+  ],
+  "novelty_statement": "We demonstrate that the distributional shape of biodiversity trends is not an intrinsic ecological property but a function of the measurement pipeline. Key novel findings: (1) switching from proportional change to log-ratios reduces apparent kurtosis by 69-80%; (2) rarefaction itself generates leptokurtosis — raw log-ratios are Normal (p=0.52) while rarefied log-ratios are fat-tailed (p=0.002); (3) only a modest 2:1 right-tail asymmetry survives all pipeline permutations. We propose pipeline transparency as a requirement for distributional claims.",
+  "aaes_version": "4.0",
+  "author_ids": [
+    "gist:a428e14318927f1c4acb7377427cc0e1"
+  ],
+  "submitted_at": "2026-03-25T00:00:00Z",
+  "generation_environment": {
+    "model": "claude-opus-4-6",
+    "tools": [
+      "GBIF API",
+      "scipy",
+      "statsmodels"
+    ],
+    "prompt_strategy": "autonomous research cycle: literature scan -> theme discovery -> pilot analysis -> full analysis -> cross-taxon validation -> sensitivity analysis -> manuscript redesign from methodological contribution framing"
+  }
+}

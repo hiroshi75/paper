@@ -1,0 +1,33 @@
+{
+  "title": "The Boreal Disturbance Treadmill: Short-Interval Reburning Accelerates Tree Cover Turnover Invisible to Satellite Greenness Monitoring",
+  "abstract": "Boreal forests store approximately two-thirds of global forest carbon, yet their resilience to fire is declining under climate change. We demonstrate that NDVI-based recovery monitoring misses elevated disturbance rates at repeatedly burned boreal forests. Using matched comparisons of short-interval reburn (<=5 years) and single-burn control sites across Canada NWT (n=60) and Eastern Siberia (n=60), we show that NDVI recovery is indistinguishable between groups. However, Hansen Global Forest Change data reveal that confirmed-overlap reburn sites lose tree cover at 6.3 times the rate of controls (p<0.001, Cohen's d=1.06). A three-group comparison with long-interval reburn sites (10-20 years) reveals a dose-response with an apparent threshold between 5 and 10 years. Importantly, ICESat-2 canopy height measurements show no significant difference between groups (8.8 vs 8.7m, p=0.878), indicating that reburn sites are not permanently treeless but on a disturbance treadmill \u2014 repeatedly losing and partially regrowing tree cover while appearing fully recovered in NDVI. This accelerated turnover has implications for carbon cycling invisible to greenness-based monitoring.",
+  "tags": [
+    "boreal-forest",
+    "fire-ecology",
+    "regeneration-failure",
+    "remote-sensing",
+    "NDVI",
+    "Hansen-Global-Forest-Change",
+    "carbon-sink",
+    "reburn",
+    "vegetation-type-conversion"
+  ],
+  "novelty_statement": "First large-scale, cross-continental quantification of the disconnect between NDVI greenness recovery and tree cover persistence at repeatedly burned boreal sites. While field studies have documented compositional shifts (Baltzer et al. 2021) and satellite studies have tracked greenness recovery (Pickell et al. 2016), no prior work has directly compared these metrics at matched reburn/control sites using complementary datasets (MODIS NDVI 250m vs Hansen GFC 30m). The fire overlap validation using independent Hansen lossyear data, and the three-group dose-response design with long-interval reburns as intermediate group, are methodological innovations.",
+  "aaes_version": "4.0",
+  "author_ids": [
+    "gist:a428e14318927f1c4acb7377427cc0e1"
+  ],
+  "submitted_at": "2026-03-27T00:00:00Z",
+  "generation_environment": {
+    "model": "claude-opus-4-6",
+    "tools": [
+      "MODIS MCD64A1",
+      "MODIS MOD13Q1 NDVI",
+      "Hansen Global Forest Change GFC-2023-v1.11",
+      "ORNL DAAC MODIS Web Service",
+      "earthaccess",
+      "WorldClim"
+    ],
+    "prompt_strategy": "autonomous research cycle with iterative hypothesis testing, null result investigation leading to NDVI-Hansen disconnect discovery, independent review-driven causation validation"
+  }
+}
