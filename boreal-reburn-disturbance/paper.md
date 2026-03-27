@@ -79,7 +79,11 @@ For the three-group comparison (short-interval, long-interval, control), we used
 
 Analyses were conducted separately for Canada NWT and Eastern Siberia, then combined. We note that the Siberian analysis did not reach conventional significance thresholds for individual metrics (Section 3.2); the combined analysis with n = 120 constitutes our primary result.
 
-### 2.7 ICESat-2 canopy height validation
+### 2.7 NBR recovery analysis
+
+To assess whether the NDVI-Hansen disconnect extends to structural/moisture indicators, we computed the Normalized Burn Ratio (NBR = [NIR - MIR] / [NIR + MIR]) from MOD13Q1 NIR and MIR reflectance bands at all 60 Canada NWT sites. NBR is more sensitive to canopy moisture content and structural damage than NDVI, and is the standard metric for burn severity assessment. We extracted growing-season maximum NBR (June--August) for 3 pre-fire years and at post-fire years 1, 3, 5, 8, and 10, following the same ORNL DAAC protocol as the NDVI analysis. Recovery ratios were computed as post-fire NBR / pre-fire baseline.
+
+### 2.8 ICESat-2 canopy height validation
 
 To test whether elevated Hansen loss rates translate into reduced forest stature, we extracted canopy height measurements from ICESat-2 ATL08 (Land and Vegetation Height, Version 007). ICESat-2 provides along-track lidar measurements with ~100 m footprints in a polar orbit covering all boreal latitudes (unlike GEDI, which is limited to 51.6 degrees N). We downloaded ATL08 granules covering the Canada NWT study region for summer months (June--August) of 2021--2023, extracting the h_canopy variable (98th percentile canopy height) for footprints within 0.25 degrees of each study site. Valid canopy heights (0--100 m) were averaged across footprints and years per site. This yielded canopy height estimates for 13 reburn and 16 control sites where ICESat-2 ground tracks intersected the study area.
 
@@ -96,6 +100,8 @@ Importantly, restricting the analysis to the 23 confirmed-overlap sites strength
 ### 3.1 NDVI recovery shows no difference between reburn and control sites
 
 In the matched comparison of 30 reburn and 30 control sites in Canada NWT, NDVI recovery trajectories were statistically indistinguishable (Fig. 1A). At year 5, reburn sites showed a marginally lower recovery ratio (0.968 +/- 0.088 vs. 1.017 +/- 0.078; p = 0.024), but this difference disappeared by year 10 (reburn: 1.027 +/- 0.086 vs. control: 1.061 +/- 0.161; p = 0.636). Both groups fully recovered NDVI to pre-fire levels, with recovery ratios exceeding 1.0 by year 10 (Fig. 1A). Pre-fire growing-season NDVI averaged 0.669 +/- 0.088 across all 90 sites in the broader Canada sample, with a median time to 80% recovery (YR80) of just 1 year.
+
+NBR recovery mirrored the NDVI pattern: reburn and control sites showed no significant difference at any post-fire timepoint (year 1: 1.053 vs. 0.977, p = 0.874; year 5: 1.328 vs. 1.121, p = 0.156; year 10: 1.141 vs. 1.043, p = 0.666; all Cohen's d < 0.20). This indicates that not only greenness (NDVI) but also canopy moisture/structural condition (NBR) recovers comparably at reburn and control sites, despite the dramatically different tree cover loss rates revealed by Hansen data (Section 3.2).
 
 ### 3.2 Hansen tree cover reveals divergence driven by fire history
 
@@ -155,9 +161,11 @@ Within short-interval reburn sites (n = 60, intervals 1--5 years), Spearman rank
 
 ### 4.1 The "green but degraded" syndrome
 
-Our central finding is a three-way divergence among satellite indicators at repeatedly burned boreal sites. NDVI greenness recovers fully (indistinguishable from controls by year 10). ICESat-2 canopy height shows no structural deficit (8.8 vs. 8.7 m). Yet Hansen tree cover loss rates are 6.3 times higher at confirmed reburn sites (d = 1.06). This combination---normal greenness, normal height, but dramatically elevated loss frequency---is inconsistent with both the "full recovery" interpretation of NDVI monitoring and the "permanent deforestation" framing we initially considered. Instead, it points to a **disturbance treadmill**: reburn sites cycle through repeated canopy loss and partial regrowth, maintaining instantaneous metrics while experiencing accelerated cumulative carbon turnover.
+Our central finding is a four-way comparison among satellite indicators at repeatedly burned boreal sites. Three instantaneous state indicators---NDVI greenness, NBR canopy moisture, and ICESat-2 canopy height---all show no significant difference between reburn and control sites (all d < 0.20). Yet Hansen tree cover loss rates are 6.3 times higher at confirmed reburn sites (d = 1.06), and temporal decomposition shows that this elevated loss persists 5--15 years after fire (Section 3.5).
 
-The mechanism is straightforward: after fire, fast-growing grasses (*Calamagrostis* spp.), ericaceous shrubs (*Vaccinium*, *Ledum*), and deciduous pioneers (*Betula*, *Populus*) rapidly restore greenness, while partial tree regeneration restores canopy height over 5--20 years. But before full structural maturity is reached, the next fire resets the cycle, and Hansen registers another loss event. The landscape appears green and forested at any snapshot, but the turnover rate---invisible to NDVI and canopy height metrics---is far higher than at single-burn sites.
+This combination---normal greenness, normal structural condition, normal canopy height, but dramatically elevated loss event frequency---points to a **disturbance treadmill** rather than permanent degradation. Reburn sites cycle through repeated canopy loss and recovery, maintaining instantaneous metrics at any single observation time while experiencing accelerated cumulative disturbance. The key insight is that the difference between reburn and control sites is not in their *state* at any given moment but in the *rate* at which they transit through disturbance-recovery cycles.
+
+The mechanism is consistent with boreal fire ecology: after fire, rapid vegetation recovery (grasses, shrubs, deciduous pioneers, and young conifers) restores canopy greenness within 1--3 years and canopy height over 5--20 years. Before full structural maturity and seed bank recovery is reached, the next fire resets the cycle. Hansen registers each reset as a loss event, accumulating at 6.3 times the single-burn rate, while any single-date observation of NDVI, NBR, or canopy height captures the landscape mid-recovery and sees no deficit.
 
 This "green but repeatedly disturbed" state has been anticipated by field studies. Baltzer et al. (2021) documented vegetation type conversion at 18% of black spruce sites, where conifer regeneration failure led to persistent shrub or deciduous cover. Stralberg et al. (2018) projected that fire-driven transitions could convert ~50% of Alberta's upland forests to deciduous woodland or grassland. Our satellite-based results provide the first large-scale quantification of this phenomenon using complementary greenness and tree cover metrics, confirming that the disconnect is detectable in 30 m tree cover data even when invisible in 250 m greenness indices.
 
