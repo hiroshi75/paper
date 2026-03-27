@@ -1,0 +1,820 @@
+"region","sitename","datasetid","signal_onset_age","indicator","first_appearance_age","lag"
+"Scandinavia","Abborrtjärnen",19913,1738,"Plantago",9452,7714
+"Scandinavia","Abborrtjärnen",19913,1738,"Cerealia",1227,-511
+"Scandinavia","Abborrtjärnen",19913,1738,"Rumex",9694,7956
+"Scandinavia","Abborrtjärnen",19913,1738,"Artemisia",9815,8077
+"Scandinavia","Afstj¢rna",45349,1540,"Plantago",187,-1353
+"Scandinavia","Afstj¢rna",45349,1540,"Cerealia",1721,181
+"Scandinavia","Afstj¢rna",45349,1540,"Rumex",9704,8164
+"Scandinavia","Afstj¢rna",45349,1540,"Artemisia",9932,8392
+"Scandinavia","Ageröds Mosse",12,5222,"Plantago",8712,3490
+"Scandinavia","Ageröds Mosse",12,5222,"Cerealia",2449,-2773
+"Scandinavia","Ageröds Mosse",12,5222,"Rumex",9099,3877
+"Scandinavia","Ageröds Mosse",12,5222,"Artemisia",9099,3877
+"Scandinavia","Aholammi",3866,2076,"Plantago",8989,6913
+"Scandinavia","Aholammi",3866,2076,"Cerealia",8084,6008
+"Scandinavia","Aholammi",3866,2076,"Rumex",9308,7232
+"Scandinavia","Aholammi",3866,2076,"Artemisia",9308,7232
+"Scandinavia","Alanen Laanijärvi",45314,6122,"Plantago",5675,-447
+"Scandinavia","Alanen Laanijärvi",45314,6122,"Rumex",8429,2307
+"Scandinavia","Alanen Laanijärvi",45314,6122,"Artemisia",8497,2375
+"Scandinavia","Austerkjøsen",45644,4676,"Plantago",476,-4200
+"Scandinavia","Austerkjøsen",45644,4676,"Rumex",9914,5238
+"Scandinavia","Austerkjøsen",45644,4676,"Artemisia",9914,5238
+"Scandinavia","Austerkjøsen",45650,4676,"Plantago",476,-4200
+"Scandinavia","Austerkjøsen",45650,4676,"Rumex",9914,5238
+"Scandinavia","Austerkjøsen",45650,4676,"Artemisia",9914,5238
+"Scandinavia","Barheivatn",20037,6161,"Plantago",2226,-3935
+"Scandinavia","Barheivatn",20037,6161,"Rumex",9592,3431
+"Scandinavia","Barheivatn",20037,6161,"Artemisia",9592,3431
+"Scandinavia","Belauer See",52429,2348,"Plantago",8070,5722
+"Scandinavia","Belauer See",52429,2348,"Cerealia",6224,3876
+"Scandinavia","Belauer See",52429,2348,"Rumex",9165,6817
+"Scandinavia","Belauer See",52429,2348,"Artemisia",9199,6851
+"Scandinavia","Bjärsjöholmssjön",3931,6522,"Plantago",6149,-373
+"Scandinavia","Bjärsjöholmssjön",3931,6522,"Cerealia",7702,1180
+"Scandinavia","Bjärsjöholmssjön",3931,6522,"Rumex",7019,497
+"Scandinavia","Bjärsjöholmssjön",3931,6522,"Artemisia",7950,1428
+"Scandinavia","Bjørnfjelltjørn",45642,2050,"Plantago",6704,4654
+"Scandinavia","Bjørnfjelltjørn",45642,2050,"Rumex",9807,7757
+"Scandinavia","Bjørnfjelltjørn",45642,2050,"Artemisia",9807,7757
+"Scandinavia","Blåvasstjønn",3937,3501,"Plantago",1627,-1874
+"Scandinavia","Blåvasstjønn",3937,3501,"Cerealia",2252,-1249
+"Scandinavia","Blåvasstjønn",3937,3501,"Rumex",9934,6433
+"Scandinavia","Blåvasstjønn",3937,3501,"Artemisia",9934,6433
+"Scandinavia","Brurskardtjørni",20046,3633,"Plantago",4151,518
+"Scandinavia","Brurskardtjørni",20046,3633,"Rumex",9680,6047
+"Scandinavia","Brurskardtjørni",20046,3633,"Artemisia",9494,5861
+"Scandinavia","Bussjösjön",53995,4975.2,"Plantago",7367.4,2392.2
+"Scandinavia","Bussjösjön",53995,4975.2,"Rumex",8655.5,3680.3
+"Scandinavia","Bussjösjön",53995,4975.2,"Artemisia",8807,3831.8
+"Scandinavia","Dags Mosse",4011,6622,"Plantago",5453,-1169
+"Scandinavia","Dags Mosse",4011,6622,"Cerealia",7876,1254
+"Scandinavia","Dags Mosse",4011,6622,"Rumex",8353,1731
+"Scandinavia","Dags Mosse",4011,6622,"Artemisia",8274,1652
+"Scandinavia","Dalane",45725,4373,"Plantago",5657,1284
+"Scandinavia","Dalane",45725,4373,"Rumex",9760,5387
+"Scandinavia","Dalane",45725,4373,"Artemisia",8015,3642
+"Scandinavia","Dalmutladdo",20034,5219,"Rumex",9914,4695
+"Scandinavia","Dalmutladdo",20034,5219,"Artemisia",9914,4695
+"Scandinavia","Darzlubie Forest",22847,5220,"Plantago",9050,3830
+"Scandinavia","Darzlubie Forest",22847,5220,"Cerealia",2771,-2449
+"Scandinavia","Darzlubie Forest",22847,5220,"Rumex",9943,4723
+"Scandinavia","Darzlubie Forest",22847,5220,"Artemisia",9943,4723
+"Scandinavia","Dolgoe",4019,6470,"Plantago",2076,-4394
+"Scandinavia","Dolgoe",4019,6470,"Cerealia",6930,460
+"Scandinavia","Dolgoe",4019,6470,"Rumex",6208,-262
+"Scandinavia","Dolgoe",4019,6470,"Artemisia",9675,3205
+"Scandinavia","Domsvatnet",720,2181,"Plantago",229,-1952
+"Scandinavia","Domsvatnet",720,2181,"Rumex",9394,7213
+"Scandinavia","Domsvatnet",720,2181,"Artemisia",9722,7541
+"Scandinavia","Donvold",20012,4279,"Plantago",6049,1770
+"Scandinavia","Donvold",20012,4279,"Rumex",8367,4088
+"Scandinavia","Donvold",20012,4279,"Artemisia",4125,-154
+"Scandinavia","Eini peatland",49616,6906.988,"Plantago",7215.853,308.865
+"Scandinavia","Eini peatland",49616,6906.988,"Cerealia",5764.191,-1142.797
+"Scandinavia","Eini peatland",49616,6906.988,"Rumex",7215.853,308.865
+"Scandinavia","Eini peatland",49616,6906.988,"Artemisia",7740.922,833.933999999999
+"Scandinavia","Eipurs bog",49636,6761.172,"Plantago",9748.696,2987.524
+"Scandinavia","Eipurs bog",49636,6761.172,"Rumex",9980.468,3219.296
+"Scandinavia","Eipurs bog",49636,6761.172,"Artemisia",9980.468,3219.296
+"Scandinavia","Flaatevatn",4041,3519,"Plantago",2636,-883
+"Scandinavia","Flaatevatn",4041,3519,"Rumex",9852,6333
+"Scandinavia","Flaatevatn",4041,3519,"Artemisia",9685,6166
+"Scandinavia","Flinkasjön",54024,6523.5,"Plantago",8119.9,1596.4
+"Scandinavia","Flinkasjön",54024,6523.5,"Rumex",9943.8,3420.3
+"Scandinavia","Flinkasjön",54024,6523.5,"Artemisia",9943.8,3420.3
+"Scandinavia","Flotatjønn",45710,6524,"Plantago",3562,-2962
+"Scandinavia","Flotatjønn",45710,6524,"Cerealia",136,-6388
+"Scandinavia","Flotatjønn",45710,6524,"Rumex",9952,3428
+"Scandinavia","Flotatjønn",45710,6524,"Artemisia",8692,2168
+"Scandinavia","Färskesjön",4037,6683,"Plantago",9360,2677
+"Scandinavia","Färskesjön",4037,6683,"Cerealia",2762,-3921
+"Scandinavia","Färskesjön",4037,6683,"Rumex",9893,3210
+"Scandinavia","Färskesjön",4037,6683,"Artemisia",9893,3210
+"Scandinavia","Fårarps Mosse",53997,1030.5,"Plantago",7197.5,6167
+"Scandinavia","Fårarps Mosse",53997,1030.5,"Cerealia",7197.5,6167
+"Scandinavia","Fårarps Mosse",53997,1030.5,"Rumex",8490.7,7460.2
+"Scandinavia","Fårarps Mosse",53997,1030.5,"Artemisia",8490.7,7460.2
+"Scandinavia","Gammelheimenvatnet",45639,6171,"Plantago",2738,-3433
+"Scandinavia","Gammelheimenvatnet",45639,6171,"Rumex",9669,3498
+"Scandinavia","Gammelheimenvatnet",45639,6171,"Artemisia",9669,3498
+"Scandinavia","Gilltjärnen",53991,6840.238,"Plantago",4964.008,-1876.23
+"Scandinavia","Gilltjärnen",53991,6840.238,"Cerealia",8954.761,2114.523
+"Scandinavia","Gilltjärnen",53991,6840.238,"Rumex",9917.67,3077.432
+"Scandinavia","Gilltjärnen",53991,6840.238,"Artemisia",9917.67,3077.432
+"Scandinavia","Godziszewskie Lake",22815,5510,"Plantago",5300,-210
+"Scandinavia","Godziszewskie Lake",22815,5510,"Cerealia",5929,419
+"Scandinavia","Godziszewskie Lake",22815,5510,"Rumex",8848,3338
+"Scandinavia","Godziszewskie Lake",22815,5510,"Artemisia",9521,4011
+"Scandinavia","Grasvatn",977,6566,"Plantago",2677,-3889
+"Scandinavia","Grasvatn",977,6566,"Rumex",9858,3292
+"Scandinavia","Grasvatn",977,6566,"Artemisia",9273,2707
+"Scandinavia","Grauthelleren",45728,5984,"Plantago",4778,-1206
+"Scandinavia","Grauthelleren",45728,5984,"Cerealia",519,-5465
+"Scandinavia","Grauthelleren",45728,5984,"Rumex",9690,3706
+"Scandinavia","Grauthelleren",45728,5984,"Artemisia",9690,3706
+"Scandinavia","Groter Warder",49430,2972.154,"Plantago",3526,553.846
+"Scandinavia","Groter Warder",49430,2972.154,"Rumex",8596.667,5624.513
+"Scandinavia","Groter Warder",49430,2972.154,"Artemisia",9450,6477.846
+"Scandinavia","Großer Eutiner See",49434,1596,"Plantago",5885,4289
+"Scandinavia","Großer Eutiner See",49434,1596,"Cerealia",4173,2577
+"Scandinavia","Großer Eutiner See",49434,1596,"Rumex",6849,5253
+"Scandinavia","Großer Eutiner See",49434,1596,"Artemisia",9073,7477
+"Scandinavia","Großer Plöner See",49457,2048,"Plantago",5744,3696
+"Scandinavia","Großer Plöner See",49457,2048,"Cerealia",4991,2943
+"Scandinavia","Großer Plöner See",49457,2048,"Rumex",9353,7305
+"Scandinavia","Großer Plöner See",49457,2048,"Artemisia",9983,7935
+"Scandinavia","Haugtjernet",45698,1644,"Plantago",4583,2939
+"Scandinavia","Haugtjernet",45698,1644,"Cerealia",1508,-136
+"Scandinavia","Haugtjernet",45698,1644,"Rumex",9764,8120
+"Scandinavia","Haugtjernet",45698,1644,"Artemisia",7932,6288
+"Scandinavia","Hino",55439,6958,"Plantago",2961,-3997
+"Scandinavia","Hino",55439,6958,"Cerealia",3643,-3315
+"Scandinavia","Hino",55439,6958,"Rumex",8103,1145
+"Scandinavia","Hino",55439,6958,"Artemisia",9747,2789
+"Scandinavia","Hirvilampi",4092,6727,"Plantago",8401,1674
+"Scandinavia","Hirvilampi",4092,6727,"Cerealia",1127,-5600
+"Scandinavia","Hirvilampi",4092,6727,"Rumex",9945,3218
+"Scandinavia","Hirvilampi",4092,6727,"Artemisia",9945,3218
+"Scandinavia","Holebudalen",45716,6922,"Plantago",6278,-644
+"Scandinavia","Holebudalen",45716,6922,"Rumex",9950,3028
+"Scandinavia","Holebudalen",45716,6922,"Artemisia",9950,3028
+"Scandinavia","Holtjärnen",21790,4326,"Plantago",5533,1207
+"Scandinavia","Holtjärnen",21790,4326,"Cerealia",1917,-2409
+"Scandinavia","Holtjärnen",21790,4326,"Rumex",9728,5402
+"Scandinavia","Holtjärnen",21790,4326,"Artemisia",9943,5617
+"Scandinavia","Ilmen Lake",4106,4279,"Cerealia",1236,-3043
+"Scandinavia","Ilmen Lake",4106,4279,"Artemisia",9665,5386
+"Scandinavia","Imatu Mire",4107,6916,"Plantago",6057,-859
+"Scandinavia","Imatu Mire",4107,6916,"Cerealia",790,-6126
+"Scandinavia","Imatu Mire",4107,6916,"Artemisia",9890,2974
+"Scandinavia","Isbenttjønn",45731,6949,"Plantago",5526,-1423
+"Scandinavia","Isbenttjønn",45731,6949,"Rumex",9944,2995
+"Scandinavia","Isbenttjønn",45731,6949,"Artemisia",9020,2071
+"Scandinavia","Jezioro Druzno",22857,3845,"Plantago",9753,5908
+"Scandinavia","Jezioro Druzno",22857,3845,"Cerealia",8206,4361
+"Scandinavia","Jezioro Druzno",22857,3845,"Rumex",9987,6142
+"Scandinavia","Jezioro Druzno",22857,3845,"Artemisia",9987,6142
+"Scandinavia","Jezioro Druzno",22950,173,"Plantago",7769,7596
+"Scandinavia","Jezioro Druzno",22950,173,"Cerealia",3025,2852
+"Scandinavia","Jezioro Druzno",22950,173,"Rumex",9031,8858
+"Scandinavia","Jezioro Druzno",22950,173,"Artemisia",9990,9817
+"Scandinavia","Kaarkotinlampi",4133,1236,"Plantago",9228,7992
+"Scandinavia","Kaarkotinlampi",4133,1236,"Cerealia",3074,1838
+"Scandinavia","Kaarkotinlampi",4133,1236,"Rumex",9772,8536
+"Scandinavia","Kaarkotinlampi",4133,1236,"Artemisia",9895,8659
+"Scandinavia","Kalsa Mire",1434,5398,"Plantago",269,-5129
+"Scandinavia","Kalsa Mire",1434,5398,"Cerealia",1325,-4073
+"Scandinavia","Kalsa Mire",1434,5398,"Rumex",5398,0
+"Scandinavia","Kalsa Mire",1434,5398,"Artemisia",9020,3622
+"Scandinavia","Kangerjoki",4136,5049,"Plantago",869,-4180
+"Scandinavia","Kangerjoki",4136,5049,"Cerealia",424,-4625
+"Scandinavia","Kangerjoki",4136,5049,"Rumex",9347,4298
+"Scandinavia","Kangerjoki",4136,5049,"Artemisia",9393,4344
+"Scandinavia","Kansjön",1438,5286,"Plantago",4525,-761
+"Scandinavia","Kansjön",1438,5286,"Cerealia",2246,-3040
+"Scandinavia","Kansjön",1438,5286,"Rumex",9980,4694
+"Scandinavia","Kansjön",1438,5286,"Artemisia",9980,4694
+"Scandinavia","Kinnshaugen",45701,5251,"Plantago",4656,-595
+"Scandinavia","Kinnshaugen",45701,5251,"Cerealia",5748,497
+"Scandinavia","Kinnshaugen",45701,5251,"Rumex",9607,4356
+"Scandinavia","Kinnshaugen",45701,5251,"Artemisia",9311,4060
+"Scandinavia","Klotjärnen",19909,1049,"Plantago",9389,8340
+"Scandinavia","Klotjärnen",19909,1049,"Cerealia",931,-118
+"Scandinavia","Klotjärnen",19909,1049,"Rumex",9497,8448
+"Scandinavia","Klotjärnen",19909,1049,"Artemisia",9497,8448
+"Scandinavia","Kluki",4154,6741,"Plantago",4089,-2652
+"Scandinavia","Kluki",4154,6741,"Cerealia",2239,-4502
+"Scandinavia","Kluki",4154,6741,"Rumex",9383,2642
+"Scandinavia","Kluki",4154,6741,"Artemisia",9383,2642
+"Scandinavia","Kokorevskoe",58000,6050,"Plantago",9250,3200
+"Scandinavia","Kokorevskoe",58000,6050,"Cerealia",9570,3520
+"Scandinavia","Kokorevskoe",58000,6050,"Rumex",9800,3750
+"Scandinavia","Kokorevskoe",58000,6050,"Artemisia",9950,3900
+"Scandinavia","Kollsee",49472,4408,"Plantago",5745,1337
+"Scandinavia","Kollsee",49472,4408,"Cerealia",5427,1019
+"Scandinavia","Kollsee",49472,4408,"Rumex",7674,3266
+"Scandinavia","Kollsee",49472,4408,"Artemisia",7744,3336
+"Scandinavia","Kosilovo",59895,5937,"Plantago",6341,404
+"Scandinavia","Kosilovo",59895,5937,"Cerealia",1543,-4394
+"Scandinavia","Kosilovo",59895,5937,"Rumex",9753,3816
+"Scandinavia","Kosilovo",59895,5937,"Artemisia",9846,3909
+"Scandinavia","Krageholmssjön",4162,6574,"Plantago",5665,-909
+"Scandinavia","Krageholmssjön",4162,6574,"Cerealia",6574,0
+"Scandinavia","Krageholmssjön",4162,6574,"Rumex",8651,2077
+"Scandinavia","Krageholmssjön",4162,6574,"Artemisia",9103,2529
+"Scandinavia","Krageholmssjön",23013,6253,"Plantago",8304,2051
+"Scandinavia","Krageholmssjön",23013,6253,"Cerealia",3852,-2401
+"Scandinavia","Krageholmssjön",23013,6253,"Rumex",9464,3211
+"Scandinavia","Krageholmssjön",23013,6253,"Artemisia",9842,3589
+"Scandinavia","Kuivajarvi",4168,5158,"Plantago",1473,-3685
+"Scandinavia","Kuivajarvi",4168,5158,"Cerealia",3434,-1724
+"Scandinavia","Kuivajarvi",4168,5158,"Rumex",9289,4131
+"Scandinavia","Kuivajarvi",4168,5158,"Artemisia",9924,4766
+"Scandinavia","Kunda Arusoo",54692,6176,"Plantago",6816,640
+"Scandinavia","Kunda Arusoo",54692,6176,"Cerealia",9270,3094
+"Scandinavia","Kunda Arusoo",54692,6176,"Rumex",8514,2338
+"Scandinavia","Kunda Arusoo",54692,6176,"Artemisia",9861,3685
+"Scandinavia","Laihalampi",52082,6384.629,"Plantago",7585.461,1200.832
+"Scandinavia","Laihalampi",52082,6384.629,"Cerealia",4486,-1898.629
+"Scandinavia","Laihalampi",52082,6384.629,"Rumex",9950.151,3565.522
+"Scandinavia","Laihalampi",52082,6384.629,"Artemisia",9950.151,3565.522
+"Scandinavia","Lake Babinskoye",46516,6557,"Cerealia",4618,-1939
+"Scandinavia","Lake Babinskoye",46516,6557,"Rumex",7066,509
+"Scandinavia","Lake Babinskoye",46516,6557,"Artemisia",7664,1107
+"Scandinavia","Lake Badsjön",52214,6642.6,"Rumex",9924.883,3282.283
+"Scandinavia","Lake Badsjön",52214,6642.6,"Artemisia",9686.55,3043.95
+"Scandinavia","Lake Ermistu",4031,6434,"Plantago",6434,0
+"Scandinavia","Lake Ermistu",4031,6434,"Cerealia",8148,1714
+"Scandinavia","Lake Ermistu",4031,6434,"Rumex",8148,1714
+"Scandinavia","Lake Ermistu",4031,6434,"Artemisia",9480,3046
+"Scandinavia","Lake Flarken",4042,3108,"Plantago",7092,3984
+"Scandinavia","Lake Flarken",4042,3108,"Cerealia",2765,-343
+"Scandinavia","Lake Flarken",4042,3108,"Rumex",9913,6805
+"Scandinavia","Lake Flarken",4042,3108,"Artemisia",9913,6805
+"Scandinavia","Lake Flåfattjønna",20018,444,"Plantago",5393,4949
+"Scandinavia","Lake Flåfattjønna",20018,444,"Cerealia",3167,2723
+"Scandinavia","Lake Flåfattjønna",20018,444,"Rumex",9961,9517
+"Scandinavia","Lake Flåfattjønna",20018,444,"Artemisia",9961,9517
+"Scandinavia","Lake Hancza",22636,4999,"Plantago",4830,-169
+"Scandinavia","Lake Hancza",22636,4999,"Rumex",9982,4983
+"Scandinavia","Lake Hancza",22636,4999,"Artemisia",9982,4983
+"Scandinavia","Lake Hopseidet",20029,4991,"Rumex",9947,4956
+"Scandinavia","Lake Hopseidet",20029,4991,"Artemisia",9947,4956
+"Scandinavia","Lake Ifjord",20020,6768,"Rumex",9941,3173
+"Scandinavia","Lake Ifjord",20020,6768,"Artemisia",9556,2788
+"Scandinavia","Lake Jarveotsa",45410,5898,"Cerealia",945,-4953
+"Scandinavia","Lake Jarveotsa",45410,5898,"Rumex",8532,2634
+"Scandinavia","Lake Jarveotsa",45410,5898,"Artemisia",9928,4030
+"Scandinavia","Lake Karujarv",4139,4691,"Artemisia",8373,3682
+"Scandinavia","Lake Konsu",45407,2145,"Cerealia",694,-1451
+"Scandinavia","Lake Konsu",45407,2145,"Rumex",63,-2082
+"Scandinavia","Lake Konsu",45407,2145,"Artemisia",9954,7809
+"Scandinavia","Lake Kuzi",49642,2084,"Plantago",1786.286,-297.714
+"Scandinavia","Lake Kuzi",49642,2084,"Rumex",9908.688,7824.688
+"Scandinavia","Lake Kuzi",49642,2084,"Artemisia",9908.688,7824.688
+"Scandinavia","Lake Maardu",4241,2571,"Artemisia",9944,7373
+"Scandinavia","Lake Maardu",45381,3039,"Plantago",3910,871
+"Scandinavia","Lake Maardu",45381,3039,"Cerealia",3039,0
+"Scandinavia","Lake Maardu",45381,3039,"Rumex",9620,6581
+"Scandinavia","Lake Maardu",45381,3039,"Artemisia",9857,6818
+"Scandinavia","Lake Martiska",45408,859,"Cerealia",6157,5298
+"Scandinavia","Lake Martiska",45408,859,"Rumex",277,-582
+"Scandinavia","Lake Martiska",45408,859,"Artemisia",9592,8733
+"Scandinavia","Lake Plaani Külajärv",45398,4962,"Plantago",8356,3394
+"Scandinavia","Lake Plaani Külajärv",45398,4962,"Rumex",8433,3471
+"Scandinavia","Lake Plaani Külajärv",45398,4962,"Artemisia",8433,3471
+"Scandinavia","Lake Ruila",45379,6514,"Plantago",8709,2195
+"Scandinavia","Lake Ruila",45379,6514,"Rumex",7141,627
+"Scandinavia","Lake Ruila",45379,6514,"Artemisia",9962,3448
+"Scandinavia","Lake Skogstjern",52255,6523.5,"Plantago",6942.214,418.714
+"Scandinavia","Lake Skogstjern",52255,6523.5,"Rumex",9895.621,3372.121
+"Scandinavia","Lake Skogstjern",52255,6523.5,"Artemisia",9895.621,3372.121
+"Scandinavia","Lake Solsø",4445,4657,"Plantago",9979,5322
+"Scandinavia","Lake Solsø",4445,4657,"Rumex",9979,5322
+"Scandinavia","Lake Solsø",4445,4657,"Artemisia",9979,5322
+"Scandinavia","Lake Solsø",4446,6687,"Plantago",9821,3134
+"Scandinavia","Lake Solsø",4446,6687,"Rumex",9821,3134
+"Scandinavia","Lake Solsø",4446,6687,"Artemisia",9821,3134
+"Scandinavia","Lake Svartkälstjärn",53972,6040.3,"Plantago",3457.8,-2582.5
+"Scandinavia","Lake Svartkälstjärn",53972,6040.3,"Cerealia",298.5,-5741.8
+"Scandinavia","Lake Svartkälstjärn",53972,6040.3,"Rumex",9153.6,3113.3
+"Scandinavia","Lake Svartkälstjärn",53972,6040.3,"Artemisia",9654.8,3614.5
+"Scandinavia","Lake Sämbosjön",4403,3041,"Plantago",6001,2960
+"Scandinavia","Lake Sämbosjön",4403,3041,"Cerealia",8103,5062
+"Scandinavia","Lake Sämbosjön",4403,3041,"Rumex",9917,6876
+"Scandinavia","Lake Sämbosjön",4403,3041,"Artemisia",9917,6876
+"Scandinavia","Lake Tibenatus",53980,6280,"Rumex",9797.573,3517.573
+"Scandinavia","Lake Tibenatus",53980,6280,"Artemisia",9797.573,3517.573
+"Scandinavia","Lake Trummen",4496,5690,"Plantago",5416,-274
+"Scandinavia","Lake Trummen",4496,5690,"Cerealia",3814,-1876
+"Scandinavia","Lake Trummen",4496,5690,"Rumex",9279,3589
+"Scandinavia","Lake Trummen",4496,5690,"Artemisia",9894,4204
+"Scandinavia","Lake Tsuolbmajavri",24155,6536,"Plantago",2809,-3727
+"Scandinavia","Lake Tsuolbmajavri",24155,6536,"Rumex",9998,3462
+"Scandinavia","Lake Tsuolbmajavri",24155,6536,"Artemisia",9998,3462
+"Scandinavia","Lake Uzlovoye",46453,6545,"Plantago",8080,1535
+"Scandinavia","Lake Uzlovoye",46453,6545,"Cerealia",4791,-1754
+"Scandinavia","Lake Uzlovoye",46453,6545,"Rumex",4353,-2192
+"Scandinavia","Lake Uzlovoye",46453,6545,"Artemisia",7751,1206
+"Scandinavia","Lake Verijärv",45391,6778,"Plantago",1381,-5397
+"Scandinavia","Lake Verijärv",45391,6778,"Rumex",8158,1380
+"Scandinavia","Lake Verijärv",45391,6778,"Artemisia",9962,3184
+"Scandinavia","Lake Vuolep Njakajaure",53978,6650,"Rumex",9060,2410
+"Scandinavia","Lake Vuolep Njakajaure",53978,6650,"Artemisia",9060,2410
+"Scandinavia","Landshaftnoe",4183,6412,"Plantago",4786,-1626
+"Scandinavia","Landshaftnoe",4183,6412,"Rumex",7496,1084
+"Scandinavia","Landshaftnoe",4183,6412,"Artemisia",9112,2700
+"Scandinavia","Leikishke Bog",4194,5843,"Plantago",7299,1456
+"Scandinavia","Leikishke Bog",4194,5843,"Artemisia",8915,3072
+"Scandinavia","Leikishke Bog",4195,4850,"Artemisia",9056,4206
+"Scandinavia","Lembolovskoye lake",46469,6637,"Plantago",325,-6312
+"Scandinavia","Lembolovskoye lake",46469,6637,"Rumex",6637,0
+"Scandinavia","Lembolovskoye lake",46469,6637,"Artemisia",9809,3172
+"Scandinavia","Lervahå bog",53119,5270,"Plantago",0,-5270
+"Scandinavia","Lervahå bog",53119,5270,"Rumex",7804,2534
+"Scandinavia","Lervahå bog",53119,5270,"Artemisia",6111,841
+"Scandinavia","Liivjarve Bog",4203,5688,"Cerealia",1327,-4361
+"Scandinavia","Liivjarve Bog",4203,5688,"Artemisia",9861,4173
+"Scandinavia","Lilla Gloppsjön",4200,6423,"Plantago",5236,-1187
+"Scandinavia","Lilla Gloppsjön",4200,6423,"Rumex",9968,3545
+"Scandinavia","Lilla Gloppsjön",4200,6423,"Artemisia",9793,3370
+"Scandinavia","Lille Kjelavatn",45713,6837,"Plantago",5737,-1100
+"Scandinavia","Lille Kjelavatn",45713,6837,"Rumex",8802,1965
+"Scandinavia","Lille Kjelavatn",45713,6837,"Artemisia",8638,1801
+"Scandinavia","Lina myr",55917,5391,"Plantago",7911,2520
+"Scandinavia","Lina myr",55917,5391,"Rumex",9589,4198
+"Scandinavia","Lina myr",55917,5391,"Artemisia",9954,4563
+"Scandinavia","Lisletjønn",45707,6721,"Plantago",7124,403
+"Scandinavia","Lisletjønn",45707,6721,"Rumex",9717,2996
+"Scandinavia","Lisletjønn",45707,6721,"Artemisia",8755,2034
+"Scandinavia","Liten Cap’pesjav’ri",20279,4483,"Plantago",3359,-1124
+"Scandinavia","Liten Cap’pesjav’ri",20279,4483,"Rumex",9439,4956
+"Scandinavia","Liten Cap’pesjav’ri",20279,4483,"Artemisia",9439,4956
+"Scandinavia","Litlvatnet",45636,5385,"Plantago",6216,831
+"Scandinavia","Litlvatnet",45636,5385,"Rumex",9626,4241
+"Scandinavia","Litlvatnet",45636,5385,"Artemisia",8709,3324
+"Scandinavia","Ljustjärnen",53966,6159,"Plantago",5614,-545
+"Scandinavia","Ljustjärnen",53966,6159,"Rumex",9997,3838
+"Scandinavia","Ljustjärnen",53966,6159,"Artemisia",9997,3838
+"Scandinavia","Mabo Moss",24110,5252,"Plantago",6601,1349
+"Scandinavia","Mabo Moss",24110,5252,"Cerealia",5504,252
+"Scandinavia","Mabo Moss",24110,5252,"Rumex",9735,4483
+"Scandinavia","Mabo Moss",24110,5252,"Artemisia",9914,4662
+"Scandinavia","Masehjavri",4257,5432,"Rumex",9013,3581
+"Scandinavia","Masehjavri",4257,5432,"Artemisia",9514,4082
+"Scandinavia","Mayralampi",4259,6420,"Plantago",6168,-252
+"Scandinavia","Mayralampi",4259,6420,"Rumex",8503,2083
+"Scandinavia","Mayralampi",4259,6420,"Artemisia",6085,-335
+"Scandinavia","Mezhgornoe",4263,3050,"Rumex",8397,5347
+"Scandinavia","Mezhgornoe",4263,3050,"Artemisia",9160,6110
+"Scandinavia","Mire Johvika",4497,4093,"Plantago",6887,2794
+"Scandinavia","Mire Johvika",4497,4093,"Cerealia",1342,-2751
+"Scandinavia","Mire Johvika",4497,4093,"Rumex",6323,2230
+"Scandinavia","Mire Johvika",4497,4093,"Artemisia",9681,5588
+"Scandinavia","Mire Pelisoo",4531,6519,"Plantago",8082,1563
+"Scandinavia","Mire Pelisoo",4531,6519,"Artemisia",9970,3451
+"Scandinavia","Mire Petrolivo",4346,5947,"Plantago",3570,-2377
+"Scandinavia","Mire Petrolivo",4346,5947,"Artemisia",9909,3962
+"Scandinavia","Mire Saviku",45404,6976,"Plantago",2981,-3995
+"Scandinavia","Mire Saviku",45404,6976,"Cerealia",1334,-5642
+"Scandinavia","Mire Saviku",45404,6976,"Artemisia",9595,2619
+"Scandinavia","Morttjern",45329,6783,"Plantago",9815,3032
+"Scandinavia","Morttjern",45329,6783,"Cerealia",1245,-5538
+"Scandinavia","Morttjern",45329,6783,"Rumex",9927,3144
+"Scandinavia","Morttjern",45329,6783,"Artemisia",9927,3144
+"Scandinavia","Mshinskoye raised bog",46490,6810,"Plantago",60,-6750
+"Scandinavia","Mshinskoye raised bog",46490,6810,"Rumex",2770,-4040
+"Scandinavia","Mshinskoye raised bog",46490,6810,"Artemisia",9950,3140
+"Scandinavia","Mukkavaara",4286,6751,"Rumex",9954,3203
+"Scandinavia","Mukkavaara",4286,6751,"Artemisia",9954,3203
+"Scandinavia","Mustjärve bog",45377,6900,"Plantago",5835,-1065
+"Scandinavia","Mustjärve bog",45377,6900,"Rumex",9729,2829
+"Scandinavia","Mustjärve bog",45377,6900,"Artemisia",9960,3060
+"Scandinavia","Myrvatnet",44941,244,"Plantago",3013,2769
+"Scandinavia","Myrvatnet",44941,244,"Cerealia",2431,2187
+"Scandinavia","Myrvatnet",44941,244,"Rumex",9799,9555
+"Scandinavia","Myrvatnet",44941,244,"Artemisia",9287,9043
+"Scandinavia","Måsåtjørnet",45351,3001,"Plantago",5993,2992
+"Scandinavia","Måsåtjørnet",45351,3001,"Rumex",9676,6675
+"Scandinavia","Måsåtjørnet",45351,3001,"Artemisia",7448,4447
+"Scandinavia","Nikolsko-Lutinskoye bog",46477,1286,"Plantago",7690,6404
+"Scandinavia","Nikolsko-Lutinskoye bog",46477,1286,"Cerealia",666,-620
+"Scandinavia","Nikolsko-Lutinskoye bog",46477,1286,"Rumex",9000,7714
+"Scandinavia","Nikolsko-Lutinskoye bog",46477,1286,"Artemisia",9612,8326
+"Scandinavia","Nizhneosinovskoye peat bog",46457,1262,"Cerealia",1165,-97
+"Scandinavia","Nizhneosinovskoye peat bog",46457,1262,"Rumex",8683,7421
+"Scandinavia","Nizhneosinovskoye peat bog",46457,1262,"Artemisia",9592,8330
+"Scandinavia","Oldenburg-Priesterwiese",49388,5790,"Plantago",6125,335
+"Scandinavia","Oldenburg-Priesterwiese",49388,5790,"Cerealia",5971,181
+"Scandinavia","Oldenburg-Priesterwiese",49388,5790,"Rumex",9987,4197
+"Scandinavia","Oldenburg-Priesterwiese",49388,5790,"Artemisia",9987,4197
+"Scandinavia","Osvea",4325,6868,"Plantago",2047,-4821
+"Scandinavia","Osvea",4325,6868,"Cerealia",2276,-4592
+"Scandinavia","Osvea",4325,6868,"Rumex",3191,-3677
+"Scandinavia","Osvea",4325,6868,"Artemisia",9290,2422
+"Scandinavia","Pamerkiai Outcrop",4338,6580,"Plantago",9499,2919
+"Scandinavia","Pamerkiai Outcrop",4338,6580,"Cerealia",6580,0
+"Scandinavia","Pamerkiai Outcrop",4338,6580,"Rumex",9499,2919
+"Scandinavia","Pamerkiai Outcrop",4338,6580,"Artemisia",9767,3187
+"Scandinavia","Pantene Mire",49654,6797.941,"Plantago",9122.07,2324.129
+"Scandinavia","Pantene Mire",49654,6797.941,"Rumex",9122.07,2324.129
+"Scandinavia","Pantene Mire",49654,6797.941,"Artemisia",9877.259,3079.318
+"Scandinavia","Parika",46544,6534,"Plantago",824,-5710
+"Scandinavia","Parika",46544,6534,"Rumex",8307,1773
+"Scandinavia","Parika",46544,6534,"Artemisia",9917,3383
+"Scandinavia","Pitkasoo",48926,6648,"Plantago",9545,2897
+"Scandinavia","Pitkasoo",48926,6648,"Cerealia",4818,-1830
+"Scandinavia","Pitkasoo",48926,6648,"Rumex",9931,3283
+"Scandinavia","Pitkasoo",48926,6648,"Artemisia",9931,3283
+"Scandinavia","Probstenwerder",49432,6943.8,"Plantago",5804.455,-1139.345
+"Scandinavia","Probstenwerder",49432,6943.8,"Rumex",8740,1796.2
+"Scandinavia","Probstenwerder",49432,6943.8,"Artemisia",8424.938,1481.138
+"Scandinavia","Raigastvere Lake",4369,5311,"Plantago",5636,325
+"Scandinavia","Raigastvere Lake",4369,5311,"Cerealia",3402,-1909
+"Scandinavia","Raigastvere Lake",4369,5311,"Rumex",3402,-1909
+"Scandinavia","Raigastvere Lake",4369,5311,"Artemisia",9912,4601
+"Scandinavia","Ran Viken",4370,4333,"Plantago",5864,1531
+"Scandinavia","Ran Viken",4370,4333,"Cerealia",5258,925
+"Scandinavia","Ran Viken",4370,4333,"Rumex",9825,5492
+"Scandinavia","Ran Viken",4370,4333,"Artemisia",9947,5614
+"Scandinavia","Reiersdalvann",45722,1869,"Plantago",5861,3992
+"Scandinavia","Reiersdalvann",45722,1869,"Cerealia",2544,675
+"Scandinavia","Reiersdalvann",45722,1869,"Rumex",9765,7896
+"Scandinavia","Reiersdalvann",45722,1869,"Artemisia",9765,7896
+"Scandinavia","Reinskaret bog",53131,6609,"Rumex",8601,1992
+"Scandinavia","Reinskaret bog",53131,6609,"Artemisia",7484,875
+"Scandinavia","Rudushskoe Lake",4390,4260,"Plantago",9234,4974
+"Scandinavia","Rudushskoe Lake",4390,4260,"Cerealia",3640,-620
+"Scandinavia","Rudushskoe Lake",4390,4260,"Artemisia",9234,4974
+"Scandinavia","Ryönänsuo",4393,3477,"Plantago",3087,-390
+"Scandinavia","Ryönänsuo",4393,3477,"Cerealia",2804,-673
+"Scandinavia","Ryönänsuo",4393,3477,"Rumex",9313,5836
+"Scandinavia","Ryönänsuo",4393,3477,"Artemisia",9067,5590
+"Scandinavia","Råttuvarri",4372,6966,"Plantago",7659,693
+"Scandinavia","Råttuvarri",4372,6966,"Rumex",9820,2854
+"Scandinavia","Råttuvarri",4372,6966,"Artemisia",4597,-2369
+"Scandinavia","Sandvikvatn",20060,6673,"Plantago",9624,2951
+"Scandinavia","Sandvikvatn",20060,6673,"Cerealia",2770,-3903
+"Scandinavia","Sandvikvatn",20060,6673,"Rumex",9847,3174
+"Scandinavia","Sandvikvatn",20060,6673,"Artemisia",9847,3174
+"Scandinavia","Shepeta Bog",4414,6765,"Rumex",7652,887
+"Scandinavia","Shepeta Bog",4414,6765,"Artemisia",8155,1390
+"Scandinavia","Stavsåkra",54003,5650,"Plantago",6935,1285
+"Scandinavia","Stavsåkra",54003,5650,"Cerealia",2410,-3240
+"Scandinavia","Stavsåkra",54003,5650,"Rumex",9920,4270
+"Scandinavia","Stavsåkra",54003,5650,"Artemisia",9920,4270
+"Scandinavia","Stobydeltat",54016,2637,"Plantago",5767,3130
+"Scandinavia","Stobydeltat",54016,2637,"Cerealia",2337,-300
+"Scandinavia","Stobydeltat",54016,2637,"Rumex",9703,7066
+"Scandinavia","Stobydeltat",54016,2637,"Artemisia",9813,7176
+"Scandinavia","Stor-flen",53988,4388,"Plantago",197,-4191
+"Scandinavia","Stor-flen",53988,4388,"Cerealia",390,-3998
+"Scandinavia","Stor-flen",53988,4388,"Rumex",903,-3485
+"Scandinavia","Stor-flen",53988,4388,"Artemisia",5954,1566
+"Scandinavia","Storasjö",54004,473,"Plantago",9581,9108
+"Scandinavia","Storasjö",54004,473,"Cerealia",1162,689
+"Scandinavia","Storasjö",54004,473,"Rumex",7593,7120
+"Scandinavia","Storasjö",54004,473,"Artemisia",9946,9473
+"Scandinavia","Storasjö",54005,473,"Plantago",9581,9108
+"Scandinavia","Storasjö",54005,473,"Cerealia",1162,689
+"Scandinavia","Storasjö",54005,473,"Rumex",7593,7120
+"Scandinavia","Storasjö",54005,473,"Artemisia",9946,9473
+"Scandinavia","Storsandvatnet",45331,3586,"Plantago",2139,-1447
+"Scandinavia","Storsandvatnet",45331,3586,"Rumex",9975,6389
+"Scandinavia","Storsandvatnet",45331,3586,"Artemisia",9501,5915
+"Scandinavia","Storsnasen",53968,6090,"Plantago",3463,-2627
+"Scandinavia","Storsnasen",53968,6090,"Rumex",9690,3600
+"Scandinavia","Storsnasen",53968,6090,"Artemisia",9690,3600
+"Scandinavia","Sudoble Lake",4466,6717,"Artemisia",9796,3079
+"Scandinavia","Surusoo bog",48917,6969,"Plantago",3355,-3614
+"Scandinavia","Surusoo bog",48917,6969,"Cerealia",1364,-5605
+"Scandinavia","Surusoo bog",48917,6969,"Rumex",9897,2928
+"Scandinavia","Surusoo bog",48917,6969,"Artemisia",9979,3010
+"Scandinavia","Surusoo bog",48919,6969,"Plantago",3355,-3614
+"Scandinavia","Surusoo bog",48919,6969,"Cerealia",1364,-5605
+"Scandinavia","Surusoo bog",48919,6969,"Rumex",9897,2928
+"Scandinavia","Surusoo bog",48919,6969,"Artemisia",9979,3010
+"Scandinavia","Surusoo bog",48921,6969,"Plantago",3355,-3614
+"Scandinavia","Surusoo bog",48921,6969,"Cerealia",1364,-5605
+"Scandinavia","Surusoo bog",48921,6969,"Rumex",9897,2928
+"Scandinavia","Surusoo bog",48921,6969,"Artemisia",9979,3010
+"Scandinavia","Surusoo bog",48923,6969,"Plantago",3355,-3614
+"Scandinavia","Surusoo bog",48923,6969,"Cerealia",1364,-5605
+"Scandinavia","Surusoo bog",48923,6969,"Rumex",9897,2928
+"Scandinavia","Surusoo bog",48923,6969,"Artemisia",9979,3010
+"Scandinavia","Svartvatnet",45343,4034,"Plantago",2452,-1582
+"Scandinavia","Svartvatnet",45343,4034,"Cerealia",1083,-2951
+"Scandinavia","Svartvatnet",45343,4034,"Rumex",9922,5888
+"Scandinavia","Svartvatnet",45343,4034,"Artemisia",9922,5888
+"Scandinavia","Svencele Bog",4470,6911,"Rumex",7789,878
+"Scandinavia","Svencele Bog",4470,6911,"Artemisia",7789,878
+"Scandinavia","Svetinu lake",49658,1634.585,"Plantago",9782.8,8148.215
+"Scandinavia","Svetinu lake",49658,1634.585,"Cerealia",7121.714,5487.129
+"Scandinavia","Svetinu lake",49658,1634.585,"Rumex",9782.8,8148.215
+"Scandinavia","Svetinu lake",49658,1634.585,"Artemisia",9782.8,8148.215
+"Scandinavia","Syrjälänsuo",4472,4335,"Cerealia",1253,-3082
+"Scandinavia","Syrjälänsuo",4472,4335,"Rumex",9914,5579
+"Scandinavia","Syrjälänsuo",4472,4335,"Artemisia",9914,5579
+"Scandinavia","Thorsberger Moor",49477,4021,"Plantago",7047,3026
+"Scandinavia","Thorsberger Moor",49477,4021,"Cerealia",9961,5940
+"Scandinavia","Thorsberger Moor",49477,4021,"Rumex",9961,5940
+"Scandinavia","Thorsberger Moor",49477,4021,"Artemisia",9961,5940
+"Scandinavia","Tondi",4490,4462,"Plantago",9157,4695
+"Scandinavia","Tondi",4490,4462,"Cerealia",2942,-1520
+"Scandinavia","Tondi",4490,4462,"Rumex",3042,-1420
+"Scandinavia","Tondi",4490,4462,"Artemisia",9932,5470
+"Scandinavia","Toskaljarvi",52088,5605.2,"Plantago",541,-5064.2
+"Scandinavia","Toskaljarvi",52088,5605.2,"Rumex",9584,3978.8
+"Scandinavia","Toskaljarvi",52088,5605.2,"Artemisia",9463.4,3858.2
+"Scandinavia","Trettetjørn",20042,6399,"Plantago",4176,-2223
+"Scandinavia","Trettetjørn",20042,6399,"Rumex",9784,3385
+"Scandinavia","Trettetjørn",20042,6399,"Artemisia",7666,1267
+"Scandinavia","Trondheimsfjord",20058,6216,"Plantago",7963,1747
+"Scandinavia","Trondheimsfjord",20058,6216,"Rumex",6421,205
+"Scandinavia","Trondheimsfjord",20058,6216,"Artemisia",7923,1707
+"Scandinavia","Trygåsen (II)",53986,6044,"Plantago",498,-5546
+"Scandinavia","Trygåsen (II)",53986,6044,"Cerealia",778,-5266
+"Scandinavia","Trygåsen (II)",53986,6044,"Rumex",6582,538
+"Scandinavia","Trygåsen (II)",53986,6044,"Artemisia",8090,2046
+"Scandinavia","Tytuvenu Tyrelis",4500,6186,"Plantago",5380,-806
+"Scandinavia","Tytuvenu Tyrelis",4500,6186,"Rumex",7155,969
+"Scandinavia","Tytuvenu Tyrelis",4500,6186,"Artemisia",8981,2795
+"Scandinavia","Vasikkasuo",4510,2895,"Plantago",9774,6879
+"Scandinavia","Vasikkasuo",4510,2895,"Cerealia",4948,2053
+"Scandinavia","Vasikkasuo",4510,2895,"Rumex",9611,6716
+"Scandinavia","Vasikkasuo",4510,2895,"Artemisia",9774,6879
+"Scandinavia","Vaskna",55045,6512,"Plantago",1430,-5082
+"Scandinavia","Vaskna",55045,6512,"Cerealia",1025,-5487
+"Scandinavia","Vaskna",55045,6512,"Rumex",9700,3188
+"Scandinavia","Vaskna",55045,6512,"Artemisia",9864,3352
+"Scandinavia","Vedruka",48928,6327,"Plantago",4277,-2050
+"Scandinavia","Vedruka",48928,6327,"Rumex",8027,1700
+"Scandinavia","Vedruka",48928,6327,"Artemisia",8287,1960
+"Scandinavia","Velise",55053,3816,"Plantago",9541,5725
+"Scandinavia","Velise",55053,3816,"Rumex",9624,5808
+"Scandinavia","Velise",55053,3816,"Artemisia",9979,6163
+"Scandinavia","Vestre Øykjamyrtjørn",20050,6277,"Plantago",9084,2807
+"Scandinavia","Vestre Øykjamyrtjørn",20050,6277,"Rumex",9976,3699
+"Scandinavia","Vestre Øykjamyrtjørn",20050,6277,"Artemisia",9976,3699
+"Scandinavia","Viitna Linajärv",45385,6753,"Plantago",1443,-5310
+"Scandinavia","Viitna Linajärv",45385,6753,"Rumex",8575,1822
+"Scandinavia","Viitna Linajärv",45385,6753,"Artemisia",9721,2968
+"Scandinavia","Viitna Linajärv",45387,6386,"Plantago",269,-6117
+"Scandinavia","Viitna Linajärv",45387,6386,"Rumex",101,-6285
+"Scandinavia","Viitna Linajärv",45387,6386,"Artemisia",4045,-2341
+"Scandinavia","Viitna Pikkjärv",55815,6959,"Plantago",610,-6349
+"Scandinavia","Viitna Pikkjärv",55815,6959,"Rumex",8575,1616
+"Scandinavia","Viitna Pikkjärv",55815,6959,"Artemisia",9785,2826
+"Scandinavia","Viki Mire",49660,5993.538,"Plantago",8878.383,2884.845
+"Scandinavia","Viki Mire",49660,5993.538,"Rumex",9723.519,3729.981
+"Scandinavia","Viki Mire",49660,5993.538,"Artemisia",9723.519,3729.981
+"Scandinavia","Vishnevskoe Lake",46514,5364,"Rumex",6220,856
+"Scandinavia","Vishnevskoe Lake",46514,5364,"Artemisia",9764,4400
+"Scandinavia","Vuolep Allasasjaure",45312,2809,"Plantago",4934,2125
+"Scandinavia","Vuolep Allasasjaure",45312,2809,"Rumex",9044,6235
+"Scandinavia","Vuolep Allasasjaure",45312,2809,"Artemisia",9044,6235
+"Scandinavia","Vuoskkujávri",45311,6864,"Rumex",9956,3092
+"Scandinavia","Vuoskkujávri",45311,6864,"Artemisia",9613,2749
+"Scandinavia","Väike Juusa",45389,6942,"Plantago",1029,-5913
+"Scandinavia","Väike Juusa",45389,6942,"Rumex",7325,383
+"Scandinavia","Väike Juusa",45389,6942,"Artemisia",9805,2863
+"Scandinavia","Vällamäe",45393,4221,"Cerealia",1093,-3128
+"Scandinavia","Vällamäe",45393,4221,"Artemisia",7921,3700
+"Scandinavia","Vällamäe",45395,5951,"Cerealia",1796,-4155
+"Scandinavia","Vällamäe",45395,5951,"Rumex",1796,-4155
+"Scandinavia","Vällamäe",45395,5951,"Artemisia",9631,3680
+"Scandinavia","Västragylet",53964,6715.8,"Plantago",5526.8,-1189
+"Scandinavia","Västragylet",53964,6715.8,"Rumex",6517.6,-198.2
+"Scandinavia","Västragylet",53964,6715.8,"Artemisia",7508.4,792.599999999999
+"Scandinavia","Vôhma Mire",4523,6376,"Plantago",2765,-3611
+"Scandinavia","Vôhma Mire",4523,6376,"Cerealia",1520,-4856
+"Scandinavia","Vôhma Mire",4523,6376,"Rumex",3150,-3226
+"Scandinavia","Vôhma Mire",4523,6376,"Artemisia",8554,2178
+"Scandinavia","Ylimysneva",4539,5266,"Plantago",9276,4010
+"Scandinavia","Ylimysneva",4539,5266,"Cerealia",9081,3815
+"Scandinavia","Ylimysneva",4539,5266,"Rumex",9471,4205
+"Scandinavia","Ylimysneva",4539,5266,"Artemisia",9471,4205
+"Scandinavia","Zarnowiec Peat Bog",22845,6571,"Plantago",9722,3151
+"Scandinavia","Zarnowiec Peat Bog",22845,6571,"Cerealia",4525,-2046
+"Scandinavia","Zarnowiec Peat Bog",22845,6571,"Rumex",9722,3151
+"Scandinavia","Zarnowiec Peat Bog",22845,6571,"Artemisia",9853,3282
+"Scandinavia","Ähijärv",62021,4,"Plantago",5158,5154
+"Scandinavia","Ähijärv",62021,4,"Cerealia",2263,2259
+"Scandinavia","Ähijärv",62021,4,"Rumex",9624,9620
+"Scandinavia","Ähijärv",62021,4,"Artemisia",9960,9956
+"Scandinavia","Åntu Sinijarv",3882,6557,"Artemisia",9481,2924
+"Scandinavia","Øygardstjønn",45704,1407,"Plantago",4848,3441
+"Scandinavia","Øygardstjønn",45704,1407,"Rumex",9970,8563
+"Scandinavia","Øygardstjønn",45704,1407,"Artemisia",9407,8000
+"Scandinavia","Ümarjärv",45400,6676,"Cerealia",3919,-2757
+"Scandinavia","Ümarjärv",45400,6676,"Rumex",3891,-2785
+"Scandinavia","Ümarjärv",45400,6676,"Artemisia",9950,3274
+"Central_Europe","Selle di Carnino",342,5882,"Plantago",4660,-1222
+"Central_Europe","Selle di Carnino",342,5882,"Cerealia",1928,-3954
+"Central_Europe","Selle di Carnino",342,5882,"Rumex",7886,2004
+"Central_Europe","Selle di Carnino",342,5882,"Artemisia",7886,2004
+"Central_Europe","Plan du Laus",3869,6843,"Plantago",9907,3064
+"Central_Europe","Plan du Laus",3869,6843,"Cerealia",9243,2400
+"Central_Europe","Plan du Laus",3869,6843,"Rumex",9847,3004
+"Central_Europe","Plan du Laus",3869,6843,"Artemisia",9907,3064
+"Central_Europe","Hières sur Amby",3871,6907,"Plantago",9912,3005
+"Central_Europe","Hières sur Amby",3871,6907,"Cerealia",5193,-1714
+"Central_Europe","Hières sur Amby",3871,6907,"Rumex",9727,2820
+"Central_Europe","Hières sur Amby",3871,6907,"Artemisia",9983,3076
+"Central_Europe","Ampoix",3872,4953,"Plantago",8256,3303
+"Central_Europe","Ampoix",3872,4953,"Cerealia",7842,2889
+"Central_Europe","Ampoix",3872,4953,"Rumex",9962,5009
+"Central_Europe","Ampoix",3872,4953,"Artemisia",9962,5009
+"Central_Europe","Amsoldingersee",3875,6400,"Plantago",9490,3090
+"Central_Europe","Amsoldingersee",3875,6400,"Cerealia",5282,-1118
+"Central_Europe","Amsoldingersee",3875,6400,"Rumex",9490,3090
+"Central_Europe","Amsoldingersee",3875,6400,"Artemisia",9984,3584
+"Central_Europe","Aronde",3887,6531,"Plantago",6531,0
+"Central_Europe","Aronde",3887,6531,"Cerealia",2632,-3899
+"Central_Europe","Aronde",3887,6531,"Rumex",3767,-2764
+"Central_Europe","Aronde",3887,6531,"Artemisia",9735,3204
+"Central_Europe","Altenweiher",3892,6969,"Plantago",6969,0
+"Central_Europe","Altenweiher",3892,6969,"Cerealia",8075,1106
+"Central_Europe","Altenweiher",3892,6969,"Rumex",9999,3030
+"Central_Europe","Altenweiher",3892,6969,"Artemisia",9301,2332
+"Central_Europe","Atxuri",3893,5790,"Plantago",6284,494
+"Central_Europe","Atxuri",3893,5790,"Cerealia",1840,-3950
+"Central_Europe","Atxuri",3893,5790,"Rumex",7370,1580
+"Central_Europe","Atxuri",3893,5790,"Artemisia",7370,1580
+"Central_Europe","Auneau",3894,6888,"Plantago",9740,2852
+"Central_Europe","Auneau",3894,6888,"Cerealia",9439,2551
+"Central_Europe","Auneau",3894,6888,"Rumex",3965,-2923
+"Central_Europe","Auneau",3894,6888,"Artemisia",9941,3053
+"Central_Europe","Basse-Ville",3900,6947,"Plantago",8712,1765
+"Central_Europe","Basse-Ville",3900,6947,"Cerealia",7703,756
+"Central_Europe","Basse-Ville",3900,6947,"Rumex",8838,1891
+"Central_Europe","Basse-Ville",3900,6947,"Artemisia",8712,1765
+"Central_Europe","Puerto de Belate",3910,5878,"Plantago",8646,2768
+"Central_Europe","Puerto de Belate",3910,5878,"Cerealia",7983,2105
+"Central_Europe","Puerto de Belate",3910,5878,"Rumex",8646,2768
+"Central_Europe","Puerto de Belate",3910,5878,"Artemisia",8646,2768
+"Central_Europe","Puerto de Belate",3911,6911,"Plantago",7145,234
+"Central_Europe","Puerto de Belate",3911,6911,"Cerealia",6444,-467
+"Central_Europe","Puerto de Belate",3911,6911,"Rumex",7379,468
+"Central_Europe","Puerto de Belate",3911,6911,"Artemisia",7613,702
+"Central_Europe","Biot",3930,5617,"Plantago",9831,4214
+"Central_Europe","Biot",3930,5617,"Cerealia",9300,3683
+"Central_Europe","Biot",3930,5617,"Rumex",9422,3805
+"Central_Europe","Biot",3930,5617,"Artemisia",9953,4336
+"Central_Europe","Bláto",3935,6821,"Plantago",1549,-5272
+"Central_Europe","Bláto",3935,6821,"Cerealia",3170,-3651
+"Central_Europe","Bláto",3935,6821,"Rumex",9846,3025
+"Central_Europe","Bláto",3935,6821,"Artemisia",9846,3025
+"Central_Europe","Bledowo Lake",3938,5207,"Plantago",9268,4061
+"Central_Europe","Bledowo Lake",3938,5207,"Cerealia",4020,-1187
+"Central_Europe","Bledowo Lake",3938,5207,"Rumex",9882,4675
+"Central_Europe","Bledowo Lake",3938,5207,"Artemisia",9882,4675
+"Central_Europe","Boehnigsee Goldmoos",3946,6371,"Plantago",9981,3610
+"Central_Europe","Boehnigsee Goldmoos",3946,6371,"Cerealia",5758,-613
+"Central_Europe","Boehnigsee Goldmoos",3946,6371,"Rumex",9981,3610
+"Central_Europe","Boehnigsee Goldmoos",3946,6371,"Artemisia",9981,3610
+"Central_Europe","Saint Michel de Braspart",3951,6177,"Plantago",7801,1624
+"Central_Europe","Saint Michel de Braspart",3951,6177,"Rumex",7666,1489
+"Central_Europe","Saint Michel de Braspart",3951,6177,"Artemisia",8343,2166
+"Central_Europe","La Caudelais",3972,6859,"Plantago",7615,756
+"Central_Europe","La Caudelais",3972,6859,"Cerealia",7524,665
+"Central_Europe","La Caudelais",3972,6859,"Rumex",7575,716
+"Central_Europe","La Caudelais",3972,6859,"Artemisia",7635,776
+"Central_Europe","Vallon de Provence",3973,6879,"Plantago",9897,3018
+"Central_Europe","Vallon de Provence",3973,6879,"Cerealia",6344,-535
+"Central_Europe","Vallon de Provence",3973,6879,"Rumex",9897,3018
+"Central_Europe","Vallon de Provence",3973,6879,"Artemisia",9897,3018
+"Central_Europe","Lac de Chambedaze",3977,6664,"Plantago",8344,1680
+"Central_Europe","Lac de Chambedaze",3977,6664,"Cerealia",988,-5676
+"Central_Europe","Lac de Chambedaze",3977,6664,"Rumex",8482,1818
+"Central_Europe","Lac de Chambedaze",3977,6664,"Artemisia",8848,2184
+"Central_Europe","Bois de la Masse",3979,4998,"Plantago",9650,4652
+"Central_Europe","Bois de la Masse",3979,4998,"Cerealia",3879,-1119
+"Central_Europe","Bois de la Masse",3979,4998,"Rumex",9866,4868
+"Central_Europe","Bois de la Masse",3979,4998,"Artemisia",9866,4868
+"Central_Europe","Czajkow",4007,2450,"Plantago",10000,7550
+"Central_Europe","Czajkow",4007,2450,"Cerealia",9455,7005
+"Central_Europe","Czajkow",4007,2450,"Rumex",10000,7550
+"Central_Europe","Czajkow",4007,2450,"Artemisia",10000,7550
+"Central_Europe","Czajkow",4008,6519,"Plantago",9540,3021
+"Central_Europe","Czajkow",4008,6519,"Cerealia",5250,-1269
+"Central_Europe","Czajkow",4008,6519,"Rumex",9760,3241
+"Central_Europe","Czajkow",4008,6519,"Artemisia",9980,3461
+"Central_Europe","Czajkow",4009,5764,"Plantago",6354,590
+"Central_Europe","Czajkow",4009,5764,"Cerealia",6943,1179
+"Central_Europe","Czajkow",4009,5764,"Rumex",10000,4236
+"Central_Europe","Czajkow",4009,5764,"Artemisia",10000,4236
+"Central_Europe","Dvůr Anšov",4025,4689,"Plantago",9871,5182
+"Central_Europe","Dvůr Anšov",4025,4689,"Cerealia",4461,-228
+"Central_Europe","Dvůr Anšov",4025,4689,"Rumex",8711,4022
+"Central_Europe","Dvůr Anšov",4025,4689,"Artemisia",9974,5285
+"Central_Europe","Embouchac",4028,6502,"Plantago",8146,1644
+"Central_Europe","Embouchac",4028,6502,"Cerealia",7684,1182
+"Central_Europe","Embouchac",4028,6502,"Rumex",8226,1724
+"Central_Europe","Embouchac",4028,6502,"Artemisia",8246,1744
+"Central_Europe","Ennerie",4029,6944,"Plantago",8693,1749
+"Central_Europe","Ennerie",4029,6944,"Cerealia",8693,1749
+"Central_Europe","Ennerie",4029,6944,"Rumex",7819,875
+"Central_Europe","Ennerie",4029,6944,"Artemisia",8668,1724
+"Central_Europe","Fletnowo",4043,4836,"Plantago",4836,0
+"Central_Europe","Fletnowo",4043,4836,"Cerealia",5928,1092
+"Central_Europe","Fletnowo",4043,4836,"Artemisia",9895,5059
+"Central_Europe","Flögeln",4045,5822,"Plantago",8285,2463
+"Central_Europe","Flögeln",4045,5822,"Cerealia",9304,3482
+"Central_Europe","Flögeln",4045,5822,"Rumex",9304,3482
+"Central_Europe","Flögeln",4045,5822,"Artemisia",9559,3737
+"Central_Europe","Le Fourneau",4056,6663,"Plantago",8350,1687
+"Central_Europe","Le Fourneau",4056,6663,"Cerealia",4103,-2560
+"Central_Europe","Le Fourneau",4056,6663,"Rumex",4272,-2391
+"Central_Europe","Le Fourneau",4056,6663,"Artemisia",8656,1993
+"Central_Europe","Fuchsschwanzmoos",4058,6882,"Plantago",5911,-971
+"Central_Europe","Fuchsschwanzmoos",4058,6882,"Cerealia",4063,-2819
+"Central_Europe","Fuchsschwanzmoos",4058,6882,"Rumex",9840,2958
+"Central_Europe","Fuchsschwanzmoos",4058,6882,"Artemisia",9840,2958
+"Central_Europe","Giecz",4059,6300,"Plantago",6660,360
+"Central_Europe","Giecz",4059,6300,"Cerealia",3841,-2459
+"Central_Europe","Giecz",4059,6300,"Rumex",9050,2750
+"Central_Europe","Giecz",4059,6300,"Artemisia",9050,2750
+"Central_Europe","Bois des Gardes",4064,6277,"Plantago",8801,2524
+"Central_Europe","Bois des Gardes",4064,6277,"Cerealia",6697,420
+"Central_Europe","Bois des Gardes",4064,6277,"Rumex",9923,3646
+"Central_Europe","Bois des Gardes",4064,6277,"Artemisia",8661,2384
+"Central_Europe","Hawks Tor",4086,6294,"Plantago",9820,3526
+"Central_Europe","Hawks Tor",4086,6294,"Artemisia",9820,3526
+"Central_Europe","Hockham Mere",4095,6926,"Plantago",9563,2637
+"Central_Europe","Hockham Mere",4095,6926,"Cerealia",5222,-1704
+"Central_Europe","Hockham Mere",4095,6926,"Rumex",9631,2705
+"Central_Europe","Hockham Mere",4095,6926,"Artemisia",9892,2966
+"Central_Europe","Ivano-Frankovskoye",4104,6250,"Artemisia",10000,3750
+"Central_Europe","Liptovský Ján",4118,6097,"Plantago",9070,2973
+"Central_Europe","Liptovský Ján",4118,6097,"Rumex",5885,-212
+"Central_Europe","Liptovský Ján",4118,6097,"Artemisia",9925,3828
+"Central_Europe","Jasiel",4120,6666,"Plantago",3755,-2911
+"Central_Europe","Jasiel",4120,6666,"Cerealia",688,-5978
+"Central_Europe","Jasiel",4120,6666,"Rumex",9027,2361
+"Central_Europe","Jasiel",4120,6666,"Artemisia",9859,3193
+"Central_Europe","Červené blato",4123,6747,"Plantago",4378,-2369
+"Central_Europe","Červené blato",4123,6747,"Rumex",8736,1989
+"Central_Europe","Červené blato",4123,6747,"Artemisia",9709,2962
+"Central_Europe","Barbora",4129,6608,"Plantago",9019,2411
+"Central_Europe","Barbora",4129,6608,"Rumex",8837,2229
+"Central_Europe","Barbora",4129,6608,"Artemisia",9019,2411
+"Central_Europe","Kluki",4154,6741,"Plantago",4089,-2652
+"Central_Europe","Kluki",4154,6741,"Cerealia",2239,-4502
+"Central_Europe","Kluki",4154,6741,"Rumex",9383,2642
+"Central_Europe","Kluki",4154,6741,"Artemisia",9383,2642
+"Central_Europe","Col des Lauzes",4186,6553,"Plantago",8260,1707
+"Central_Europe","Col des Lauzes",4186,6553,"Cerealia",4007,-2546
+"Central_Europe","Col des Lauzes",4186,6553,"Rumex",4587,-1966
+"Central_Europe","Col des Lauzes",4186,6553,"Artemisia",7658,1105
+"Central_Europe","Lake Lednica",4192,3666,"Plantago",5644,1978
+"Central_Europe","Lake Lednica",4192,3666,"Cerealia",4223,557
+"Central_Europe","Lake Lednica",4192,3666,"Rumex",9700,6034
+"Central_Europe","Lake Lednica",4192,3666,"Artemisia",9879,6213
+"Central_Europe","Lake Lednica",4193,3738,"Plantago",5368,1630
+"Central_Europe","Lake Lednica",4193,3738,"Cerealia",5045,1307
+"Central_Europe","Lake Lednica",4193,3738,"Rumex",5482,1744
+"Central_Europe","Lake Lednica",4193,3738,"Artemisia",9910,6172
+"Central_Europe","Leikishke Bog",4194,5843,"Plantago",7299,1456
+"Central_Europe","Leikishke Bog",4194,5843,"Artemisia",8915,3072
+"Central_Europe","Leikishke Bog",4195,4850,"Artemisia",9056,4206
+"Central_Europe","Lac Long Inférieur",4211,6168,"Plantago",9661,3493
+"Central_Europe","Lac Long Inférieur",4211,6168,"Cerealia",7986,1818
+"Central_Europe","Lac Long Inférieur",4211,6168,"Rumex",9661,3493
+"Central_Europe","Lac Long Inférieur",4211,6168,"Artemisia",9661,3493
+"Central_Europe","Lobsigensee",4213,2006,"Plantago",7447,5441
+"Central_Europe","Lobsigensee",4213,2006,"Cerealia",5720,3714
+"Central_Europe","Lobsigensee",4213,2006,"Rumex",9903,7897
+"Central_Europe","Lobsigensee",4213,2006,"Artemisia",9943,7937
+"Central_Europe","Locmariaquer",4215,6882,"Plantago",9573,2691
+"Central_Europe","Locmariaquer",4215,6882,"Cerealia",8899,2017
+"Central_Europe","Locmariaquer",4215,6882,"Rumex",8562,1680
+"Central_Europe","Locmariaquer",4215,6882,"Artemisia",9910,3028
+"Central_Europe","Vallon de Provence",4507,3453,"Plantago",9860,6407
+"Central_Europe","Vallon de Provence",4507,3453,"Cerealia",7124,3671
+"Central_Europe","Vallon de Provence",4507,3453,"Rumex",9860,6407
+"Central_Europe","Vallon de Provence",4507,3453,"Artemisia",9860,6407
+"Central_Europe","Švarcenberk",24084,6855,"Plantago",9727,2872
+"Central_Europe","Švarcenberk",24084,6855,"Cerealia",5951,-904
+"Central_Europe","Švarcenberk",24084,6855,"Rumex",9893,3038
+"Central_Europe","Švarcenberk",24084,6855,"Artemisia",9893,3038
+"Central_Europe","Švarcenberk",24086,6969,"Plantago",8830,1861
+"Central_Europe","Švarcenberk",24086,6969,"Cerealia",1855,-5114
+"Central_Europe","Švarcenberk",24086,6969,"Rumex",8830,1861
+"Central_Europe","Švarcenberk",24086,6969,"Artemisia",9963,2994
+"Central_Europe","Komořanské jezero",24089,6159,"Plantago",6159,0
+"Central_Europe","Komořanské jezero",24089,6159,"Cerealia",3532,-2627
+"Central_Europe","Komořanské jezero",24089,6159,"Rumex",9056,2897
+"Central_Europe","Komořanské jezero",24089,6159,"Artemisia",9353,3194
+"Central_Europe","Borkovická blata",24256,7000,"Plantago",6097,-903
+"Central_Europe","Borkovická blata",24256,7000,"Rumex",9788,2788
+"Central_Europe","Borkovická blata",24256,7000,"Artemisia",9788,2788
+"Central_Europe","Clapeyret",25279,6136,"Plantago",9773,3637
+"Central_Europe","Clapeyret",25279,6136,"Cerealia",841,-5295
+"Central_Europe","Clapeyret",25279,6136,"Artemisia",9773,3637
+"Central_Europe","Hières sur Amby",25285,6775,"Plantago",9790,3015
+"Central_Europe","Hières sur Amby",25285,6775,"Cerealia",4437,-2338
+"Central_Europe","Hières sur Amby",25285,6775,"Rumex",9949,3174
+"Central_Europe","Hières sur Amby",25285,6775,"Artemisia",9949,3174
+"Central_Europe","Aegelsee",40627,6982,"Plantago",6249,-733
+"Central_Europe","Aegelsee",40627,6982,"Cerealia",7846,864
+"Central_Europe","Aegelsee",40627,6982,"Rumex",9844,2862
+"Central_Europe","Aegelsee",40627,6982,"Artemisia",9844,2862
+"Central_Europe","Le Grand Etang de Suze-La-Rousse",42719,6687,"Plantago",7690,1003
+"Central_Europe","Le Grand Etang de Suze-La-Rousse",42719,6687,"Cerealia",6687,0
+"Central_Europe","Le Grand Etang de Suze-La-Rousse",42719,6687,"Rumex",7480,793
+"Central_Europe","Le Grand Etang de Suze-La-Rousse",42719,6687,"Artemisia",10000,3313
+"Central_Europe","Lobsigensee",52645,6814,"Plantago",5069,-1745
+"Central_Europe","Lobsigensee",52645,6814,"Cerealia",8650,1836
+"Central_Europe","Lobsigensee",52645,6814,"Rumex",8880,2066
+"Central_Europe","Lobsigensee",52645,6814,"Artemisia",9775,2961
+"Central_Europe","Lobsigensee",52648,5726,"Plantago",6513,787
+"Central_Europe","Lobsigensee",52648,5726,"Cerealia",5470,-256
+"Central_Europe","Lobsigensee",52648,5726,"Rumex",9920,4194
+"Central_Europe","Lobsigensee",52648,5726,"Artemisia",9920,4194
+"Central_Europe","Lobsigensee",68809,6820.12,"Plantago",7538,717.88
+"Central_Europe","Lobsigensee",68809,6820.12,"Cerealia",6305.44,-514.68
+"Central_Europe","Lobsigensee",68809,6820.12,"Rumex",9066.16,2246.04
+"Central_Europe","Lobsigensee",68809,6820.12,"Artemisia",9783.29,2963.17

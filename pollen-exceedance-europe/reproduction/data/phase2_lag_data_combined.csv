@@ -1,0 +1,239 @@
+"datasetid","sitename","lat","lon","lag","region","total_bc"
+3864,"Abernethy Forest",57.23528,-3.71056,1012,"UK",0.590933646250523
+3865,"Abernethy Forest",57.23528,-3.71056,295,"UK",0.503620017553029
+45223,"Ballynahatty bog",54.54417,-5.95306,-525,"UK",0.416919010345426
+3970,"Cam Loch",NA,NA,-5066,"UK",0.505441887144285
+3993,"Coire Bog",57.83849,-4.38319,-1331,"UK",0.505361764698935
+41228,"Comerslade",51.12028,-3.80472,65,"UK",0.27930875222192
+14512,"Cornaher Lough",NA,NA,-5865,"UK",0.656079514715375
+41189,"Gallanech Beg",56.38444,-5.50139,-172,"UK",0.34652337742131
+4095,"Hockham Mere",52.5,0.83333,-1038,"UK",0.339740327784936
+4095,"Hockham Mere",52.5,0.83333,-1038,"UK",0.333041220035407
+14110,"Kelly's Lough",NA,NA,505,"UK",0.273177912540763
+4150,"King's Pool",NA,NA,-1319,"UK",0.566220412407716
+41411,"Le Loch Sunart",56.66667,-5.86667,-1634,"UK",0.244643068872212
+44896,"Llyn Cororion",NA,NA,-4755,"UK",0.628089538863831
+22709,"Loch Cleat",57.6225,-6.27778,-437,"UK",0.291149500248655
+4190,"Loch Dungeon",55.13475,-4.30761,-2022,"UK",0.303555848172176
+22741,"Loch Meodal",NA,NA,-20,"UK",0.345144033648006
+4421,"Loch Sionascaig",NA,NA,-3500,"UK",0.436039485838936
+4478,"Loch Tarff",NA,NA,-3380,"UK",0.482959134013294
+16217,"Lough Moynagh",NA,NA,-39,"UK",0.285479144253318
+49126,"Rannoch Forest",56.69269,-4.46775,-593.1,"UK",0.356309115776326
+41241,"Round Loch of Glenhead",55.09344,-4.43026,-1751,"UK",0.29500396527692
+41310,"Stonetor Brook",50.65556,-3.91,-420,"UK",0.254977166504077
+19913,"Abborrtjärnen",63.88333,14.45,-4128,"Scandinavia",0.3468
+45349,"Afstj¢rna",61.64917,9.87667,-4260,"Scandinavia",0.2957
+12,"Ageröds Mosse",NA,NA,-768,"Scandinavia",0.7651
+45314,"Alanen Laanijärvi",67.96611,20.46028,322,"Scandinavia",0.1528
+20037,"Barheivatn",NA,NA,-2590,"Scandinavia",0.2295
+52429,"Belauer See",54.09854,10.25111,-3452,"Scandinavia",0.3499
+3931,"Bjärsjöholmssjön",NA,NA,598,"Scandinavia",0.1046
+20046,"Brurskardtjørni",61.41667,8.66667,-2167,"Scandinavia",0.251
+53995,"Bussjösjön",55.46667,13.81667,-983.1,"Scandinavia",0.605
+4011,"Dags Mosse",58.32288,14.70652,321,"Scandinavia",0.5059
+45725,"Dalane",NA,NA,-3338,"Scandinavia",0.3023
+22847,"Darzlubie Forest",54.70555,18.16208,-3112,"Scandinavia",0.5058
+4019,"Dolgoe",55.23333,28.18333,408,"Scandinavia",0.3519
+720,"Domsvatnet",NA,NA,-3619,"Scandinavia",0.3107
+20012,"Donvold",68.13333,13.58333,-1521,"Scandinavia",0.7152
+49616,"Eini peatland",56.85306,26.88722,1106.988,"Scandinavia",0.4835
+49636,"Eipurs bog",57.24806,24.61667,-2762.951,"Scandinavia",0.6614
+4041,"Flaatevatn",NA,NA,-3630,"Scandinavia",0.3747
+54024,"Flinkasjön",56.25444,13.24333,-4399.7,"Scandinavia",0.2193
+45710,"Flotatjønn",NA,NA,-2238,"Scandinavia",0.1724
+4037,"Färskesjön",56.15907,15.86049,-1555,"Scandinavia",0.1689
+53997,"Fårarps Mosse",55.48833,13.90889,-4769.5,"Scandinavia",0.6482
+45639,"Gammelheimenvatnet",68.48221,17.75935,-4911,"Scandinavia",0.2951
+53991,"Gilltjärnen",60.08333,15.83333,-1104.579,"Scandinavia",0.1586
+22815,"Godziszewskie Lake",54.07823,18.53853,-1132,"Scandinavia",0.3241
+977,"Grasvatn",NA,NA,423,"Scandinavia",0.2688
+45728,"Grauthelleren",58.14445,7.91361,-2612,"Scandinavia",0.2054
+49430,"Groter Warder",54.17131,10.41846,-3493.55,"Scandinavia",0.7049
+49434,"Großer Eutiner See",54.14263,10.63284,-4529,"Scandinavia",0.4977
+49457,"Großer Plöner See",54.15722,10.42333,-3752,"Scandinavia",0.4064
+45698,"Haugtjernet",NA,NA,-4156,"Scandinavia",0.247
+55439,"Hino",57.58306,27.23861,125,"Scandinavia",0.4116
+4092,"Hirvilampi",60.62404,24.25122,-4922,"Scandinavia",0.2126
+45716,"Holebudalen",NA,NA,332,"Scandinavia",0.2886
+21790,"Holtjärnen",NA,NA,-5422,"Scandinavia",0.1904
+45731,"Isbenttjønn",NA,NA,991,"Scandinavia",0.1619
+22857,"Jezioro Druzno",NA,NA,-2488,"Scandinavia",0.6215
+22950,"Jezioro Druzno",NA,NA,-5627,"Scandinavia",0.5121
+4133,"Kaarkotinlampi",61.41513,25.86881,-5796,"Scandinavia",0.2473
+1434,"Kalsa Mire",58.19142,27.41146,-2604,"Scandinavia",0.4115
+4136,"Kangerjoki",66.12667,28.99524,-751,"Scandinavia",0.3777
+1438,"Kansjön",57.64055,14.53458,-3554,"Scandinavia",0.2528
+45701,"Kinnshaugen",NA,NA,-549,"Scandinavia",0.2828
+19909,"Klotjärnen",61.82125,16.40472,-5293,"Scandinavia",0.3289
+4154,"Kluki",54.70694,17.28472,-3561,"Scandinavia",0.5676
+4154,"Kluki",54.70694,17.28472,-3561,"Scandinavia",0.400687309948118
+58000,"Kokorevskoe",57.1984,30.60556,-450,"Scandinavia",0.5523
+59895,"Kosilovo",56.72073,31.55124,-4717,"Scandinavia",0.4592
+4162,"Krageholmssjön",55.50078,13.74492,774,"Scandinavia",0.3153
+23013,"Krageholmssjön",55.50078,13.74492,453,"Scandinavia",0.3179
+4168,"Kuivajarvi",60.78455,23.85616,-1958,"Scandinavia",0.2081
+54692,"Kunda Arusoo",59.46667,26.52194,-143,"Scandinavia",0.6965
+52082,"Laihalampi",61.48833,26.08083,584.629,"Scandinavia",0.1957
+46516,"Lake Babinskoye",59.61457,28.61129,441,"Scandinavia",0.2369
+4031,"Lake Ermistu",58.36667,23.96667,634,"Scandinavia",0.2183
+4042,"Lake Flarken",58.55679,13.67319,-2692,"Scandinavia",0.2019
+20018,"Lake Flåfattjønna",NA,NA,-5356,"Scandinavia",0.3226
+20029,"Lake Hopseidet",70.83333,27.71667,-809,"Scandinavia",0.2831
+20020,"Lake Ifjord",70.43333,27.63333,968,"Scandinavia",0.2162
+45410,"Lake Jarveotsa",59.03333,24.28333,-1045,"Scandinavia",0.2436
+45407,"Lake Konsu",59.22139,27.58056,-5737,"Scandinavia",0.4297
+49642,"Lake Kuzi",NA,NA,-3815.238,"Scandinavia",0.4029
+45381,"Lake Maardu",59.43333,25,-2761,"Scandinavia",0.3122
+45408,"Lake Martiska",59.15861,27.6975,-5523,"Scandinavia",0.3321
+45398,"Lake Plaani Külajärv",57.675,27.075,-4160,"Scandinavia",0.2612
+45379,"Lake Ruila",59.175,24.43111,-2844,"Scandinavia",0.2872
+52255,"Lake Skogstjern",59.00694,9.63833,646.25,"Scandinavia",0.3643
+4445,"Lake Solsø",NA,NA,-1143,"Scandinavia",0.3661
+4446,"Lake Solsø",NA,NA,-803,"Scandinavia",0.1334
+4403,"Lake Sämbosjön",57.16313,12.41426,-2759,"Scandinavia",0.2814
+53980,"Lake Tibenatus",68.33583,18.69306,-4268.222,"Scandinavia",0.5141
+4496,"Lake Trummen",56.863,14.82952,-2587,"Scandinavia",0.2298
+46453,"Lake Uzlovoye",61.09306,29.74528,-899,"Scandinavia",0.2137
+45391,"Lake Verijärv",57.80833,27.05833,-3631,"Scandinavia",0.3044
+4194,"Leikishke Bog",54.53333,23.53333,-5162,"Scandinavia",0.4358
+4194,"Leikishke Bog",54.53333,23.53333,-5162,"Scandinavia",0.169121785049178
+46469,"Lembolovskoye lake",60.3575,30.31333,553,"Scandinavia",0.3101
+53119,"Lervahå bog",62.795,11.88667,-530,"Scandinavia",0.3107
+4203,"Liivjarve Bog",59.30546,27.57509,-2454,"Scandinavia",0.5552
+4200,"Lilla Gloppsjön",59.80167,14.62333,-5653,"Scandinavia",0.2414
+45713,"Lille Kjelavatn",NA,NA,-144,"Scandinavia",0.1674
+55917,"Lina myr",57.57549,18.63309,-870,"Scandinavia",0.3076
+45707,"Lisletjønn",NA,NA,-2250,"Scandinavia",0.1387
+20279,"Liten Cap’pesjav’ri",NA,NA,-3061,"Scandinavia",0.3368
+45636,"Litlvatnet",NA,NA,-2576,"Scandinavia",0.2543
+53966,"Ljustjärnen",59.76,14.48222,-4388,"Scandinavia",0.2535
+24110,"Mabo Moss",58.02114,16.05602,-648,"Scandinavia",0.5134
+4257,"Masehjavri",69.04527,20.97475,-1722,"Scandinavia",0.3205
+4259,"Mayralampi",62.34206,26.23393,620,"Scandinavia",0.218
+4263,"Mezhgornoe",66.36667,30.7,-3514,"Scandinavia",0.4544
+4497,"Mire Johvika",58.4848,22.38803,-1707,"Scandinavia",0.4582
+4346,"Mire Petrolivo",56,31.98333,-2230,"Scandinavia",0.5593
+45404,"Mire Saviku",58.4,27.23333,785,"Scandinavia",0.2493
+45329,"Morttjern",59.05972,11.61778,-2507,"Scandinavia",0.2179
+46490,"Mshinskoye raised bog",59.01111,29.97722,670,"Scandinavia",0.4655
+4286,"Mukkavaara",68.91667,21,-99,"Scandinavia",0.2479
+45377,"Mustjärve bog",59.075,24.1,1100,"Scandinavia",0.4634
+44941,"Myrvatnet",NA,NA,-5556,"Scandinavia",0.3036
+45351,"Måsåtjørnet",61.5625,10.26778,-2799,"Scandinavia",0.2772
+46477,"Nikolsko-Lutinskoye bog",NA,NA,-4677,"Scandinavia",0.3967
+46457,"Nizhneosinovskoye peat bog",60.68702,29.14831,-5025,"Scandinavia",0.5377
+49388,"Oldenburg-Priesterwiese",54.29385,10.88231,-10,"Scandinavia",0.476
+4325,"Osvea",56.05,28.08333,799,"Scandinavia",0.3517
+4338,"Pamerkiai Outcrop",54.3125,24.73111,-987,"Scandinavia",0.3112
+49654,"Pantene Mire",57.86306,25.21806,-3658.847,"Scandinavia",0.358
+46544,"Parika",58.48888,25.77353,-3130,"Scandinavia",0.377
+48926,"Pitkasoo",58.27111,22.22222,-816,"Scandinavia",0.3011
+49432,"Probstenwerder",54.21785,10.29035,1143.8,"Scandinavia",0.3754
+4369,"Raigastvere Lake",58.59222,26.64967,-489,"Scandinavia",0.3084
+4370,"Ran Viken",56.28145,14.29056,-1537,"Scandinavia",0.1848
+45722,"Reiersdalvann",NA,NA,-3931,"Scandinavia",0.3753
+53131,"Reinskaret bog",62.80639,11.94056,-404,"Scandinavia",0.4082
+4390,"Rudushskoe Lake",56.5,27.55,-4493,"Scandinavia",0.5712
+4393,"Ryönänsuo",NA,NA,-2748,"Scandinavia",0.4379
+4372,"Råttuvarri",69.35,20.31667,34,"Scandinavia",0.3003
+20060,"Sandvikvatn",NA,NA,-2171,"Scandinavia",0.4084
+4414,"Shepeta Bog",55.78333,25.16667,965,"Scandinavia",0.5335
+54003,"Stavsåkra",57.02417,14.81306,-3390,"Scandinavia",0.4877
+54016,"Stobydeltat",56.16667,13.83333,-3238,"Scandinavia",0.7138
+53988,"Stor-flen",60.3,14.58333,-5442,"Scandinavia",0.5578
+54004,"Storasjö",56.93333,15.26667,-5327,"Scandinavia",0.5461
+54005,"Storasjö",56.93333,15.26667,-5327,"Scandinavia",0.5461
+45331,"Storsandvatnet",63.4575,8.45444,-2214,"Scandinavia",0.3609
+53968,"Storsnasen",63.23333,12.41667,290,"Scandinavia",0.3399
+4466,"Sudoble Lake",54.03333,28.1,-1411,"Scandinavia",0.3115
+48917,"Surusoo bog",58.52611,22.42306,1169,"Scandinavia",0.5308
+48919,"Surusoo bog",58.52611,22.42306,1169,"Scandinavia",0.5308
+48921,"Surusoo bog",58.52611,22.42306,1169,"Scandinavia",0.5308
+48923,"Surusoo bog",58.52611,22.42306,1169,"Scandinavia",0.5308
+45343,"Svartvatnet",63.35139,8.87778,-2204,"Scandinavia",0.3237
+4470,"Svencele Bog",55.49528,21.29222,79,"Scandinavia",0.5513
+49658,"Svetinu lake",56.76028,27.14944,-4165.415,"Scandinavia",0.3597
+4472,"Syrjälänsuo",61.21667,28.11667,-5184,"Scandinavia",0.2803
+49477,"Thorsberger Moor",54.64245,9.77247,-1779,"Scandinavia",0.5011
+4490,"Tondi",59.43194,24.89246,-1958,"Scandinavia",0.3985
+52088,"Toskaljarvi",69.2,21.46667,-2184.7,"Scandinavia",0.3313
+20042,"Trettetjørn",60.71667,7,599,"Scandinavia",0.2515
+53986,"Trygåsen (II)",61.76667,13.33333,244,"Scandinavia",0.238
+4500,"Tytuvenu Tyrelis",55.58333,23.3,-582,"Scandinavia",0.4522
+4510,"Vasikkasuo",64.67355,27.8601,-4169,"Scandinavia",0.4242
+55045,"Vaskna",57.71167,27.07833,-2208,"Scandinavia",0.6067
+48928,"Vedruka",58.33007,22.06158,-1674,"Scandinavia",0.3847
+55053,"Velise",58.75667,24.46028,-2493,"Scandinavia",0.6047
+20050,"Vestre Øykjamyrtjørn",59.81667,6,-713,"Scandinavia",0.3083
+45385,"Viitna Linajärv",59.45139,26.01389,-1932,"Scandinavia",0.186
+45387,"Viitna Linajärv",59.45139,26.01389,-987,"Scandinavia",0.22
+55815,"Viitna Pikkjärv",59.44639,26.01056,-1638,"Scandinavia",0.1947
+46514,"Vishnevskoe Lake",60.50222,29.51694,-927,"Scandinavia",0.2784
+45312,"Vuolep Allasasjaure",68.16667,18.16667,-3124,"Scandinavia",0.2809
+45311,"Vuoskkujávri",68.34556,19.1,-826,"Scandinavia",0.3027
+45389,"Väike Juusa",58.05917,26.51722,701,"Scandinavia",0.4202
+45395,"Vällamäe",57.73722,27.06917,-4004,"Scandinavia",0.4278
+53964,"Västragylet",56.35,14.88333,-75,"Scandinavia",0.1558
+4523,"Vôhma Mire",58.5205,25.42171,-3200,"Scandinavia",0.2854
+4539,"Ylimysneva",62.13333,22.86667,-2842,"Scandinavia",0.6324
+22845,"Zarnowiec Peat Bog",54.72321,18.10602,771,"Scandinavia",0.2588
+62021,"Ähijärv",57.71139,26.49778,-5796,"Scandinavia",0.3797
+45704,"Øygardstjønn",NA,NA,-5120,"Scandinavia",0.233
+45400,"Ümarjärv",59.17528,27.46167,-1909,"Scandinavia",0.3048
+342,"Selle di Carnino",44.15,7.69444,-2840,"Central Europe",0.264184414572994
+3869,"Plan du Laus",44.24167,6.70222,-4918,"Central Europe",0.247927615120856
+3871,"Hières sur Amby",45.79083,5.28333,-7073,"Central Europe",0.612358543285237
+3872,"Ampoix",45.63333,2.93333,-3015,"Central Europe",0.655749813287344
+3875,"Amsoldingersee",46.725,7.575,-1634,"Central Europe",0.653213578855869
+3887,"Aronde",49.4625,2.69111,-969,"Central Europe",0.391229176546477
+3892,"Altenweiher",48.01333,6.99444,-2542,"Central Europe",0.630259215373283
+3893,"Atxuri",43.25028,-1.55111,-5660,"Central Europe",0.313719531524474
+3894,"Auneau",48.45611,1.79361,-4489,"Central Europe",0.327799818526881
+3900,"Basse-Ville",47.18611,-1.85806,-5130,"Central Europe",0.512370705855321
+3910,"Puerto de Belate",43.03333,-2.05,-1622,"Central Europe",0.299673375584868
+3911,"Puerto de Belate",43.03333,-2.05,-589,"Central Europe",0.310190945517201
+3935,"Bláto",49.04174,15.19097,-6935,"Central Europe",0.241601020864114
+3938,"Bledowo Lake",52.54316,20.67577,-6489,"Central Europe",0.199243673078819
+3946,"Boehnigsee Goldmoos",46.25917,7.84306,-5530,"Central Europe",0.298290622198119
+3951,"Saint Michel de Braspart",48.41667,-3.66667,-1323,"Central Europe",0.435451116095871
+3972,"La Caudelais",47.25444,-1.80028,-762,"Central Europe",0.380894971214258
+3977,"Lac de Chambedaze",45.44444,2.87528,-1934,"Central Europe",0.628979542682137
+3979,"Bois de la Masse",45.50139,2.74472,-6488,"Central Europe",0.646578905751311
+4007,"Czajkow",NA,NA,-6750,"Central Europe",0.404939333603797
+4008,"Czajkow",NA,NA,-981,"Central Europe",0.37401154889582
+4009,"Czajkow",NA,NA,-2325,"Central Europe",0.348779920652504
+4025,"Dvůr Anšov",NA,NA,-2926,"Central Europe",0.458693376297899
+4028,"Embouchac",43.56639,3.91667,-1937,"Central Europe",0.318915852212501
+4029,"Ennerie",47.24028,-2,-608,"Central Europe",0.159006516246013
+4043,"Fletnowo",53.53813,18.64588,-2664,"Central Europe",0.299679428751669
+4045,"Flögeln",NA,NA,-2103,"Central Europe",0.644836285118676
+4056,"Le Fourneau",48.44444,-0.19167,-3228,"Central Europe",0.416525656892846
+4058,"Fuchsschwanzmoos",47.11667,13.9,-1061,"Central Europe",0.39784686575506
+4059,"Giecz",52.32201,17.3655,-1994,"Central Europe",0.255432561502475
+4064,"Bois des Gardes",45.41667,2.7,-1223,"Central Europe",0.532826805701289
+4095,"Hockham Mere",52.5,0.83333,-2356,"Central Europe",0.339740327784936
+4095,"Hockham Mere",52.5,0.83333,-2356,"Central Europe",0.333041220035407
+4118,"Liptovský Ján",49.04167,19.67778,-1403,"Central Europe",0.411385177645617
+4120,"Jasiel",49.3705,21.8875,-1727,"Central Europe",0.556242651707118
+4123,"Červené blato",NA,NA,-5153,"Central Europe",0.491749995435389
+4129,"Barbora",NA,NA,-892,"Central Europe",0.504650729699322
+4154,"Kluki",54.70694,17.28472,-5261,"Central Europe",0.5676
+4154,"Kluki",54.70694,17.28472,-5261,"Central Europe",0.400687309948118
+4186,"Col des Lauzes",44.76722,6.53694,-2564,"Central Europe",0.156632230480709
+4192,"Lake Lednica",52.54901,17.38084,-5551,"Central Europe",0.313331318214235
+4193,"Lake Lednica",52.54901,17.38084,-3762,"Central Europe",0.382119631825806
+4194,"Leikishke Bog",54.53333,23.53333,-6862,"Central Europe",0.4358
+4194,"Leikishke Bog",54.53333,23.53333,-6862,"Central Europe",0.169121785049178
+4211,"Lac Long Inférieur",44.05778,7.45,-3240,"Central Europe",0.265420775065166
+4213,"Lobsigensee",47.03056,7.29806,-5494,"Central Europe",0.607259666719731
+4215,"Locmariaquer",47.55444,-2.93222,-891,"Central Europe",0.452832934514561
+24086,"Švarcenberk",NA,NA,-677,"Central Europe",0.739502063782318
+24089,"Komořanské jezero",NA,NA,-1341,"Central Europe",0.570056989421089
+25279,"Clapeyret",44.15028,7.24333,-5114,"Central Europe",0.235602873253035
+25285,"Hières sur Amby",45.79083,5.28333,-766,"Central Europe",0.502501295844437
+40627,"Aegelsee",46.64583,7.54333,-1702,"Central Europe",0.467788896583515
+42719,"Le Grand Etang de Suze-La-Rousse",44.32389,4.83361,-1280,"Central Europe",0.336032785218483
+52645,"Lobsigensee",47.03056,7.29806,-2339,"Central Europe",0.516016855795739
+52648,"Lobsigensee",47.03056,7.29806,-2286,"Central Europe",0.574161603975404
+68809,"Lobsigensee",47.03056,7.29806,-1902.25,"Central Europe",0.545629065546421

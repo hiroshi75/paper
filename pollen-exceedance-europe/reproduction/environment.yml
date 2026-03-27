@@ -1,0 +1,13 @@
+name: pollen-exceedance
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base=4.3
+  - r-vegan
+  - r-sf
+  - r-spdep
+  - r-lme4
+  - r-metafor
+  - pip:
+    - rpy2

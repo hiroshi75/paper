@@ -1,0 +1,319 @@
+"datasetid","sitename","signal_onset_age","indicator","first_appearance_age","lag_years","synchronous_500yr","indicator_before","indicator_after"
+3864,"Abernethy Forest",6824,"Plantago_lanceolata",5697,-1127,FALSE,FALSE,TRUE
+3864,"Abernethy Forest",6824,"Plantago_all",9700,2876,FALSE,TRUE,FALSE
+3864,"Abernethy Forest",6824,"Cerealia",NA,NA,NA,NA,NA
+3864,"Abernethy Forest",6824,"Rumex",9950,3126,FALSE,TRUE,FALSE
+3864,"Abernethy Forest",6824,"Artemisia",9950,3126,FALSE,TRUE,FALSE
+3864,"Abernethy Forest",6824,"Urtica",NA,NA,NA,NA,NA
+3865,"Abernethy Forest",6946,"Plantago_lanceolata",NA,NA,NA,NA,NA
+3865,"Abernethy Forest",6946,"Plantago_all",9286,2340,FALSE,TRUE,FALSE
+3865,"Abernethy Forest",6946,"Cerealia",NA,NA,NA,NA,NA
+3865,"Abernethy Forest",6946,"Rumex",9954,3008,FALSE,TRUE,FALSE
+3865,"Abernethy Forest",6946,"Artemisia",NA,NA,NA,NA,NA
+3865,"Abernethy Forest",6946,"Urtica",9808,2862,FALSE,TRUE,FALSE
+3879,"Allt na Feithe Sheilich",6886,"Plantago_lanceolata",2353,-4533,FALSE,FALSE,TRUE
+3879,"Allt na Feithe Sheilich",6886,"Plantago_all",2353,-4533,FALSE,FALSE,TRUE
+3879,"Allt na Feithe Sheilich",6886,"Cerealia",NA,NA,NA,NA,NA
+3879,"Allt na Feithe Sheilich",6886,"Rumex",9163,2277,FALSE,TRUE,FALSE
+3879,"Allt na Feithe Sheilich",6886,"Artemisia",320,-6566,FALSE,FALSE,TRUE
+3879,"Allt na Feithe Sheilich",6886,"Urtica",2353,-4533,FALSE,FALSE,TRUE
+41212,"Aveley marshes",6748,"Plantago_lanceolata",7273,525,FALSE,TRUE,FALSE
+41212,"Aveley marshes",6748,"Plantago_all",7273,525,FALSE,TRUE,FALSE
+41212,"Aveley marshes",6748,"Cerealia",7273,525,FALSE,TRUE,FALSE
+41212,"Aveley marshes",6748,"Rumex",6879,131,TRUE,TRUE,FALSE
+41212,"Aveley marshes",6748,"Artemisia",7010,262,TRUE,TRUE,FALSE
+41212,"Aveley marshes",6748,"Urtica",NA,NA,NA,NA,NA
+45223,"Ballynahatty bog",5475,"Plantago_lanceolata",9449,3974,FALSE,TRUE,FALSE
+45223,"Ballynahatty bog",5475,"Plantago_all",9449,3974,FALSE,TRUE,FALSE
+45223,"Ballynahatty bog",5475,"Cerealia",5703,228,TRUE,TRUE,FALSE
+45223,"Ballynahatty bog",5475,"Rumex",5985,510,FALSE,TRUE,FALSE
+45223,"Ballynahatty bog",5475,"Artemisia",NA,NA,NA,NA,NA
+45223,"Ballynahatty bog",5475,"Urtica",4268,-1207,FALSE,FALSE,TRUE
+41233,"Bigholm Burn",6345,"Plantago_lanceolata",NA,NA,NA,NA,NA
+41233,"Bigholm Burn",6345,"Plantago_all",NA,NA,NA,NA,NA
+41233,"Bigholm Burn",6345,"Cerealia",NA,NA,NA,NA,NA
+41233,"Bigholm Burn",6345,"Rumex",4028,-2317,FALSE,FALSE,TRUE
+41233,"Bigholm Burn",6345,"Artemisia",2601,-3744,FALSE,FALSE,TRUE
+41233,"Bigholm Burn",6345,"Urtica",1498,-4847,FALSE,FALSE,TRUE
+3970,"Cam Loch",2783,"Plantago_lanceolata",3707,924,FALSE,TRUE,FALSE
+3970,"Cam Loch",2783,"Plantago_all",9383,6600,FALSE,TRUE,FALSE
+3970,"Cam Loch",2783,"Cerealia",NA,NA,NA,NA,NA
+3970,"Cam Loch",2783,"Rumex",9543,6760,FALSE,TRUE,FALSE
+3970,"Cam Loch",2783,"Artemisia",9383,6600,FALSE,TRUE,FALSE
+3970,"Cam Loch",2783,"Urtica",NA,NA,NA,NA,NA
+52113,"Church Moor",6939.939,"Plantago_lanceolata",9789.286,2849.347,FALSE,TRUE,FALSE
+52113,"Church Moor",6939.939,"Plantago_all",9789.286,2849.347,FALSE,TRUE,FALSE
+52113,"Church Moor",6939.939,"Cerealia",NA,NA,NA,NA,NA
+52113,"Church Moor",6939.939,"Rumex",9523.571,2583.632,FALSE,TRUE,FALSE
+52113,"Church Moor",6939.939,"Artemisia",8691.462,1751.523,FALSE,TRUE,FALSE
+52113,"Church Moor",6939.939,"Urtica",9966.429,3026.49,FALSE,TRUE,FALSE
+14177,"Clara Bog",6634,"Plantago_lanceolata",4180,-2454,FALSE,FALSE,TRUE
+14177,"Clara Bog",6634,"Plantago_all",4180,-2454,FALSE,FALSE,TRUE
+14177,"Clara Bog",6634,"Cerealia",2463,-4171,FALSE,FALSE,TRUE
+14177,"Clara Bog",6634,"Rumex",7964,1330,FALSE,TRUE,FALSE
+14177,"Clara Bog",6634,"Artemisia",1233,-5401,FALSE,FALSE,TRUE
+14177,"Clara Bog",6634,"Urtica",3837,-2797,FALSE,FALSE,TRUE
+3993,"Coire Bog",5642,"Plantago_lanceolata",5155,-487,TRUE,FALSE,TRUE
+3993,"Coire Bog",5642,"Plantago_all",5155,-487,TRUE,FALSE,TRUE
+3993,"Coire Bog",5642,"Cerealia",NA,NA,NA,NA,NA
+3993,"Coire Bog",5642,"Rumex",7962,2320,FALSE,TRUE,FALSE
+3993,"Coire Bog",5642,"Artemisia",4182,-1460,FALSE,FALSE,TRUE
+3993,"Coire Bog",5642,"Urtica",289,-5353,FALSE,FALSE,TRUE
+41228,"Comerslade",6595,"Plantago_lanceolata",6065,-530,FALSE,FALSE,TRUE
+41228,"Comerslade",6595,"Plantago_all",6065,-530,FALSE,FALSE,TRUE
+41228,"Comerslade",6595,"Cerealia",NA,NA,NA,NA,NA
+41228,"Comerslade",6595,"Rumex",8336,1741,FALSE,TRUE,FALSE
+41228,"Comerslade",6595,"Artemisia",NA,NA,NA,NA,NA
+41228,"Comerslade",6595,"Urtica",NA,NA,NA,NA,NA
+52101,"Cookley",6728.068,"Plantago_lanceolata",8739.593,2011.525,FALSE,TRUE,FALSE
+52101,"Cookley",6728.068,"Plantago_all",8739.593,2011.525,FALSE,TRUE,FALSE
+52101,"Cookley",6728.068,"Cerealia",NA,NA,NA,NA,NA
+52101,"Cookley",6728.068,"Rumex",9745.355,3017.287,FALSE,TRUE,FALSE
+52101,"Cookley",6728.068,"Artemisia",9745.355,3017.287,FALSE,TRUE,FALSE
+52101,"Cookley",6728.068,"Urtica",6124.61,-603.458000000001,FALSE,FALSE,TRUE
+14512,"Cornaher Lough",1456,"Plantago_lanceolata",4664,3208,FALSE,TRUE,FALSE
+14512,"Cornaher Lough",1456,"Plantago_all",4664,3208,FALSE,TRUE,FALSE
+14512,"Cornaher Lough",1456,"Cerealia",5958,4502,FALSE,TRUE,FALSE
+14512,"Cornaher Lough",1456,"Rumex",9913,8457,FALSE,TRUE,FALSE
+14512,"Cornaher Lough",1456,"Artemisia",3532,2076,FALSE,TRUE,FALSE
+14512,"Cornaher Lough",1456,"Urtica",4381,2925,FALSE,TRUE,FALSE
+41222,"Cranes Moor",6906,"Plantago_lanceolata",9925,3019,FALSE,TRUE,FALSE
+41222,"Cranes Moor",6906,"Plantago_all",9925,3019,FALSE,TRUE,FALSE
+41222,"Cranes Moor",6906,"Cerealia",NA,NA,NA,NA,NA
+41222,"Cranes Moor",6906,"Rumex",9866,2960,FALSE,TRUE,FALSE
+41222,"Cranes Moor",6906,"Artemisia",9788,2882,FALSE,TRUE,FALSE
+41222,"Cranes Moor",6906,"Urtica",9984,3078,FALSE,TRUE,FALSE
+4012,"Dallican Water",5366,"Plantago_lanceolata",5366,0,TRUE,FALSE,FALSE
+4012,"Dallican Water",5366,"Plantago_all",9967,4601,FALSE,TRUE,FALSE
+4012,"Dallican Water",5366,"Cerealia",NA,NA,NA,NA,NA
+4012,"Dallican Water",5366,"Rumex",9967,4601,FALSE,TRUE,FALSE
+4012,"Dallican Water",5366,"Artemisia",9809,4443,FALSE,TRUE,FALSE
+4012,"Dallican Water",5366,"Urtica",6170,804,FALSE,TRUE,FALSE
+49120,"Finnart mire",200,"Plantago_lanceolata",NA,NA,NA,NA,NA
+49120,"Finnart mire",200,"Plantago_all",200,0,TRUE,FALSE,FALSE
+49120,"Finnart mire",200,"Cerealia",NA,NA,NA,NA,NA
+49120,"Finnart mire",200,"Rumex",9400,9200,FALSE,TRUE,FALSE
+49120,"Finnart mire",200,"Artemisia",1693,1493,FALSE,TRUE,FALSE
+49120,"Finnart mire",200,"Urtica",9400,9200,FALSE,TRUE,FALSE
+41189,"Gallanech Beg",6816,"Plantago_lanceolata",5913,-903,FALSE,FALSE,TRUE
+41189,"Gallanech Beg",6816,"Plantago_all",9782,2966,FALSE,TRUE,FALSE
+41189,"Gallanech Beg",6816,"Cerealia",NA,NA,NA,NA,NA
+41189,"Gallanech Beg",6816,"Rumex",8184,1368,FALSE,TRUE,FALSE
+41189,"Gallanech Beg",6816,"Artemisia",9981,3165,FALSE,TRUE,FALSE
+41189,"Gallanech Beg",6816,"Urtica",5302,-1514,FALSE,FALSE,TRUE
+4086,"Hawks Tor",6294,"Plantago_lanceolata",9820,3526,FALSE,TRUE,FALSE
+4086,"Hawks Tor",6294,"Plantago_all",9820,3526,FALSE,TRUE,FALSE
+4086,"Hawks Tor",6294,"Cerealia",NA,NA,NA,NA,NA
+4086,"Hawks Tor",6294,"Rumex",NA,NA,NA,NA,NA
+4086,"Hawks Tor",6294,"Artemisia",9820,3526,FALSE,TRUE,FALSE
+4086,"Hawks Tor",6294,"Urtica",NA,NA,NA,NA,NA
+4095,"Hockham Mere",6926,"Plantago_lanceolata",6006,-920,FALSE,FALSE,TRUE
+4095,"Hockham Mere",6926,"Plantago_all",9563,2637,FALSE,TRUE,FALSE
+4095,"Hockham Mere",6926,"Cerealia",5222,-1704,FALSE,FALSE,TRUE
+4095,"Hockham Mere",6926,"Rumex",9631,2705,FALSE,TRUE,FALSE
+4095,"Hockham Mere",6926,"Artemisia",9892,2966,FALSE,TRUE,FALSE
+4095,"Hockham Mere",6926,"Urtica",8120,1194,FALSE,TRUE,FALSE
+14110,"Kelly's Lough",6347,"Plantago_lanceolata",4916,-1431,FALSE,FALSE,TRUE
+14110,"Kelly's Lough",6347,"Plantago_all",6347,0,TRUE,FALSE,FALSE
+14110,"Kelly's Lough",6347,"Cerealia",1781,-4566,FALSE,FALSE,TRUE
+14110,"Kelly's Lough",6347,"Rumex",9922,3575,FALSE,TRUE,FALSE
+14110,"Kelly's Lough",6347,"Artemisia",9118,2771,FALSE,TRUE,FALSE
+14110,"Kelly's Lough",6347,"Urtica",1252,-5095,FALSE,FALSE,TRUE
+4150,"King's Pool",4570,"Plantago_lanceolata",8215,3645,FALSE,TRUE,FALSE
+4150,"King's Pool",4570,"Plantago_all",8215,3645,FALSE,TRUE,FALSE
+4150,"King's Pool",4570,"Cerealia",6822,2252,FALSE,TRUE,FALSE
+4150,"King's Pool",4570,"Rumex",9921,5351,FALSE,TRUE,FALSE
+4150,"King's Pool",4570,"Artemisia",9485,4915,FALSE,TRUE,FALSE
+4150,"King's Pool",4570,"Urtica",3763,-807,FALSE,FALSE,TRUE
+4174,"Lackan Bog",5396,"Plantago_lanceolata",4709,-687,FALSE,FALSE,TRUE
+4174,"Lackan Bog",5396,"Plantago_all",4709,-687,FALSE,FALSE,TRUE
+4174,"Lackan Bog",5396,"Cerealia",NA,NA,NA,NA,NA
+4174,"Lackan Bog",5396,"Rumex",6983,1587,FALSE,TRUE,FALSE
+4174,"Lackan Bog",5396,"Artemisia",8465,3069,FALSE,TRUE,FALSE
+4174,"Lackan Bog",5396,"Urtica",8042,2646,FALSE,TRUE,FALSE
+41411,"Le Loch Sunart",5295,"Plantago_lanceolata",NA,NA,NA,NA,NA
+41411,"Le Loch Sunart",5295,"Plantago_all",5436,141,TRUE,TRUE,FALSE
+41411,"Le Loch Sunart",5295,"Cerealia",NA,NA,NA,NA,NA
+41411,"Le Loch Sunart",5295,"Rumex",9890,4595,FALSE,TRUE,FALSE
+41411,"Le Loch Sunart",5295,"Artemisia",9985,4690,FALSE,TRUE,FALSE
+41411,"Le Loch Sunart",5295,"Urtica",NA,NA,NA,NA,NA
+4385,"Little Loch Roag",8,"Plantago_lanceolata",8706,8698,FALSE,TRUE,FALSE
+4385,"Little Loch Roag",8,"Plantago_all",9746,9738,FALSE,TRUE,FALSE
+4385,"Little Loch Roag",8,"Cerealia",1706,1698,FALSE,TRUE,FALSE
+4385,"Little Loch Roag",8,"Rumex",9746,9738,FALSE,TRUE,FALSE
+4385,"Little Loch Roag",8,"Artemisia",NA,NA,NA,NA,NA
+4385,"Little Loch Roag",8,"Urtica",9397,9389,FALSE,TRUE,FALSE
+44896,"Llyn Cororion",1176,"Plantago_lanceolata",9781,8605,FALSE,TRUE,FALSE
+44896,"Llyn Cororion",1176,"Plantago_all",9965,8789,FALSE,TRUE,FALSE
+44896,"Llyn Cororion",1176,"Cerealia",3140,1964,FALSE,TRUE,FALSE
+44896,"Llyn Cororion",1176,"Rumex",9701,8525,FALSE,TRUE,FALSE
+44896,"Llyn Cororion",1176,"Artemisia",9740,8564,FALSE,TRUE,FALSE
+44896,"Llyn Cororion",1176,"Urtica",9821,8645,FALSE,TRUE,FALSE
+22723,"Loch Ashik",6648,"Plantago_lanceolata",5229,-1419,FALSE,FALSE,TRUE
+22723,"Loch Ashik",6648,"Plantago_all",9770,3122,FALSE,TRUE,FALSE
+22723,"Loch Ashik",6648,"Cerealia",NA,NA,NA,NA,NA
+22723,"Loch Ashik",6648,"Rumex",9518,2870,FALSE,TRUE,FALSE
+22723,"Loch Ashik",6648,"Artemisia",8114,1466,FALSE,TRUE,FALSE
+22723,"Loch Ashik",6648,"Urtica",5906,-742,FALSE,FALSE,TRUE
+22711,"Loch Clair",379,"Plantago_lanceolata",5800,5421,FALSE,TRUE,FALSE
+22711,"Loch Clair",379,"Plantago_all",9809,9430,FALSE,TRUE,FALSE
+22711,"Loch Clair",379,"Cerealia",NA,NA,NA,NA,NA
+22711,"Loch Clair",379,"Rumex",9809,9430,FALSE,TRUE,FALSE
+22711,"Loch Clair",379,"Artemisia",9610,9231,FALSE,TRUE,FALSE
+22711,"Loch Clair",379,"Urtica",NA,NA,NA,NA,NA
+22709,"Loch Cleat",5563,"Plantago_lanceolata",5563,0,TRUE,FALSE,FALSE
+22709,"Loch Cleat",5563,"Plantago_all",5745,182,TRUE,TRUE,FALSE
+22709,"Loch Cleat",5563,"Cerealia",5563,0,TRUE,FALSE,FALSE
+22709,"Loch Cleat",5563,"Rumex",8445,2882,FALSE,TRUE,FALSE
+22709,"Loch Cleat",5563,"Artemisia",7778,2215,FALSE,TRUE,FALSE
+22709,"Loch Cleat",5563,"Urtica",6922,1359,FALSE,TRUE,FALSE
+4000,"Loch Craggie",7000,"Plantago_lanceolata",4327,-2673,FALSE,FALSE,TRUE
+4000,"Loch Craggie",7000,"Plantago_all",4327,-2673,FALSE,FALSE,TRUE
+4000,"Loch Craggie",7000,"Cerealia",NA,NA,NA,NA,NA
+4000,"Loch Craggie",7000,"Rumex",10000,3000,FALSE,TRUE,FALSE
+4000,"Loch Craggie",7000,"Artemisia",10000,3000,FALSE,TRUE,FALSE
+4000,"Loch Craggie",7000,"Urtica",NA,NA,NA,NA,NA
+58082,"Loch Dee Peninsula Bog II",629,"Plantago_lanceolata",8410,7781,FALSE,TRUE,FALSE
+58082,"Loch Dee Peninsula Bog II",629,"Plantago_all",8410,7781,FALSE,TRUE,FALSE
+58082,"Loch Dee Peninsula Bog II",629,"Cerealia",2942,2313,FALSE,TRUE,FALSE
+58082,"Loch Dee Peninsula Bog II",629,"Rumex",9293,8664,FALSE,TRUE,FALSE
+58082,"Loch Dee Peninsula Bog II",629,"Artemisia",NA,NA,NA,NA,NA
+58082,"Loch Dee Peninsula Bog II",629,"Urtica",2942,2313,FALSE,TRUE,FALSE
+61991,"Loch Doon",4862,"Plantago_lanceolata",5045,183,TRUE,TRUE,FALSE
+61991,"Loch Doon",4862,"Plantago_all",7233,2371,FALSE,TRUE,FALSE
+61991,"Loch Doon",4862,"Cerealia",NA,NA,NA,NA,NA
+61991,"Loch Doon",4862,"Rumex",7841,2979,FALSE,TRUE,FALSE
+61991,"Loch Doon",4862,"Artemisia",NA,NA,NA,NA,NA
+61991,"Loch Doon",4862,"Urtica",NA,NA,NA,NA,NA
+58086,"Loch Doon IV",5835,"Plantago_lanceolata",5404,-431,TRUE,FALSE,TRUE
+58086,"Loch Doon IV",5835,"Plantago_all",5404,-431,TRUE,FALSE,TRUE
+58086,"Loch Doon IV",5835,"Cerealia",7062,1227,FALSE,TRUE,FALSE
+58086,"Loch Doon IV",5835,"Rumex",9726,3891,FALSE,TRUE,FALSE
+58086,"Loch Doon IV",5835,"Artemisia",8709,2874,FALSE,TRUE,FALSE
+58086,"Loch Doon IV",5835,"Urtica",5316,-519,FALSE,FALSE,TRUE
+4190,"Loch Dungeon",3978,"Plantago_lanceolata",5310,1332,FALSE,TRUE,FALSE
+4190,"Loch Dungeon",3978,"Plantago_all",9843,5865,FALSE,TRUE,FALSE
+4190,"Loch Dungeon",3978,"Cerealia",NA,NA,NA,NA,NA
+4190,"Loch Dungeon",3978,"Rumex",NA,NA,NA,NA,NA
+4190,"Loch Dungeon",3978,"Artemisia",9476,5498,FALSE,TRUE,FALSE
+4190,"Loch Dungeon",3978,"Urtica",NA,NA,NA,NA,NA
+4209,"Loch Lomond Ross Dubh",6359,"Plantago_lanceolata",5461,-898,FALSE,FALSE,TRUE
+4209,"Loch Lomond Ross Dubh",6359,"Plantago_all",5461,-898,FALSE,FALSE,TRUE
+4209,"Loch Lomond Ross Dubh",6359,"Cerealia",NA,NA,NA,NA,NA
+4209,"Loch Lomond Ross Dubh",6359,"Rumex",417,-5942,FALSE,FALSE,TRUE
+4209,"Loch Lomond Ross Dubh",6359,"Artemisia",8615,2256,FALSE,TRUE,FALSE
+4209,"Loch Lomond Ross Dubh",6359,"Urtica",NA,NA,NA,NA,NA
+4251,"Loch Maree",3437,"Plantago_lanceolata",6692,3255,FALSE,TRUE,FALSE
+4251,"Loch Maree",3437,"Plantago_all",9984,6547,FALSE,TRUE,FALSE
+4251,"Loch Maree",3437,"Cerealia",NA,NA,NA,NA,NA
+4251,"Loch Maree",3437,"Rumex",9432,5995,FALSE,TRUE,FALSE
+4251,"Loch Maree",3437,"Artemisia",9656,6219,FALSE,TRUE,FALSE
+4251,"Loch Maree",3437,"Urtica",9984,6547,FALSE,TRUE,FALSE
+22741,"Loch Meodal",6939,"Plantago_lanceolata",6319,-620,FALSE,FALSE,TRUE
+22741,"Loch Meodal",6939,"Plantago_all",7292,353,TRUE,TRUE,FALSE
+22741,"Loch Meodal",6939,"Cerealia",226,-6713,FALSE,FALSE,TRUE
+22741,"Loch Meodal",6939,"Rumex",9364,2425,FALSE,TRUE,FALSE
+22741,"Loch Meodal",6939,"Artemisia",9364,2425,FALSE,TRUE,FALSE
+22741,"Loch Meodal",6939,"Urtica",9068,2129,FALSE,TRUE,FALSE
+4421,"Loch Sionascaig",4070,"Plantago_lanceolata",4649,579,FALSE,TRUE,FALSE
+4421,"Loch Sionascaig",4070,"Plantago_all",8177,4107,FALSE,TRUE,FALSE
+4421,"Loch Sionascaig",4070,"Cerealia",1999,-2071,FALSE,FALSE,TRUE
+4421,"Loch Sionascaig",4070,"Rumex",9995,5925,FALSE,TRUE,FALSE
+4421,"Loch Sionascaig",4070,"Artemisia",9432,5362,FALSE,TRUE,FALSE
+4421,"Loch Sionascaig",4070,"Urtica",NA,NA,NA,NA,NA
+4478,"Loch Tarff",3931,"Plantago_lanceolata",7777,3846,FALSE,TRUE,FALSE
+4478,"Loch Tarff",3931,"Plantago_all",7777,3846,FALSE,TRUE,FALSE
+4478,"Loch Tarff",3931,"Cerealia",NA,NA,NA,NA,NA
+4478,"Loch Tarff",3931,"Rumex",8739,4808,FALSE,TRUE,FALSE
+4478,"Loch Tarff",3931,"Artemisia",8957,5026,FALSE,TRUE,FALSE
+4478,"Loch Tarff",3931,"Urtica",NA,NA,NA,NA,NA
+43525,"Loch a'Phuinnd",4055,"Plantago_lanceolata",7449,3394,FALSE,TRUE,FALSE
+43525,"Loch a'Phuinnd",4055,"Plantago_all",9960,5905,FALSE,TRUE,FALSE
+43525,"Loch a'Phuinnd",4055,"Cerealia",1280,-2775,FALSE,FALSE,TRUE
+43525,"Loch a'Phuinnd",4055,"Rumex",9960,5905,FALSE,TRUE,FALSE
+43525,"Loch a'Phuinnd",4055,"Artemisia",9960,5905,FALSE,TRUE,FALSE
+43525,"Loch a'Phuinnd",4055,"Urtica",9960,5905,FALSE,TRUE,FALSE
+69613,"Loch an t'Suidhe",6901,"Plantago_lanceolata",6215,-686,FALSE,FALSE,TRUE
+69613,"Loch an t'Suidhe",6901,"Plantago_all",9325,2424,FALSE,TRUE,FALSE
+69613,"Loch an t'Suidhe",6901,"Cerealia",NA,NA,NA,NA,NA
+69613,"Loch an t'Suidhe",6901,"Rumex",9797,2896,FALSE,TRUE,FALSE
+69613,"Loch an t'Suidhe",6901,"Artemisia",8270,1369,FALSE,TRUE,FALSE
+69613,"Loch an t'Suidhe",6901,"Urtica",NA,NA,NA,NA,NA
+16217,"Lough Moynagh",6742,"Plantago_lanceolata",6087,-655,FALSE,FALSE,TRUE
+16217,"Lough Moynagh",6742,"Plantago_all",6087,-655,FALSE,FALSE,TRUE
+16217,"Lough Moynagh",6742,"Cerealia",4335,-2407,FALSE,FALSE,TRUE
+16217,"Lough Moynagh",6742,"Rumex",4898,-1844,FALSE,FALSE,TRUE
+16217,"Lough Moynagh",6742,"Artemisia",5023,-1719,FALSE,FALSE,TRUE
+16217,"Lough Moynagh",6742,"Urtica",7653,911,FALSE,TRUE,FALSE
+41421,"Pannel Bridge",6805,"Plantago_lanceolata",9271,2466,FALSE,TRUE,FALSE
+41421,"Pannel Bridge",6805,"Plantago_all",9271,2466,FALSE,TRUE,FALSE
+41421,"Pannel Bridge",6805,"Cerealia",5761,-1044,FALSE,FALSE,TRUE
+41421,"Pannel Bridge",6805,"Rumex",9537,2732,FALSE,TRUE,FALSE
+41421,"Pannel Bridge",6805,"Artemisia",8967,2162,FALSE,TRUE,FALSE
+41421,"Pannel Bridge",6805,"Urtica",9119,2314,FALSE,TRUE,FALSE
+49126,"Rannoch Forest",5695,"Plantago_lanceolata",NA,NA,NA,NA,NA
+49126,"Rannoch Forest",5695,"Plantago_all",2210.9,-3484.1,FALSE,FALSE,TRUE
+49126,"Rannoch Forest",5695,"Cerealia",NA,NA,NA,NA,NA
+49126,"Rannoch Forest",5695,"Rumex",9236.6,3541.6,FALSE,TRUE,FALSE
+49126,"Rannoch Forest",5695,"Artemisia",3880,-1815,FALSE,FALSE,TRUE
+49126,"Rannoch Forest",5695,"Urtica",9053.9,3358.9,FALSE,TRUE,FALSE
+41241,"Round Loch of Glenhead",5432,"Plantago_lanceolata",6858,1426,FALSE,TRUE,FALSE
+41241,"Round Loch of Glenhead",5432,"Plantago_all",8404,2972,FALSE,TRUE,FALSE
+41241,"Round Loch of Glenhead",5432,"Cerealia",NA,NA,NA,NA,NA
+41241,"Round Loch of Glenhead",5432,"Rumex",7224,1792,FALSE,TRUE,FALSE
+41241,"Round Loch of Glenhead",5432,"Artemisia",4911,-521,FALSE,FALSE,TRUE
+41241,"Round Loch of Glenhead",5432,"Urtica",4390,-1042,FALSE,FALSE,TRUE
+41351,"Saham Mere",6449,"Plantago_lanceolata",NA,NA,NA,NA,NA
+41351,"Saham Mere",6449,"Plantago_all",6295,-154,TRUE,FALSE,TRUE
+41351,"Saham Mere",6449,"Cerealia",6295,-154,TRUE,FALSE,TRUE
+41351,"Saham Mere",6449,"Rumex",6449,0,TRUE,FALSE,FALSE
+41351,"Saham Mere",6449,"Artemisia",9083,2634,FALSE,TRUE,FALSE
+41351,"Saham Mere",6449,"Urtica",5133,-1316,FALSE,FALSE,TRUE
+4436,"Sluggan Moss",6273,"Plantago_lanceolata",NA,NA,NA,NA,NA
+4436,"Sluggan Moss",6273,"Plantago_all",7499,1226,FALSE,TRUE,FALSE
+4436,"Sluggan Moss",6273,"Cerealia",NA,NA,NA,NA,NA
+4436,"Sluggan Moss",6273,"Rumex",9957,3684,FALSE,TRUE,FALSE
+4436,"Sluggan Moss",6273,"Artemisia",886,-5387,FALSE,FALSE,TRUE
+4436,"Sluggan Moss",6273,"Urtica",5472,-801,FALSE,FALSE,TRUE
+41310,"Stonetor Brook",6366,"Plantago_lanceolata",7649,1283,FALSE,TRUE,FALSE
+41310,"Stonetor Brook",6366,"Plantago_all",7649,1283,FALSE,TRUE,FALSE
+41310,"Stonetor Brook",6366,"Cerealia",173,-6193,FALSE,FALSE,TRUE
+41310,"Stonetor Brook",6366,"Rumex",8932,2566,FALSE,TRUE,FALSE
+41310,"Stonetor Brook",6366,"Artemisia",9360,2994,FALSE,TRUE,FALSE
+41310,"Stonetor Brook",6366,"Urtica",126,-6240,FALSE,FALSE,TRUE
+22640,"Teanga",6132,"Plantago_lanceolata",6374,242,TRUE,TRUE,FALSE
+22640,"Teanga",6132,"Plantago_all",8447,2315,FALSE,TRUE,FALSE
+22640,"Teanga",6132,"Cerealia",NA,NA,NA,NA,NA
+22640,"Teanga",6132,"Rumex",9874,3742,FALSE,TRUE,FALSE
+22640,"Teanga",6132,"Artemisia",6132,0,TRUE,FALSE,FALSE
+22640,"Teanga",6132,"Urtica",NA,NA,NA,NA,NA
+41345,"The Mere Stow Bedon",6941,"Plantago_lanceolata",5734,-1207,FALSE,FALSE,TRUE
+41345,"The Mere Stow Bedon",6941,"Plantago_all",7389,448,TRUE,TRUE,FALSE
+41345,"The Mere Stow Bedon",6941,"Cerealia",NA,NA,NA,NA,NA
+41345,"The Mere Stow Bedon",6941,"Rumex",9985,3044,FALSE,TRUE,FALSE
+41345,"The Mere Stow Bedon",6941,"Artemisia",9567,2626,FALSE,TRUE,FALSE
+41345,"The Mere Stow Bedon",6941,"Urtica",9746,2805,FALSE,TRUE,FALSE
+52121,"The Noads Bog",6928.2,"Plantago_lanceolata",8103,1174.8,FALSE,TRUE,FALSE
+52121,"The Noads Bog",6928.2,"Plantago_all",9033,2104.8,FALSE,TRUE,FALSE
+52121,"The Noads Bog",6928.2,"Cerealia",NA,NA,NA,NA,NA
+52121,"The Noads Bog",6928.2,"Rumex",8227,1298.8,FALSE,TRUE,FALSE
+52121,"The Noads Bog",6928.2,"Artemisia",8971,2042.8,FALSE,TRUE,FALSE
+52121,"The Noads Bog",6928.2,"Urtica",9033,2104.8,FALSE,TRUE,FALSE
+4484,"Thorpe Bulmer",6595,"Plantago_lanceolata",6943,348,TRUE,TRUE,FALSE
+4484,"Thorpe Bulmer",6595,"Plantago_all",8273,1678,FALSE,TRUE,FALSE
+4484,"Thorpe Bulmer",6595,"Cerealia",2019,-4576,FALSE,FALSE,TRUE
+4484,"Thorpe Bulmer",6595,"Rumex",8242,1647,FALSE,TRUE,FALSE
+4484,"Thorpe Bulmer",6595,"Artemisia",8273,1678,FALSE,TRUE,FALSE
+4484,"Thorpe Bulmer",6595,"Urtica",7862,1267,FALSE,TRUE,FALSE
+41243,"Tilbury Fort",6608,"Plantago_lanceolata",7455,847,FALSE,TRUE,FALSE
+41243,"Tilbury Fort",6608,"Plantago_all",7455,847,FALSE,TRUE,FALSE
+41243,"Tilbury Fort",6608,"Cerealia",7794,1186,FALSE,TRUE,FALSE
+41243,"Tilbury Fort",6608,"Rumex",7794,1186,FALSE,TRUE,FALSE
+41243,"Tilbury Fort",6608,"Artemisia",8133,1525,FALSE,TRUE,FALSE
+41243,"Tilbury Fort",6608,"Urtica",NA,NA,NA,NA,NA
+41305,"Winneys Down",6295,"Plantago_lanceolata",6757,462,TRUE,TRUE,FALSE
+41305,"Winneys Down",6295,"Plantago_all",6757,462,TRUE,TRUE,FALSE
+41305,"Winneys Down",6295,"Cerealia",2120,-4175,FALSE,FALSE,TRUE
+41305,"Winneys Down",6295,"Rumex",7086,791,FALSE,TRUE,FALSE
+41305,"Winneys Down",6295,"Artemisia",3808,-2487,FALSE,FALSE,TRUE
+41305,"Winneys Down",6295,"Urtica",5300,-995,FALSE,FALSE,TRUE
