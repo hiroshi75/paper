@@ -118,7 +118,21 @@ To quantify the practical consequence of indicator dependency, we calculated the
 
 Raw pollen percentages were converted to estimated vegetation cover using published relative pollen productivity (RPP) values: *Zea mays* RPP = 0.05 (Davis, 1963; Whitney et al., 2012); *Ambrosia* RPP = 4.09 (Matthias et al., 2015); *Quercus* = 1.00 (reference taxon). Monte Carlo simulation (10,000 iterations) propagated RPP uncertainty.
 
-### 2.9 Statistical framework
+### 2.9 Forward detection simulation
+
+To demonstrate that identifiability constraints are structural — not merely a matter of signal strength — we constructed a forward pollen detection model. The model generates synthetic pollen assemblages under two agricultural perturbation scenarios and tests whether exceedance is detected under different indicator sets.
+
+**Baseline composition.** Synthetic sites use a 10-taxon forest assemblage representative of ENA (Quercus 20%, Pinus 15%, Betula 10%, Fagus 8%, Acer 7%, Carya 5%, Poaceae 5%, Artemisia 3%, Amaranthaceae 2%, Other 25%). Baseline samples are generated with multinomial sampling noise plus Gaussian temporal variability (SD parameter varied from 0.5% to 3%).
+
+**Two perturbation models.** Model A (European pastoral): Quercus −5%, Fagus −3%, Pinus −2%, Plantago +4%, Rumex +2%, Poaceae +3%, Cerealia +1% — a multi-taxon syndrome adding novel high-abundance indicators. Model B (EAC cultivation): Amaranthaceae +3% (from 2% to 5%) — a single-taxon increase within a pre-existing family.
+
+**Detection test.** For each of 1,000 simulated sites at each parameter combination (signal strength 0–3×, noise SD 0.5–3%, baseline n = 10–50), the exceedance test (baseline mean + 2 SD) was applied using European indicators, indigenous family-level indicators (Amaranthaceae), and indigenous genus-level indicators (simulated Chenopodium at 0.5% baseline). Detection probability was computed as the fraction of simulated sites exceeding the threshold.
+
+**Identifiability threshold.** Defined as the minimum signal strength at which detection probability reaches 80%.
+
+We define a transformation as *operationally identifiable* under a given proxy framework if increasing signal strength monotonically increases detection probability toward 1. A transformation is *operationally unidentifiable* if detection probability does not increase with signal strength — indicating that the framework measures a domain orthogonal to the transformation.
+
+### 2.10 Statistical framework
 
 Confidence intervals use the Clopper-Pearson exact method. Group comparisons use Mann-Whitney U (continuous) and Fisher's exact (categorical) tests. The indicator dependency gap is defined as the difference between the maximum and minimum detection rates across indicator sets within a single region. All analyses were conducted in R 4.3.x.
 
@@ -241,6 +255,33 @@ Tree exceedance (Set E) is approximately 93% on both continents, but the taxa dr
 In ENA, fire-promoted taxa (*Quercus*, *Carya*, *Castanea*, *Pinus*) increase at 64.3% of sites, with 97.1% of tree exceedance occurring in the pre-Columbian period. In Europe, fire-promoted taxa increase at 58.0% of sites. The similar rates (64.3% versus 58.0%) suggest that even fire-promoted exceedance cannot, by itself, distinguish indigenous management from Holocene climate dynamics. However, the distinctive ENA taxa (*Carya*, *Castanea*) that are absent from European pollen records show some of the highest exceedance rates and merit further investigation.
 
 The key finding for the three-domain framework is that Type C transformation cannot be assessed through the aggregate exceedance rate alone. The same ~93% rate encompasses fundamentally different ecological processes on the two continents. Decomposition into taxon-level, direction-specific, and timing-specific analyses is necessary before compositional change can be attributed to any specific driver.
+
+### 3.8 Forward simulation: identifiability is structural, not sensitivity-dependent
+
+The forward detection model demonstrates that the empirical indicator dependency gap is a structural property of the observation system, not a consequence of weak signals (Table 6).
+
+**Table 6.** Identifiability thresholds from 1,000-site simulations (baseline n = 20, noise SD = 1%).
+
+| Agricultural system | Indicator set | 80% detection threshold | Interpretation |
+|:---:|:---:|:---:|:---:|
+| European pastoral (Type A) | European indicators | **0.23×** | Easily identifiable |
+| EAC cultivation (Type B) | European indicators | **Never reached** | Structurally unidentifiable |
+| EAC cultivation (Type B) | Amaranthaceae (family) | **0.63×** (2.7× harder) | Identifiable but constrained |
+| EAC cultivation (Type B) | Chenopodium (genus) | **0.49×** (2.1× harder) | Identifiable, less constrained |
+
+Under European indicators, EAC detection probability remains at ~28% regardless of signal strength (0× to 3×) — this flat response demonstrates operational unidentifiability. The ~28% "detections" are entirely false positives from Poaceae noise; increasing the EAC signal adds Amaranthaceae but European indicators do not measure Amaranthaceae. By contrast, European pastoral detection rises monotonically from 5% (noise-only) to >99% at 0.5× signal.
+
+Three structural constraints produce this asymmetry:
+
+1. **Domain blindness.** European indicators measure pastoral/cereal taxa. EAC alters Amaranthaceae. The indicator set is orthogonal to the transformation — no amount of signal increase can overcome this.
+
+2. **Taxonomic masking.** Even under indigenous family-level indicators, the 2% wild Amaranthaceae baseline means that a 3% cultivated increase must exceed a threshold set by natural variability of the entire family. This produces a 2.7× higher identifiability threshold than European pastoral detection, where novel taxa rise from near-zero baselines.
+
+3. **Dimensionality disadvantage.** European pastoral transformation produces a 4-taxon syndrome (Plantago + Rumex + Poaceae + Cerealia). EAC cultivation produces a 1-taxon signal (Amaranthaceae). Multi-taxon syndromes are inherently more robust to noise because each taxon provides independent evidence.
+
+Increasing baseline length from 10 to 50 samples *decreases* apparent EAC detection under European indicators (from 48% to 14%), confirming that longer baselines expose false positives rather than revealing true signal. This finding validates the empirical observation that well-dated sites with long baselines show 0% European-indicator exceedance.
+
+The simulation establishes that the empirical 0% detection rate is not a matter of insufficient signal or inadequate data. It is a predictable consequence of applying indicators that measure a domain orthogonal to the transformation occurring.
 
 ---
 
