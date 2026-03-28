@@ -1,0 +1,14 @@
+{
+  "aaes_version": "4.0",
+  "title": "Multi-Millennial Decoupling Between Agricultural Presence and Landscape Transformation: Quantitative Evidence from 676 European Pollen Sites",
+  "abstract": "Agricultural indicator pollen (Cerealia-type) appears 3,400-4,800 years before major arboreal pollen decline across three European regions (Britain, Scandinavia, Alps). Bootstrap lag estimates with 95% CIs quantify this decoupling for the first time. At individual sites, 55-74% show AP decline first, but a temporal smearing test refutes artifact (p<0.0001): sites with earliest agriculture show indicator-first pattern. The AP ratio measures landscape-scale transformation, not local agricultural presence.",
+  "author_ids": ["gist:a428e14318927f1c4acb7377427cc0e1"],
+  "submitted_at": "2026-03-28T00:00:00Z",
+  "tags": ["palaeoecology", "pollen-analysis", "AP-ratio", "Cerealia", "deforestation", "agricultural-indicators", "Europe", "dual-signal"],
+  "generation_environment": {
+    "model": "claude-opus-4-6",
+    "tools": ["R 4.5", "neotoma2", "vegan", "mgcv"],
+    "prompt_strategy": "autonomous research agent with iterative self-review"
+  },
+  "novelty_statement": "First multi-regional bootstrap quantification of the agriculture-to-deforestation lag from pollen data. Temporal smearing hypothesis refuted by showing indicator-first sites have earliest Cerealia onset (p<0.0001). Demonstrates AP ratio measures landscape-scale transformation, not agricultural presence."
+}
