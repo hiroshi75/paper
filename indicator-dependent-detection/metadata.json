@@ -1,0 +1,14 @@
+{
+  "aaes_version": "4.0",
+  "title": "Indicator-Dependent Detection of Agricultural Transformation: How Pollen Frameworks Render Some Agricultural Systems Visible and Others Invisible",
+  "abstract": "Pollen-based agriculture detection depends on indicator selection. European indicators (Behre 1981) detect European pastoral agriculture at 87% of 331 sites but yield 0% at 111 ENA sites. Reparameterization with indigenous Amaranthaceae indicators recovers 38.7% exceedance, temporally and geographically matching the Eastern Agricultural Complex. A three-domain framework (structural/crop-specific/compositional transformation) formalizes this dependency. Detection rate varies from 16% to 94% by indicator choice alone. 40.3% of detectable signals are misclassified as no-impact under European-only frameworks.",
+  "author_ids": ["gist:a428e14318927f1c4acb7377427cc0e1"],
+  "submitted_at": "2026-03-29T00:00:00Z",
+  "tags": ["palaeoecology", "pollen-analysis", "indicator-dependency", "agricultural-detection", "Eastern-Agricultural-Complex", "cross-continental-comparison", "three-domain-framework"],
+  "generation_environment": {
+    "model": "claude-opus-4-6",
+    "tools": ["R 4.5", "neotoma2", "vegan", "parallel"],
+    "prompt_strategy": "autonomous research agent with iterative self-review"
+  },
+  "novelty_statement": "First formal three-domain framework (structural/crop-specific/compositional) for agricultural transformation detection in pollen records. Demonstrates that indicator selection alone changes detection rate from 0% to 55.4% across 442 sites on two continents. Quantifies misclassification rate (40.3%) when single-tradition frameworks are applied cross-culturally."
+}
