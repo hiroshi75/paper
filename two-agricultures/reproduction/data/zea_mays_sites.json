@@ -1,0 +1,549 @@
+{
+  "2515": {
+    "name": "Lac Saint-Jean",
+    "lat": 48.5,
+    "lon": -72,
+    "dstype": "pollen",
+    "ages": [],
+    "values": [
+      1,
+      1,
+      2,
+      3
+    ],
+    "n_samples": 4
+  },
+  "229": {
+    "name": "Barchampe Lake",
+    "lat": 30.62222,
+    "lon": -83.25389,
+    "dstype": "pollen",
+    "ages": [],
+    "values": [
+      1
+    ],
+    "n_samples": 1
+  },
+  "232": {
+    "name": "Barry Lake",
+    "lat": 44.3,
+    "lon": -77.91667,
+    "dstype": "pollen",
+    "ages": [],
+    "values": [
+      1
+    ],
+    "n_samples": 1
+  },
+  "272": {
+    "name": "Black Pond",
+    "lat": 35.62083,
+    "lon": -84.18667,
+    "dstype": "pollen",
+    "ages": [],
+    "values": [
+      1,
+      1,
+      2,
+      2,
+      1,
+      1,
+      2,
+      2,
+      3,
+      3,
+      1,
+      1
+    ],
+    "n_samples": 12
+  },
+  "503": {
+    "name": "Cranberry Lake",
+    "lat": 44.1,
+    "lon": -78.1,
+    "dstype": "pollen",
+    "ages": [],
+    "values": [
+      1
+    ],
+    "n_samples": 1
+  },
+  "701": {
+    "name": "Donut Pond Bog",
+    "lat": 41.275,
+    "lon": -70.05833,
+    "dstype": "pollen",
+    "ages": [],
+    "values": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "n_samples": 4
+  },
+  "762": {
+    "name": "East Twin Lake",
+    "lat": 45.33333,
+    "lon": -93.50833,
+    "dstype": "pollen",
+    "ages": [
+      5,
+      -28
+    ],
+    "values": [
+      2,
+      2
+    ],
+    "n_samples": 2
+  },
+  "774": {
+    "name": "Lake Ellensmere",
+    "lat": 39.35417,
+    "lon": -83.01,
+    "dstype": "pollen",
+    "ages": [],
+    "values": [
+      1,
+      1,
+      1,
+      2,
+      3,
+      2
+    ],
+    "n_samples": 6
+  },
+  "785": {
+    "name": "Lake Erie",
+    "lat": 41.92,
+    "lon": -82.76,
+    "dstype": "pollen",
+    "ages": [],
+    "values": [
+      1
+    ],
+    "n_samples": 1
+  },
+  "801": {
+    "name": "Fawn Lake",
+    "lat": 46.21889,
+    "lon": -94.75333,
+    "dstype": "pollen",
+    "ages": [
+      82,
+      -18
+    ],
+    "values": [
+      1,
+      1
+    ],
+    "n_samples": 2
+  },
+  "826": {
+    "name": "Fresh Pond",
+    "lat": 41.15833,
+    "lon": -71.575,
+    "dstype": "pollen",
+    "ages": [],
+    "values": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "n_samples": 4
+  },
+  "1102": {
+    "name": "Humber Pond 3",
+    "lat": 43.64,
+    "lon": -79.48,
+    "dstype": "pollen",
+    "ages": [],
+    "values": [
+      1
+    ],
+    "n_samples": 1
+  },
+  "1103": {
+    "name": "Humber Pond 5",
+    "lat": 43.64,
+    "lon": -79.49,
+    "dstype": "pollen",
+    "ages": [],
+    "values": [
+      1,
+      1
+    ],
+    "n_samples": 2
+  },
+  "1104": {
+    "name": "Humber Pond 7",
+    "lat": 43.65,
+    "lon": -79.5,
+    "dstype": "pollen",
+    "ages": [
+      160,
+      -29,
+      632,
+      61,
+      802,
+      136
+    ],
+    "values": [
+      1,
+      1,
+      2,
+      2,
+      1,
+      1
+    ],
+    "n_samples": 6
+  },
+  "1569": {
+    "name": "Tourbi\u00e8re de Lanoraie STJEAN",
+    "lat": 46,
+    "lon": -73.21694,
+    "dstype": "pollen",
+    "ages": [
+      774,
+      179
+    ],
+    "values": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "n_samples": 4
+  },
+  "1643": {
+    "name": "Mansell Pond",
+    "lat": 45.04167,
+    "lon": -68.73333,
+    "dstype": "pollen",
+    "ages": [
+      13,
+      -52
+    ],
+    "values": [
+      1,
+      1,
+      1
+    ],
+    "n_samples": 3
+  },
+  "1756": {
+    "name": "No Bottom Pond",
+    "lat": 41.28333,
+    "lon": -70.20833,
+    "dstype": "pollen",
+    "ages": [],
+    "values": [
+      1
+    ],
+    "n_samples": 1
+  },
+  "1841": {
+    "name": "Pitcher Bog",
+    "lat": 44.82,
+    "lon": -79.98,
+    "dstype": "pollen",
+    "ages": [],
+    "values": [
+      1,
+      4
+    ],
+    "n_samples": 2
+  },
+  "1908": {
+    "name": "Powers Fort Swale",
+    "lat": 36.6,
+    "lon": -90.58333,
+    "dstype": "pollen",
+    "ages": [],
+    "values": [
+      9,
+      9,
+      9,
+      9,
+      3,
+      3,
+      3,
+      3,
+      1,
+      1,
+      1,
+      1
+    ],
+    "n_samples": 12
+  },
+  "1914": {
+    "name": "Protection Bog",
+    "lat": 42.62222,
+    "lon": -78.46667,
+    "dstype": "pollen",
+    "ages": [],
+    "values": [
+      1
+    ],
+    "n_samples": 1
+  },
+  "6480": {
+    "name": "Roberts Creek CCLH-2",
+    "lat": 42.98611,
+    "lon": -91.50028,
+    "dstype": "pollen",
+    "ages": [],
+    "values": [
+      1
+    ],
+    "n_samples": 1
+  },
+  "2501": {
+    "name": "Spectacle Lake",
+    "lat": 45.57222,
+    "lon": -93.40833,
+    "dstype": "pollen",
+    "ages": [
+      77,
+      -19
+    ],
+    "values": [
+      1,
+      1
+    ],
+    "n_samples": 2
+  },
+  "2512": {
+    "name": "Stages Pond",
+    "lat": 39.66806,
+    "lon": -82.9375,
+    "dstype": "pollen",
+    "ages": [],
+    "values": [
+      1,
+      1
+    ],
+    "n_samples": 2
+  },
+  "2518": {
+    "name": "Stone Lake",
+    "lat": 45.4,
+    "lon": -93.52222,
+    "dstype": "pollen",
+    "ages": [
+      6,
+      -26
+    ],
+    "values": [
+      1,
+      1
+    ],
+    "n_samples": 2
+  },
+  "2524": {
+    "name": "Sunfish Lake",
+    "lat": 44.87472,
+    "lon": -93.1,
+    "dstype": "pollen",
+    "ages": [
+      4,
+      -27,
+      73,
+      -18,
+      116,
+      -7
+    ],
+    "values": [
+      2,
+      2,
+      1,
+      1,
+      3,
+      3
+    ],
+    "n_samples": 6
+  },
+  "2539": {
+    "name": "Taupawshas Bog",
+    "lat": 41.275,
+    "lon": -70.05833,
+    "dstype": "pollen",
+    "ages": [],
+    "values": [
+      1
+    ],
+    "n_samples": 1
+  },
+  "2578": {
+    "name": "Tuskegee Pond",
+    "lat": 35.58472,
+    "lon": -84.21056,
+    "dstype": "pollen",
+    "ages": [],
+    "values": [
+      1,
+      2,
+      2,
+      4,
+      4,
+      4,
+      2,
+      4,
+      3,
+      2,
+      1,
+      4,
+      5,
+      8,
+      3,
+      6,
+      12,
+      4,
+      9,
+      5,
+      3
+    ],
+    "n_samples": 21
+  },
+  "2851": {
+    "name": "Wentzel's Pond",
+    "lat": 46.95,
+    "lon": -94.95,
+    "dstype": "pollen",
+    "ages": [],
+    "values": [
+      1,
+      1
+    ],
+    "n_samples": 2
+  },
+  "2937": {
+    "name": "Wood Lake",
+    "lat": 45.33333,
+    "lon": -90.08333,
+    "dstype": "pollen",
+    "ages": [
+      239,
+      -15,
+      8246,
+      7445
+    ],
+    "values": [
+      1,
+      1,
+      2,
+      2
+    ],
+    "n_samples": 4
+  },
+  "2943": {
+    "name": "Wylde Bog",
+    "lat": 43.9,
+    "lon": -80.4,
+    "dstype": "pollen",
+    "ages": [],
+    "values": [
+      1
+    ],
+    "n_samples": 1
+  },
+  "1410": {
+    "name": "Kellys Hollow",
+    "lat": 45.3,
+    "lon": -90.35,
+    "dstype": "pollen",
+    "ages": [
+      10631,
+      8607
+    ],
+    "values": [
+      1,
+      1
+    ],
+    "n_samples": 2
+  },
+  "8585": {
+    "name": "Horseshoe Lake",
+    "lat": 38.7018,
+    "lon": -90.09503,
+    "dstype": "pollen",
+    "ages": [
+      -19,
+      -41,
+      61,
+      -33,
+      111,
+      -13,
+      137,
+      -2,
+      456,
+      254,
+      262,
+      -298,
+      224,
+      49,
+      340,
+      38,
+      259,
+      76,
+      364,
+      65,
+      1077,
+      913,
+      1051,
+      814,
+      1161,
+      967,
+      1187,
+      866,
+      1234,
+      1021,
+      1270,
+      922,
+      1267,
+      1049,
+      1289,
+      949,
+      1401,
+      1196,
+      1484,
+      1130
+    ],
+    "values": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      3,
+      3,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "n_samples": 21
+  },
+  "36501": {
+    "name": "Central Big Creek Marsh",
+    "lat": 42.645,
+    "lon": -80.53922,
+    "dstype": "pollen",
+    "ages": [],
+    "values": [
+      1
+    ],
+    "n_samples": 1
+  }
+}
