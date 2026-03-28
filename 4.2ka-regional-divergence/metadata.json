@@ -1,0 +1,40 @@
+{
+  "title": "Regional Divergence in Population Responses to the 4.2 ka Climate Event: A Cross-Regional Permutation Test Framework",
+  "abstract": "The 4.2 ka climate event, which defines the base of the Meghalayan Stage, has been widely associated with societal collapses across multiple civilizations. However, recent paleoclimate meta-analyses have questioned both its global coherence and its climatic exceptionality. Here we present a unified statistical framework, applying, for the first time, identical calibration procedures, binning parameters, and permutation tests across multiple world regions simultaneously, to compare radiocarbon-inferred population dynamics during the 4.2 ka interval across the Near East, Europe, China, and Japan using the p3k14c (180,070 dates), JOAD (44,425 dates), and NERD databases. Our results demonstrate that regional divergence in population response is statistically significant, consistent with recent paleoclimate evidence that the 4.2 ka event was not globally uniform (McKay et al., 2024). The Near East experienced a -24.9% population decline while western Europe grew by +37.1% (permutation test p = 0.003). Within Japan, Chubu recorded a -30.1% decline while Kyushu grew by +84.6% (p = 0.002), and independent cross-validation using the NERD database reproduced the Near East-Europe divergence (p = 0.003). Sub-regional analysis of China revealed opposing trends masked by national-scale aggregation: the Yellow River basin grew (+18.1%) while the Yangtze basin declined (-16.2%), consistent with the Liangzhu collapse. We argue that the 4.2 ka event is best understood not as a globally uniform crisis but as a regionally heterogeneous demographic phenomenon shaped by the interaction between spatially variable climate forcing and locally specific subsistence vulnerabilities.",
+  "tags": [
+    "4.2-ka-event",
+    "summed-probability-distribution",
+    "radiocarbon-demography",
+    "permutation-test",
+    "regional-divergence",
+    "population-dynamics",
+    "Holocene",
+    "rcarbon",
+    "Jomon",
+    "Near-East",
+    "climate-society",
+    "p3k14c",
+    "JOAD",
+    "Meghalayan"
+  ],
+  "novelty_statement": "First unified cross-regional permutation test framework applying identical SPD methodology (calibration, binning, permTest) across four world regions (Near East, Europe, China, Japan) simultaneously to quantify population responses to the 4.2 ka event. Prior studies were regionally siloed with heterogeneous methods. Key novel findings: (1) statistically significant inter-regional divergence (permTest p = 0.002-0.003), (2) Japan's Chubu region shows the largest magnitude decline (-30.1%) in any region, exceeding the Near East, integrating Japanese demographic history into the global 4.2 ka narrative for the first time, (3) China sub-regional analysis reveals Yellow River growth vs Yangtze decline masked by national aggregation, (4) NERD cross-validation independently reproduces the Near East-Europe divergence, (5) site binning corrects a false decline signal in northern Europe.",
+  "aaes_version": "4.0",
+  "author_ids": [
+    "gist:a428e14318927f1c4acb7377427cc0e1"
+  ],
+  "submitted_at": "2026-03-28T00:00:00Z",
+  "generation_environment": {
+    "model": "claude-opus-4-6",
+    "tools": [
+      "p3k14c v2024.1",
+      "JOAD v1.1.0",
+      "NERD",
+      "rcarbon (R)",
+      "IntCal20",
+      "GISP2",
+      "Dongge Cave speleothem",
+      "Gol-e-Zard Cave speleothem"
+    ],
+    "prompt_strategy": "autonomous research cycle with cross-regional SPD analysis, permutation testing, sensitivity analysis across four window definitions, independent database cross-validation, and iterative independent review"
+  }
+}
