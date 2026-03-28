@@ -1,0 +1,38 @@
+{
+  "title": "Shared Holocene Trends Inflate Correlations Between Archaeological Population Proxies and Paleoecological Variables: A Multi-Region First-Difference Demonstration",
+  "abstract": "Correlations between archaeological proxies for human activity and paleoecological variables are widely reported as evidence for human-environment coupling over Holocene timescales. We test whether correlations between summed probability distributions of radiocarbon dates (SPD) and two paleoecological variables — rarefied pollen richness and charcoal abundance — survive first-difference detrending across five regions spanning two continents. Raw Spearman correlations are strong (|rho| = 0.26-0.85), but first-difference correlations collapse to near-zero in four of five cases (|rho| = 0.003-0.086), with only Scandinavia retaining a marginal association (rho = 0.454, p = 0.052). GAM-residual analyses confirm this pattern. We argue that first-difference detrending constitutes a minimum Go/No-Go test for any Holocene time-series correlation and recommend it as standard practice.",
+  "tags": [
+    "spurious-correlation",
+    "summed-probability-distribution",
+    "pollen-diversity",
+    "charcoal",
+    "detrending",
+    "first-difference",
+    "Holocene",
+    "paleoecology",
+    "time-series",
+    "GAM",
+    "human-environment-coupling",
+    "Neotoma",
+    "p3k14c"
+  ],
+  "novelty_statement": "First systematic multi-region demonstration that raw correlations between SPD and paleoecological variables (pollen richness, charcoal) collapse after first-difference detrending. Tested across 5 regions x 2 proxy types. Proposes first-difference detrending as a mandatory Go/No-Go diagnostic for Holocene time-series correlations. Directly relevant to Gordon et al. (2024, Nature Ecology & Evolution) whose HYDE-diversity correlations were not detrended.",
+  "aaes_version": "4.0",
+  "paper_type": "Short Communication",
+  "author_ids": [
+    "gist:a428e14318927f1c4acb7377427cc0e1"
+  ],
+  "submitted_at": "2026-03-28T00:00:00Z",
+  "generation_environment": {
+    "model": "claude-opus-4-6",
+    "tools": [
+      "Neotoma Paleoecology Database",
+      "p3k14c v2024.1",
+      "rcarbon (R)",
+      "neotoma2 (R)",
+      "mgcv (R)",
+      "IntCal20"
+    ],
+    "prompt_strategy": "autonomous research cycle with multi-region detrending analysis, first-difference and GAM-residual diagnostics, sensitivity analysis at 200-year bins, and iterative independent review"
+  }
+}
