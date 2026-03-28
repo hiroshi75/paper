@@ -130,7 +130,14 @@ To demonstrate that identifiability constraints are structural — not merely a 
 
 **Identifiability threshold.** Defined as the minimum signal strength at which detection probability reaches 80%.
 
-We define a transformation as *operationally identifiable* under a given proxy framework if increasing signal strength monotonically increases detection probability toward 1. A transformation is *operationally unidentifiable* if detection probability does not increase with signal strength — indicating that the framework measures a domain orthogonal to the transformation.
+**Formal detection framework.** Let *D*(*I*, *T*, *s*) denote the detection probability as a function of indicator set *I*, transformation type *T*, and signal strength *s*. We define:
+
+- A transformation *T* is *operationally identifiable* under indicator set *I* if ∂*D*/∂*s* > 0: increasing signal strength monotonically increases detection probability.
+- A transformation *T* is *operationally unidentifiable* under *I* if ∂*D*/∂*s* ≈ 0: detection probability is invariant to signal strength.
+
+The structural basis for unidentifiability is domain orthogonality. An indicator set *I* spans a subspace of the pollen compositional space (the taxa it measures). A transformation *T* perturbs a potentially different subspace (the taxa it alters). If the perturbed subspace has no overlap with the measured subspace — formally, if *I* ∩ *T* = ∅ in terms of the taxa affected — then the transformation is invisible to the indicators regardless of its magnitude. Increasing *s* adds signal in a dimension that *I* does not observe, producing ∂*D*/∂*s* = 0.
+
+This is not an empirical accident but a geometric necessity: a projection that discards a dimension cannot recover information in that dimension, no matter how large the original signal. The simulation (Section 3.8) demonstrates this property; the formal structure explains why it must hold in general.
 
 ### 2.10 Statistical framework
 
@@ -279,17 +286,19 @@ Under European indicators, EAC detection probability remains at ~28% regardless 
 
 ![Figure 4: Detection Response Curves](figures/paper8_detection_response_curves.png)
 
-Three structural constraints produce this asymmetry:
+Three structural constraints produce this asymmetry, each corresponding to a distinct mechanism by which information is lost in the observation process:
 
-1. **Domain blindness.** European indicators measure pastoral/cereal taxa. EAC alters Amaranthaceae. The indicator set is orthogonal to the transformation — no amount of signal increase can overcome this.
+1. **Domain orthogonality** (*I* ∩ *T* = ∅). European indicators span the pastoral/cereal subspace; EAC transforms the Amaranthaceae subspace. Because the transformation projects onto a dimension not spanned by the indicator set, increasing signal strength adds information that the indicator set cannot access. This is not a sensitivity limitation — it is a geometric property of the measurement. No amount of signal amplification can overcome a projection that discards the relevant dimension.
 
-2. **Taxonomic masking.** Even under indigenous family-level indicators, the 2% wild Amaranthaceae baseline means that a 3% cultivated increase must exceed a threshold set by natural variability of the entire family. This produces a 2.7× higher identifiability threshold than European pastoral detection, where novel taxa rise from near-zero baselines.
+2. **Taxonomic masking** (baseline inflation). Even when the correct taxon family is included (*I* ∩ *T* ≠ ∅), family-level identification conflates cultivated and wild species. The 2% wild Amaranthaceae baseline inflates the detection threshold, requiring 2.7× more signal than European pastoral indicators where novel taxa rise from near-zero baselines. Taxonomic masking is a resolution constraint: it can be ameliorated (genus-level identification reduces the threshold to 2.1×) but not eliminated without species-level discrimination.
 
-3. **Dimensionality disadvantage.** European pastoral transformation produces a 4-taxon syndrome (Plantago + Rumex + Poaceae + Cerealia). EAC cultivation produces a 1-taxon signal (Amaranthaceae). Multi-taxon syndromes are inherently more robust to noise because each taxon provides independent evidence.
+3. **Dimensionality disadvantage** (redundancy deficit). European pastoral transformation produces a correlated 4-taxon syndrome (Plantago + Rumex + Poaceae + Cerealia), providing redundant evidence that is robust to noise in any single taxon. EAC cultivation produces a 1-taxon signal (Amaranthaceae), with no redundancy. Under noisy conditions, multi-taxon syndromes degrade gracefully while single-taxon signals degrade catastrophically.
 
-Increasing baseline length from 10 to 50 samples *decreases* apparent EAC detection under European indicators (from 48% to 14%), confirming that longer baselines expose false positives rather than revealing true signal. This finding validates the empirical observation that well-dated sites with long baselines show 0% European-indicator exceedance.
+These three constraints — domain orthogonality, resolution-dependent masking, and redundancy deficit — are not specific to the Europe-ENA comparison. They are general properties of any proxy detection system and predict, *a priori*, that agricultural systems operating through single-taxon, family-level-identifiable, within-canopy transformations will be systematically harder to detect than those operating through multi-taxon, genus-level, landscape-clearing transformations.
 
-The simulation establishes that the empirical 0% detection rate is not a matter of insufficient signal or inadequate data. It is a predictable consequence of applying indicators that measure a domain orthogonal to the transformation occurring.
+Increasing baseline length from 10 to 50 samples *decreases* apparent EAC detection under European indicators (from 48% to 14%), confirming that longer baselines expose false positives rather than revealing true signal — a direct consequence of domain orthogonality.
+
+The simulation establishes that the empirical 0% detection rate is a necessary consequence of applying indicators orthogonal to the transformation. It is not a matter of insufficient signal, inadequate data, or low sensitivity. It is a structural property of the observation.
 
 ---
 
@@ -305,9 +314,13 @@ The practical implication is that single-domain studies cannot support claims ab
 
 The three-domain framework builds on but is distinct from existing typologies. Roberts et al. (2018) distinguished "land cover" from "land use" in pollen-based reconstruction, recognising that open-landscape indicators and crop indicators capture different phenomena. Stephens et al. (2019, ArchaeoGLOBE) classified land-use intensity from archaeological evidence independently of pollen. Fyfe et al. (2015) developed pseudobiomization categories that implicitly separate structural openness from crop presence. Our contribution is to formalise these implicit distinctions as independently testable domains within a single exceedance framework, and to demonstrate empirically — for the first time across two continents — that domain choice determines detection outcome. The framework is not a re-labelling of known categories; it is a tool for diagnosing why detection fails and how to repair it.
 
-### 4.2 Indicator selection is not neutral: a quantitative demonstration
+### 4.2 From empirical pattern to structural necessity
 
-The indicator dependency demonstrated here is not a theoretical concern or an epistemological argument. It is a quantitative, empirically measurable phenomenon. At ENA sites, changing the indicator set changes the detection outcome from 0% to 38.7% (Sets A versus B) or from 0% to 93.8% (Sets A versus E). The indicator dependency gap --- the range of detection outcomes across indicator sets within a single region --- is 93.8 percentage points in ENA and approximately 6 percentage points in Europe (where European indicators match the dominant transformation type).
+The forward simulation (Section 3.8) transforms the empirical observation of indicator dependency into a structural result. The flat detection response curve for EAC under European indicators (Figure 4, ∂*D*/∂*s* ≈ 0) is not an accidental property of the specific taxa or noise levels chosen. It follows necessarily from the domain orthogonality condition (*I* ∩ *T* = ∅): when the transformation perturbs taxa outside the indicator set's measurement subspace, the detection function is invariant to signal strength. This is a geometric property of projection — information discarded by the observation cannot be recovered by amplifying the source — and it holds regardless of the specific pollen assemblage, noise structure, or threshold choice. The simulation demonstrates this necessity by showing that the flat response persists across all tested combinations of signal strength (0–3×), noise (0.5–3%), and baseline length (10–50 samples). It is not an artefact of parameter choice but a consequence of the measurement architecture.
+
+### 4.3 Indicator dependency is structured, not arbitrary
+
+The indicator dependency demonstrated here is not a theoretical concern but a quantitative, empirically measurable phenomenon with predictable structure. At ENA sites, changing the indicator set changes the detection outcome from 0% to 38.7% (Sets A versus B) or from 0% to 93.8% (Sets A versus E). The indicator dependency gap --- the range of detection outcomes across indicator sets within a single region --- is 93.8 percentage points in ENA and approximately 6 percentage points in Europe (where European indicators match the dominant transformation type).
 
 This asymmetry is itself informative and demonstrates that indicator dependency is **structured, not arbitrary**. When indicator assumptions match the regional agricultural tradition, the gap is small: different indicators converge. When assumptions mismatch, the gap becomes large: indicators diverge. Dependency is constrained by two factors: the ecological domain of transformation and the taxonomic resolution of the proxy. A pastoral system that clears forest will always produce a Type A signal detectable by any indicator set that includes AP; the dependency is low. An agroforestry system that cultivates taxa identifiable only at family level will produce a Type B signal detectable only by indicator sets that include that family; the dependency is high. Indicator dependency is therefore not a counsel of despair — it is a measurable property of specific framework-system pairings, and its magnitude indicates how much interpretive risk a given study carries.
 
