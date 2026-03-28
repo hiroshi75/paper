@@ -275,6 +275,10 @@ Under European indicators, EAC detection probability remains at ~28% regardless 
 
 ![Figure 3: Detectability Phase Diagram](figures/paper8_detectability_phase_diagram.png) The four panels visualise the structural asymmetry. In the upper-left panel (Type A pastoral × European indicators), the 80% detection contour (white solid line) falls at low signal strength (~0.23×), indicating easy detection across a wide range of noise levels. In the upper-right panel (Type B EAC × European indicators), the entire parameter space remains below 30% detection probability — no 80% contour exists. This absence is the visual signature of operational unidentifiability: there is no combination of signal strength and noise level at which European indicators reliably detect EAC-type transformation. The lower panels show that reparameterisation with indigenous indicators recovers detectability, with the 80% contour appearing at 0.63× (family-level, lower left) and 0.49× (genus-level, lower right). The rightward shift of the contour relative to the upper-left panel quantifies the additional detection difficulty imposed by taxonomic masking and dimensionality disadvantage.
 
+**Figure 4** distils this asymmetry into detection response curves at a representative noise level (SD = 1%). The European pastoral curve (green) rises steeply, crossing 80% at ~0.25× signal. The EAC × European curve (red) is flat at ~28% across all signal strengths — the defining signature of operational unidentifiability (∂D/∂s ≈ 0). The indigenous indicator curves (orange, dark green) rise at intermediate rates, crossing 80% at 0.63× and 0.49× respectively. The contrast between the rising and flat curves is the visual proof that the 0% empirical detection rate reflects structural blindness, not insufficient signal.
+
+![Figure 4: Detection Response Curves](figures/paper8_detection_response_curves.png)
+
 Three structural constraints produce this asymmetry:
 
 1. **Domain blindness.** European indicators measure pastoral/cereal taxa. EAC alters Amaranthaceae. The indicator set is orthogonal to the transformation — no amount of signal increase can overcome this.
