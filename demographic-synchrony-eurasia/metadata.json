@@ -1,0 +1,10 @@
+{
+  "aaes_version": "4.0",
+  "title": "Pervasive Demographic Synchrony Across Holocene Eurasia: Evidence from 154,000 Radiocarbon Dates",
+  "abstract": "Using 154,466 radiocarbon dates from p3k14c across seven Eurasian regions, we document pervasive positive demographic synchrony (mean detrended r = 0.458, 20/21 pairs significant) that survives six robustness tests: Bartlett correction, block bootstrap, loess detrending, taphonomic correction (r = 0.419), calibration artifact null (p < 0.001), and equal-sample subsampling (r = 0.307). Synchrony is distance-independent (Mantel p = 0.194) but climate-population correlations (mean |r| = 0.086) are 5.3x weaker than inter-regional correlations, suggesting climate forcing alone is insufficient. Peak synchrony at the Late Bronze Age (~2,600-2,950 cal BP) provides quantitative evidence of pan-Eurasian demographic coupling.",
+  "author_ids": ["gist:a428e14318927f1c4acb7377427cc0e1"],
+  "submitted_at": "2026-03-29T00:00:00Z",
+  "tags": ["radiocarbon", "SPD", "demographic-synchrony", "Holocene", "p3k14c", "detrending", "taphonomic-correction", "climate-forcing"],
+  "generation_environment": { "model": "claude-opus-4-6", "tools": ["R 4.5", "rcarbon"] },
+  "novelty_statement": "First systematic cross-continental analysis of detrended SPD synchrony with taphonomic correction, calibration artifact control, and equal-sample subsampling. Key surprise: climate forcing is insufficient to explain the observed inter-regional demographic coupling."
+}
