@@ -1,15 +1,15 @@
 # Pervasive Demographic Synchrony Across Holocene Eurasia: Evidence from 154,000 Radiocarbon Dates
 
-**Version**: 2.0
+**Version**: 3.0
 **Date**: 2026-03-29
 
 ---
 
 ## Abstract
 
-Whether human populations across distant regions experienced synchronous demographic fluctuations during the Holocene remains unresolved. Previous studies of summed probability distributions (SPDs) of radiocarbon dates have documented regional population trajectories, but systematic cross-continental comparisons with appropriate detrending and artifact controls have not been attempted. Here we analyse 154,466 radiocarbon dates from the p3k14c database across seven regions spanning western Europe to East Asia (Britain, western Europe, eastern Europe, Scandinavia, the Near East, China, and Japan). After first-difference detrending, 20 of 21 inter-regional pairs show significant positive correlation (mean detrended r = 0.458, Benjamini-Hochberg adjusted p < 0.05). This synchrony survives six independent robustness tests: Bartlett autocorrelation correction (20/21), block bootstrap (16/21, all non-Japan pairs), loess detrending (19/21, mean r = 0.338), taphonomic correction following Surovell et al. (18/21, mean r = 0.419), a calibration artifact null model (observed r = 0.48 vs null r approximately 0.00, p < 0.001), and equal-sample subsampling (mean r = 0.307, all pairs positive). A Mantel test shows no significant distance-decay (p = 0.194), but a comparison with a synthetic climate proxy reveals that climate-population correlations are 5.3 times weaker than inter-regional population correlations. Climate forcing alone is therefore insufficient to explain the observed synchrony. The mechanism remains an open question: candidates include shared climate sensitivity, parallel agricultural development trajectories, pandemic disease networks, and intrinsic population-resource dynamics that produce similar cycle frequencies across independent systems. Rolling synchrony identifies peak coupling at the Late Bronze Age/Early Iron Age transition (~2,600-2,950 cal BP) and minimum coupling during Neolithicisation (~7,250-7,600 cal BP). We argue that the existence of pervasive demographic synchrony --- regardless of its mechanism --- has implications for how civilisational collapse and resilience should be studied: as system-level properties of a coupled network rather than local failures.
+Whether human populations across distant regions experienced synchronous demographic fluctuations during the Holocene remains unresolved. Previous studies of summed probability distributions (SPDs) of radiocarbon dates have documented regional population trajectories, but systematic cross-continental comparisons with appropriate detrending and artifact controls have not been attempted. Here we analyse 154,466 radiocarbon dates from the p3k14c database across seven regions spanning western Europe to East Asia (Britain, western Europe, eastern Europe, Scandinavia, the Near East, China, and Japan). After first-difference detrending, 20 of 21 inter-regional pairs show significant positive correlation (mean detrended r = 0.458, Benjamini-Hochberg adjusted p < 0.05). This synchrony survives six independent robustness tests: Bartlett autocorrelation correction (20/21), block bootstrap (16/21, all non-Japan pairs), loess detrending (19/21, mean r = 0.338), taphonomic correction following Surovell et al. (18/21, mean r = 0.419), a calibration artifact null model (observed r = 0.48 vs null r approximately 0.00, p < 0.001), and equal-sample subsampling (mean r = 0.307, all pairs positive). A Mantel test shows no significant distance-decay (p = 0.194), but a comparison with a synthetic climate proxy reveals that climate-population correlations are 5.3 times weaker than inter-regional population correlations. Climate forcing alone is therefore insufficient to explain the observed synchrony. Spectral decomposition reveals that synchrony is concentrated at high frequencies (100--500 years, mean r = 0.420, all 21 pairs positive) while the medium-frequency band (500--1,500 years, mean r = 0.057) where climate forcing should operate most strongly shows near-zero synchrony --- a frequency-domain falsification of simple climate models. Low-frequency (millennial) synchrony is pair-specific, not universal (range r = -0.96 to +0.96), reflecting region-dependent civilisational trajectories rather than shared forcing. Rolling synchrony identifies peak coupling at the Late Bronze Age/Early Iron Age transition (~2,600-2,950 cal BP) and minimum coupling during Neolithicisation (~7,250-7,600 cal BP). We argue that the existence of pervasive demographic synchrony --- regardless of its mechanism --- has implications for how civilisational collapse and resilience should be studied: as system-level properties of a coupled network rather than local failures.
 
-**Keywords**: radiocarbon, summed probability distribution, demographic synchrony, Holocene, p3k14c, population dynamics, detrending, taphonomic correction
+**Keywords**: radiocarbon, summed probability distribution, demographic synchrony, Holocene, p3k14c, population dynamics, detrending, taphonomic correction, spectral analysis
 
 ---
 
@@ -95,6 +95,10 @@ Geographic distance-synchrony relationship was tested by Mantel test (9,999 perm
 ### 2.10 Climate proxy comparison
 
 A synthetic GISP2-like climate proxy was constructed at 50-year resolution based on the Holocene Thermal Maximum, Neoglaciation cooling, and Bond events (9.3 ka, 8.2 ka, 5.9 ka, 4.2 ka, 3.2 ka, 2.8 ka, 1.4 ka). Detrended correlations between this proxy and each regional SPD were computed. Additionally, a binary climate deterioration index identified five major events, and population behaviour during crisis versus stable periods was compared.
+
+### 2.11 Spectral decomposition
+
+To identify which frequency bands carry the synchrony signal, bandpass filtering was applied via running-mean subtraction. Each regional SPD was decomposed into three bands: high frequency (100--500 year cycles; raw SPD minus 500-year running mean), medium frequency (500--1,500 year cycles; 500-year smooth minus 1,500-year smooth), and low frequency (1,500--5,000 year cycles; 1,500-year smooth minus 5,000-year smooth). Pairwise correlations were computed within each band for all 21 pairs. A GISP2-based temperature reconstruction (Alley, 2000) interpolated to 50-year resolution was compared with SPDs in each frequency band.
 
 ---
 
@@ -187,6 +191,25 @@ Detrended correlations between a synthetic climate proxy and regional SPDs are w
 
 No region shows a significant climate-population correlation after detrending. Climate-SPD correlations (mean |r| = 0.086) are 5.3 times weaker than inter-regional SPD correlations (mean r = 0.458). During known climate deterioration windows, most regions show above-average populations, not below.
 
+### 3.11 Spectral decomposition: frequency structure of synchrony
+
+Bandpass filtering reveals that synchrony is not uniform across timescales:
+
+| Band | Period | Mean r | All positive? | Sig. pairs |
+|------|--------|--------|---------------|------------|
+| High | 100--500 yr | **0.420** | **21/21** | 20/21 |
+| Medium | 500--1,500 yr | 0.057 | 11/21 | 11/21 |
+| Low | 1,500--5,000 yr | 0.095 | 12/21 | 14/21 |
+| First-diff (baseline) | Mixed | 0.458 | 21/21 | 20/21 |
+
+**High-frequency synchrony (100--500 years) is the most universal signal**: all 21 pairs are positive, 20 are significant, and the variance is lowest (SD = 0.162). This band captures centennial-scale demographic fluctuations that are shared across all regions.
+
+**Medium-frequency synchrony (500--1,500 years) is near zero**: mean r = 0.057, median r = 0.002. This is the timescale at which climate forcing --- Bond cycles (~1,500 years), century-scale droughts --- should create synchrony if climate were the primary driver. Its near-absence constitutes a frequency-domain confirmation that climate forcing is insufficient to explain the observed synchrony.
+
+**Low-frequency synchrony (1,500--5,000 years) is pair-specific, not universal**: the range spans from r = -0.962 (E. Europe x Scandinavia) to r = +0.956 (Britain x China). Some region pairs share millennial-scale civilisational trajectories while others are anti-correlated. Scandinavia is consistently anti-correlated with other European regions at this timescale, likely reflecting its delayed and distinct Neolithic trajectory.
+
+Band-specific GISP2-SPD correlations are near zero at high and medium frequencies (mean |r| = 0.03 and 0.12, respectively) and regionally heterogeneous at low frequencies (range: -0.741 to +0.629, mean = -0.110), confirming that no single climate signal drives the observed synchrony at any timescale.
+
 ---
 
 ## 4. Discussion
@@ -199,25 +222,23 @@ The persistence of synchrony across these tests argues against any single method
 
 Japan is consistently the weakest contributor to the synchrony signal, but this is attributable to sample size (1,433 dates, versus 4,000--30,000 for other regions) rather than absence of synchrony: China-Japan retains significance in most tests despite Japan's small sample.
 
-### 4.2 Climate forcing is insufficient
+### 4.2 Climate forcing is insufficient: the frequency-domain evidence
 
-The comparison with a synthetic climate proxy reveals that climate alone cannot explain the observed synchrony. No region shows significant detrended correlation with climate (mean |r| = 0.086), and climate-population correlations are 5.3 times weaker than inter-regional population correlations. During known climate deterioration events, populations tend to be above average, not below.
+The insufficiency of climate forcing is supported by two independent lines of evidence. First, no region shows significant detrended correlation with a synthetic climate proxy (mean |r| = 0.086), and climate-population correlations are 5.3 times weaker than inter-regional population correlations. Second, and more diagnostic, the spectral decomposition reveals that synchrony is near zero (mean r = 0.057) in the 500--1,500 year band --- precisely the timescale at which climate forcing (Bond cycles, century-scale droughts) should create the strongest inter-regional coupling. If climate were the primary synchroniser, this band should show the strongest, not the weakest, synchrony.
 
-This does not mean climate plays no role. Climate may contribute to synchrony through mechanisms that operate on timescales our analysis cannot resolve, or through nonlinear threshold effects that a correlation analysis would not capture. The 8.2 ka event analysis shows clear population impacts in some regions. However, climate forcing is insufficient as a complete explanation.
+The near-absence of medium-frequency synchrony constitutes a frequency-domain falsification of simple climate forcing models. Climate may contribute at specific events (the 8.2 ka event shows clear population impacts in some regions) but cannot explain the pervasive pattern.
 
-### 4.3 If not climate, then what?
+### 4.3 The frequency structure as mechanistic constraint
 
-The distance-independence of synchrony (Mantel p = 0.194, though we note this test has limited power with 7 regions) combined with the insufficiency of climate forcing poses a puzzle. Several mechanisms could contribute:
+The spectral decomposition provides strong constraints on the mechanism of synchrony. The three frequency bands tell different stories:
 
-**Parallel agricultural trajectories.** Agricultural populations may have similar inherent growth dynamics --- exponential growth followed by resource overshoot and correction --- that produce similar cycle frequencies independently. If Holocene agricultural societies worldwide experienced boom-bust cycles with similar periodicity (500--1,000 years), their SPDs would appear synchronous without any causal connection.
+**High-frequency synchrony (100--500 years, mean r = 0.420, all 21 pairs positive)** is the most universal signal. This band captures centennial-scale fluctuations that are shared across all regions regardless of geographic distance or cultural context. Two candidate drivers operate at this timescale: (a) shared responses to decadal-to-centennial climate variability (solar cycles, volcanic forcing), and (b) IntCal20 calibration curve artifacts, whose spectral power is concentrated at 100--200 year periodicities. Disentangling these requires simulation with region-specific parametric null models, which we identify as the most important future analysis.
 
-**Pandemic disease networks.** Long-distance pathogen transmission along trade routes could synchronise population collapses. The Late Bronze Age peak in synchrony (~2,600-2,950 cal BP) coincides with intensifying long-distance exchange networks (tin, copper, lapis lazuli).
+**Medium-frequency near-absence (500--1,500 years, mean r = 0.057)** rules out Bond cycles, centennial droughts, and similar sub-millennial climate forcing as primary synchronisers. At this timescale, demographic trajectories are predominantly shaped by local factors: regional agricultural intensification, political centralisation, and cultural-specific responses to environmental change.
 
-**Shared sensitivity to solar variability.** Bond events (roughly ~1,500-year periodicity) affect both hemispheres simultaneously through solar forcing. Even if the local climate response differs, the shared timing of perturbations could synchronise population dynamics.
+**Low-frequency pair-specificity (1,500--5,000 years, mean r = 0.095, range -0.962 to +0.956)** reveals that millennial-scale civilisational trajectories are not universal but region-pair-dependent. Britain and China share remarkably parallel trajectories (r = +0.956), while Scandinavia is anti-correlated with most of Europe (r = -0.664 to -0.962), reflecting its delayed and distinct Neolithic trajectory. This pair-specificity suggests that millennial-scale demographic patterns reflect regional historical contingencies --- the timing and nature of agricultural adoption --- rather than shared external forcing.
 
-**Intrinsic cycle convergence.** Complex systems with similar parameter spaces can converge to similar attractor dynamics without causal coupling (phase synchronisation through shared parameter sensitivity rather than shared forcing).
-
-Distinguishing these mechanisms requires analysis beyond the scope of the present study. We note, however, that the **temporal structure of synchrony** provides constraints: the peak at the Late Bronze Age and minimum during Neolithicisation are most consistent with a combination of shared climatic perturbations (producing the baseline synchrony) and cultural connectivity (amplifying synchrony during periods of intensified exchange).
+Taken together, the frequency structure suggests that the pervasive synchrony captured by first-differencing (which emphasises high frequencies) reflects primarily centennial-scale co-fluctuations, while the much-discussed parallels in civilisational rise and fall are pair-specific rather than universal. The mechanism of centennial synchrony remains an open question, with calibration artifacts, shared climate responses, and intrinsic population dynamics all requiring further investigation.
 
 ### 4.4 The Late Bronze Age synchrony peak
 
@@ -255,13 +276,15 @@ The contrast between our finding (SPD x SPD synchrony survives detrending) and a
 
 2. The synchrony is distance-independent (Mantel p = 0.194, noting limited power), consistent with a global rather than diffusion-based mechanism.
 
-3. Climate forcing is insufficient: climate-population correlations (mean |r| = 0.086) are 5.3 times weaker than inter-regional population correlations. The mechanism of synchrony remains an open question.
+3. Climate forcing is insufficient: climate-population correlations (mean |r| = 0.086) are 5.3 times weaker than inter-regional population correlations. Spectral decomposition provides a frequency-domain falsification: synchrony is near zero (mean r = 0.057) in the 500--1,500 year band where climate forcing should be strongest.
 
-4. The Late Bronze Age/Early Iron Age transition (~2,600-2,950 cal BP) shows the strongest demographic coupling of the entire Holocene, providing quantitative evidence that the collapses and transitions of this period were part of a pan-Eurasian phenomenon.
+4. The most universal synchrony operates at centennial scales (100--500 years, mean r = 0.420, all 21 pairs positive), while millennial-scale synchrony is pair-specific (range -0.96 to +0.96), reflecting region-dependent civilisational trajectories rather than shared forcing.
 
-5. The mid-Holocene Neolithicisation (~7,250-7,600 cal BP) shows minimum synchrony, consistent with agricultural adoption as a locally-paced process.
+5. The Late Bronze Age/Early Iron Age transition (~2,600-2,950 cal BP) shows the strongest demographic coupling of the entire Holocene, providing quantitative evidence that the collapses and transitions of this period were part of a pan-Eurasian phenomenon.
 
-6. Absolute correlation magnitudes are sample-size-dependent (full-data r = 0.529 vs subsampled r = 0.307 for non-Japan pairs). We recommend that future studies report both estimates.
+6. The mid-Holocene Neolithicisation (~7,250-7,600 cal BP) shows minimum synchrony, consistent with agricultural adoption as a locally-paced process.
+
+7. Absolute correlation magnitudes are sample-size-dependent (full-data r = 0.529 vs subsampled r = 0.307 for non-Japan pairs). We recommend that future studies report both estimates.
 
 ---
 
