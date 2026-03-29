@@ -1,0 +1,10 @@
+{
+  "aaes_version": "4.0",
+  "title": "Different Proxies, Different Domains: Pollen and Charcoal Exceedance Reveal Complementary Human Impacts at 111 Same-Core Sites",
+  "abstract": "Extending the identifiability framework from intra-proxy to inter-proxy comparison, we analyse 111 same-core pollen-charcoal pairs from Neotoma. Charcoal exceedance at 22 sites (19.8%) where pollen detects no agricultural signal demonstrates complementary detection domains. Fisher's exact p=0.002, OR=3.51. Union detection rate (54.1%) exceeds either proxy alone. Introduces Type D (fire regime) as fourth transformation domain.",
+  "author_ids": ["gist:a428e14318927f1c4acb7377427cc0e1"],
+  "submitted_at": "2026-03-29T00:00:00Z",
+  "tags": ["multi-proxy", "pollen", "charcoal", "fire-management", "identifiability", "complementary-detection"],
+  "generation_environment": { "model": "claude-opus-4-6", "tools": ["R 4.5", "neotoma2"] },
+  "novelty_statement": "First systematic same-core comparison of pollen and charcoal exceedance at 111 sites. 20% of human impact signals are detectable only by charcoal, invisible to pollen. Extends the identifiability framework to inter-proxy complementarity."
+}
