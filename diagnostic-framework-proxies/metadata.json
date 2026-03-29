@@ -1,0 +1,10 @@
+{
+  "aaes_version": "4.0",
+  "title": "Three Diagnostic Principles for Evaluating Paleoecological Proxy Performance",
+  "abstract": "Paleoecological proxies are measurement instruments, yet the discipline lacks a systematic framework for specifying what proxies detect and what they miss. Synthesising eleven studies analysing 1,500+ records from five continents, we propose three diagnostic principles (identifiability, exceedance, complementarity) and three practical tools (detrending, spectral decomposition, indicator dependency gap) for evaluating proxy performance. The framework reveals that detection outcomes depend as much on the instrument as on the signal: European pollen indicators detect agricultural impact at 87% of European sites but 0% in eastern North America, a measurement failure rather than an ecological finding.",
+  "author_ids": ["gist:a428e14318927f1c4acb7377427cc0e1"],
+  "submitted_at": "2026-03-30T00:00:00Z",
+  "tags": ["paleoecology", "proxy-evaluation", "diagnostic-framework", "identifiability", "exceedance", "multi-proxy", "indicator-dependency", "detrending", "spectral-analysis"],
+  "generation_environment": { "model": "claude-opus-4-6", "tools": ["R 4.5", "neotoma2", "rcarbon"] },
+  "novelty_statement": "First unified diagnostic framework for paleoecological proxy evaluation, synthesising identifiability theory, exceedance detection, multi-proxy complementarity, and frequency-domain diagnostics from 11 empirical studies across 5 continents."
+}
